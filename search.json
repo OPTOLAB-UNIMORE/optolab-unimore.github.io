@@ -1,0 +1,275 @@
+[
+  {
+    "objectID": "team.html",
+    "href": "team.html",
+    "title": "Team",
+    "section": "",
+    "text": "The team directory is awaiting verified institutional information. The placeholders below define the intended profile structure and do not represent real people or roles.\n\n\n\n01\n\n\nMember name to verify\nAcademic role to verify\nShort biography and research interests to be supplied and approved.\nInstitutional profile · ORCID · Scholar · GitHub\n\n\n\n\n02\n\n\nMember name to verify\nAcademic role to verify\nShort biography and research interests to be supplied and approved.\nInstitutional profile · ORCID · Scholar · GitHub\n\n\n\n\n03\n\n\nMember name to verify\nAcademic role to verify\nShort biography and research interests to be supplied and approved.\nInstitutional profile · ORCID · Scholar · GitHub\n\n\n\nSee CONTENT-TODO.md for the data required for each member.\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "Our research is organized around the complete optical measurement chain. The descriptions below are intentionally broad pending institutional review; they do not claim clinical validation, funding or specific performance outcomes."
+  },
+  {
+    "objectID": "research.html#ophthalmic-instrumentation",
+    "href": "research.html#ophthalmic-instrumentation",
+    "title": "Research",
+    "section": "Ophthalmic instrumentation",
+    "text": "Ophthalmic instrumentation\nWe explore optical and optoelectronic concepts for research instruments that interrogate or image the eye. Relevant work may combine illumination design, sensing geometry, electronic acquisition and computational analysis."
+  },
+  {
+    "objectID": "research.html#biomedical-optical-imaging",
+    "href": "research.html#biomedical-optical-imaging",
+    "title": "Research",
+    "section": "Biomedical optical imaging",
+    "text": "Biomedical optical imaging\nWe study imaging systems in which optical architecture, acquisition strategy and computation are designed together around a biomedical measurement question."
+  },
+  {
+    "objectID": "research.html#wearable-optical-sensing",
+    "href": "research.html#wearable-optical-sensing",
+    "title": "Research",
+    "section": "Wearable optical sensing",
+    "text": "Wearable optical sensing\nThis area considers compact optical interfaces, motion-aware acquisition, embedded electronics and signal processing for wearable research platforms."
+  },
+  {
+    "objectID": "research.html#optoelectronic-instrumentation",
+    "href": "research.html#optoelectronic-instrumentation",
+    "title": "Research",
+    "section": "Optoelectronic instrumentation",
+    "text": "Optoelectronic instrumentation\nWe develop experimental measurement chains that connect light sources, detectors, analog and digital electronics, control software and data interpretation."
+  },
+  {
+    "objectID": "research.html#embedded-acquisition-systems",
+    "href": "research.html#embedded-acquisition-systems",
+    "title": "Research",
+    "section": "Embedded acquisition systems",
+    "text": "Embedded acquisition systems\nEmbedded platforms support synchronized acquisition, experimental control, communication and rapid prototyping. Readable protocols and inspectable software are part of the research workflow."
+  },
+  {
+    "objectID": "research.html#colorimetry-and-spectral-sensing",
+    "href": "research.html#colorimetry-and-spectral-sensing",
+    "title": "Research",
+    "section": "Colorimetry and spectral sensing",
+    "text": "Colorimetry and spectral sensing\nWe investigate colorimetric, photometric, radiometric and multispectral measurement approaches, with attention to sensor response and calibration."
+  },
+  {
+    "objectID": "research.html#computational-imaging-and-artificial-intelligence",
+    "href": "research.html#computational-imaging-and-artificial-intelligence",
+    "title": "Research",
+    "section": "Computational imaging and artificial intelligence",
+    "text": "Computational imaging and artificial intelligence\nWe explore computational approaches for reconstruction, feature extraction and interpretation of optical data. Any future claims about datasets, models or performance will be added only after verification.\n\n\n\n\n\n\nNote\n\n\n\nThe official laboratory name, extended title, institutional description and detailed research portfolio remain to be confirmed. See CONTENT-TODO.md."
+  },
+  {
+    "objectID": "projects/items/wearable-optics.html",
+    "href": "projects/items/wearable-optics.html",
+    "title": "Wearable Optical Sensing Platform",
+    "section": "",
+    "text": "Demonstrative content — replace before institutional release"
+  },
+  {
+    "objectID": "projects/items/wearable-optics.html#research-context",
+    "href": "projects/items/wearable-optics.html#research-context",
+    "title": "Wearable Optical Sensing Platform",
+    "section": "Research context",
+    "text": "Research context\nWearable optical sensing brings together tissue–light interaction, optomechanical interfaces, low-noise acquisition, embedded processing and robust signal interpretation."
+  },
+  {
+    "objectID": "projects/items/wearable-optics.html#demonstrator-scope",
+    "href": "projects/items/wearable-optics.html#demonstrator-scope",
+    "title": "Wearable Optical Sensing Platform",
+    "section": "Demonstrator scope",
+    "text": "Demonstrator scope\nThis page reserves a structure for a future, publishable OptoLAB project. No device specification, study, funding source, clinical claim or quantitative result is implied."
+  },
+  {
+    "objectID": "projects/items/wearable-optics.html#before-publication",
+    "href": "projects/items/wearable-optics.html#before-publication",
+    "title": "Wearable Optical Sensing Platform",
+    "section": "Before publication",
+    "text": "Before publication\nAdd only reviewed information: the research question, responsible team, institutional partners, approved images, project status and links to public outputs."
+  },
+  {
+    "objectID": "projects/items/embedded-camera.html",
+    "href": "projects/items/embedded-camera.html",
+    "title": "Embedded Camera Acquisition",
+    "section": "",
+    "text": "Demonstrative content — replace before institutional release"
+  },
+  {
+    "objectID": "projects/items/embedded-camera.html#research-context",
+    "href": "projects/items/embedded-camera.html#research-context",
+    "title": "Embedded Camera Acquisition",
+    "section": "Research context",
+    "text": "Research context\nEmbedded cameras provide a compact platform for exploring how sensor configuration, memory, image compression and transfer protocols affect an acquisition chain."
+  },
+  {
+    "objectID": "projects/items/embedded-camera.html#demonstrator-scope",
+    "href": "projects/items/embedded-camera.html#demonstrator-scope",
+    "title": "Embedded Camera Acquisition",
+    "section": "Demonstrator scope",
+    "text": "Demonstrator scope\nThis demonstrator links ESP32-S3 firmware with a PySide6 desktop interface over a readable TCP protocol. The public educational resource supports live JPEG streaming, JSON control commands and still-image capture."
+  },
+  {
+    "objectID": "projects/items/embedded-camera.html#related-public-resource",
+    "href": "projects/items/embedded-camera.html#related-public-resource",
+    "title": "Embedded Camera Acquisition",
+    "section": "Related public resource",
+    "text": "Related public resource\nSee esp32-s3-camera-gui for the verified public description, source code and teaching notes."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "OptoLAB",
+    "section": "",
+    "text": "University of Modena and Reggio Emilia\n\n\n\n\nOptical technologies for biomedical imaging, sensing and ophthalmic instrumentation.\n\n\nOptoLAB brings together optics, electronics, embedded systems and computation to explore new research instruments—from the first photon at the sensor to interpretable data.\n\n\nExplore our research Contact the lab\n\n\n\n\n\n\n\nAbstract illustration of spectral light beams crossing optical elements and converging on a sensor"
+  },
+  {
+    "objectID": "index.html#across-optics-instruments-and-computation",
+    "href": "index.html#across-optics-instruments-and-computation",
+    "title": "OptoLAB",
+    "section": "Across optics, instruments and computation",
+    "text": "Across optics, instruments and computation\nWe investigate measurement chains as connected systems: optical interaction, sensor response, electronic acquisition and computational interpretation."
+  },
+  {
+    "objectID": "index.html#from-measurement-idea-to-research-demonstrator",
+    "href": "index.html#from-measurement-idea-to-research-demonstrator",
+    "title": "OptoLAB",
+    "section": "From measurement idea to research demonstrator",
+    "text": "From measurement idea to research demonstrator\nThese provisional examples describe technology directions, not funded projects or validated outcomes. They will be replaced as institutional content is reviewed."
+  },
+  {
+    "objectID": "index.html#building-the-complete-measurement-chain",
+    "href": "index.html#building-the-complete-measurement-chain",
+    "title": "OptoLAB",
+    "section": "Building the complete measurement chain",
+    "text": "Building the complete measurement chain\nOur work spans the interfaces between light, hardware and information. The current capability map is intentionally qualitative while facilities and equipment records are being verified."
+  },
+  {
+    "objectID": "index.html#inspectable-tools-for-learning-and-research",
+    "href": "index.html#inspectable-tools-for-learning-and-research",
+    "title": "OptoLAB",
+    "section": "Inspectable tools for learning and research",
+    "text": "Inspectable tools for learning and research\nPublic repositories make methods easier to examine, teach and extend. Explore verified OptoLAB resources for sensor calibration, embedded camera acquisition and serial instrumentation.\nBrowse software & resources Visit GitHub"
+  },
+  {
+    "objectID": "index.html#a-measurement-challenge-is-a-good-place-to-start.",
+    "href": "index.html#a-measurement-challenge-is-a-good-place-to-start.",
+    "title": "OptoLAB",
+    "section": "A measurement challenge is a good place to start.",
+    "text": "A measurement challenge is a good place to start.\nWe welcome conversations with academic and industrial partners working at the intersection of biomedical optics, sensing and research instrumentation.\nStart a conversation"
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "OptoLAB welcomes enquiries about scientific collaboration, technology development, student projects and shared research questions in biomedical optics and instrumentation.\n\n\n\nUniversity of Modena and Reggio Emilia\nVisit the OPTOLAB-UNIMORE GitHub organization\n\n\nDepartment\nTo be verified\nInstitutional address\nTo be verified\nInstitutional email\nTo be verified\nMap\nTo be added after the address is verified\n\n\n\n\n\n\n\n\nWarning\n\n\n\nContact details must be verified before public communication. No email address, telephone number or physical location has been inferred."
+  },
+  {
+    "objectID": "contact.html#start-a-research-conversation",
+    "href": "contact.html#start-a-research-conversation",
+    "title": "Contact",
+    "section": "",
+    "text": "OptoLAB welcomes enquiries about scientific collaboration, technology development, student projects and shared research questions in biomedical optics and instrumentation.\n\n\n\nUniversity of Modena and Reggio Emilia\nVisit the OPTOLAB-UNIMORE GitHub organization\n\n\nDepartment\nTo be verified\nInstitutional address\nTo be verified\nInstitutional email\nTo be verified\nMap\nTo be added after the address is verified\n\n\n\n\n\n\n\n\nWarning\n\n\n\nContact details must be verified before public communication. No email address, telephone number or physical location has been inferred."
+  },
+  {
+    "objectID": "facilities.html",
+    "href": "facilities.html",
+    "title": "Facilities & Capabilities",
+    "section": "",
+    "text": "OptoLAB works across optical, electronic and computational prototyping. A verified equipment inventory is being prepared; no specific instrument, performance range or access condition is claimed on this page."
+  },
+  {
+    "objectID": "facilities.html#equipment-information-to-verify",
+    "href": "facilities.html#equipment-information-to-verify",
+    "title": "Facilities & Capabilities",
+    "section": "Equipment information to verify",
+    "text": "Equipment information to verify\nBefore this page becomes an equipment catalogue, each entry must include an approved name, manufacturer and model where appropriate, measurement purpose, key verified specifications, access conditions, responsible contact and an authorized image."
+  },
+  {
+    "objectID": "projects/index.html",
+    "href": "projects/index.html",
+    "title": "Projects",
+    "section": "",
+    "text": "The entries below are demonstrative content used to establish the site structure. They are not presented as funded projects or validated research results and must be replaced or formally reviewed before institutional communication.\n\n\n\n\n\n\n    \n      \n      \n    \n\n\n\n\n\n\n\nEmbedded Camera Acquisition\n\n\n\nTechnology demonstrator\n\nEmbedded systems\n\nImaging\n\n\n\nA technology demonstrator for camera streaming, device control and high-resolution snapshot capture.\n\n\n\n\n\n\n\n\n\nMultichannel Sensor Calibration\n\n\n\nResearch area\n\nSpectral sensing\n\nCalibration\n\n\n\nA research-area demonstrator for flexible calibration of compact photometric and radiometric sensors.\n\n\n\n\n\n\n\n\n\nWearable Optical Sensing Platform\n\n\n\nResearch area\n\nWearable sensing\n\nPrototyping\n\n\n\nA research-area placeholder for compact optical sensing and embedded acquisition.\n\n\n\n\n\nNo matching items\n Back to top"
+  },
+  {
+    "objectID": "projects/items/multichannel-calibration.html",
+    "href": "projects/items/multichannel-calibration.html",
+    "title": "Multichannel Sensor Calibration",
+    "section": "",
+    "text": "Demonstrative content — replace before institutional release"
+  },
+  {
+    "objectID": "projects/items/multichannel-calibration.html#research-context",
+    "href": "projects/items/multichannel-calibration.html#research-context",
+    "title": "Multichannel Sensor Calibration",
+    "section": "Research context",
+    "text": "Research context\nCompact multi-channel sensors can support photometric and radiometric measurements when their spectral response and calibration chain are treated explicitly."
+  },
+  {
+    "objectID": "projects/items/multichannel-calibration.html#demonstrator-scope",
+    "href": "projects/items/multichannel-calibration.html#demonstrator-scope",
+    "title": "Multichannel Sensor Calibration",
+    "section": "Demonstrator scope",
+    "text": "Demonstrator scope\nThis placeholder describes a possible workflow spanning reference measurements, calibration model development and verification on independent observations. It does not state performance figures or completed validation."
+  },
+  {
+    "objectID": "projects/items/multichannel-calibration.html#related-public-resource",
+    "href": "projects/items/multichannel-calibration.html#related-public-resource",
+    "title": "Multichannel Sensor Calibration",
+    "section": "Related public resource",
+    "text": "Related public resource\nThe public repository Calibration-Method-for-Multi-Channel-Sensor is intended to host code related to a paper on flexible calibration methods for low-cost photometric and radiometric measurements."
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "This page is ready for a verified BibTeX bibliography. No publications are listed yet because authorship, affiliations and bibliographic records must be reviewed before release."
+  },
+  {
+    "objectID": "publications.html#add-a-publication",
+    "href": "publications.html#add-a-publication",
+    "title": "Publications",
+    "section": "Add a publication",
+    "text": "Add a publication\nAdd a valid record to publications.bib, then cite it from this page with its BibTeX key. The repository README documents the workflow.\n\n\n\n\n\n\nImportant\n\n\n\nDo not publish placeholder citations or infer laboratory authorship from repository metadata."
+  },
+  {
+    "objectID": "software.html",
+    "href": "software.html",
+    "title": "Software & Resources",
+    "section": "",
+    "text": "The following cards are based only on public repository descriptions and README files retrieved from the OPTOLAB-UNIMORE GitHub organization."
+  },
+  {
+    "objectID": "software.html#calibration-method-for-multi-channel-sensor",
+    "href": "software.html#calibration-method-for-multi-channel-sensor",
+    "title": "Software & Resources",
+    "section": "Calibration Method for Multi-Channel Sensor",
+    "text": "Calibration Method for Multi-Channel Sensor\nRepository intended to contain code related to work on flexible calibration methods for low-cost photometric and radiometric measurements.\nOpen repository →"
+  },
+  {
+    "objectID": "software.html#esp32-s3-camera-gui",
+    "href": "software.html#esp32-s3-camera-gui",
+    "title": "Software & Resources",
+    "section": "ESP32-S3 Camera GUI",
+    "text": "ESP32-S3 Camera GUI\nEducational PySide6 GUI and ESP32-S3 firmware for Wi-Fi camera streaming, TCP control and high-resolution snapshot capture.\nOpen repository →"
+  },
+  {
+    "objectID": "software.html#educational-serial-monitor-gui",
+    "href": "software.html#educational-serial-monitor-gui",
+    "title": "Software & Resources",
+    "section": "Educational Serial Monitor GUI",
+    "text": "Educational Serial Monitor GUI\nEducational PySide6 desktop GUI for serial device control, live analog signal plotting, peak detection, data inspection and Arduino/ESP32 firmware examples.\nOpen repository →"
+  },
+  {
+    "objectID": "software.html#responsible-reuse",
+    "href": "software.html#responsible-reuse",
+    "title": "Software & Resources",
+    "section": "Responsible reuse",
+    "text": "Responsible reuse\nEach repository is the authoritative source for its requirements, setup instructions and current status. Review its README and license information before reuse."
+  }
+]
