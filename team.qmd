@@ -19,7 +19,7 @@ Measurement science and optoelectronic instrumentation for biomedical and ophtha
 
 <p class="person-email"><a href="mailto:luigi.rovati@unimore.it">luigi.rovati@unimore.it</a></p>
 
-[UniFind profile](https://unimore.unifind.cineca.it/resource/person/66046?language=en_US) · [ResearchGate](https://www.researchgate.net/profile/Luigi-Rovati)
+[UniFind profile](https://unimore.unifind.cineca.it/resource/person/66046?language=en_US) · [Google Scholar](https://scholar.google.com/scholar?q=Luigi+Rovati+University+of+Modena+and+Reggio+Emilia) · [ResearchGate](https://www.researchgate.net/profile/Luigi-Rovati)
 :::
 
 ::: {.person-card}
@@ -33,7 +33,7 @@ Electronic measurements, sensor systems and measurement methods for industrial, 
 
 <p class="person-email"><a href="mailto:stefano.cattini@unimore.it">stefano.cattini@unimore.it</a></p>
 
-[UniFind profile](https://unimore.unifind.cineca.it/resource/person/70100) · [ResearchGate](https://www.researchgate.net/profile/Stefano-Cattini) · [ORCID](https://orcid.org/0000-0001-7466-9629)
+[UniFind profile](https://unimore.unifind.cineca.it/resource/person/70100) · [Google Scholar](https://scholar.google.com/scholar?q=Stefano+Cattini+University+of+Modena+and+Reggio+Emilia) · [ResearchGate](https://www.researchgate.net/profile/Stefano-Cattini) · [ORCID](https://orcid.org/0000-0001-7466-9629)
 :::
 
 ::: {.person-card}
@@ -47,7 +47,7 @@ Biomedical optical instrumentation, ophthalmic imaging, image-quality assessment
 
 <p class="person-email"><a href="mailto:giovanni.gibertoni@unimore.it">giovanni.gibertoni@unimore.it</a></p>
 
-[UniFind profile](https://unimore.unifind.cineca.it/resource/person/172668) · [ResearchGate](https://www.researchgate.net/profile/Giovanni-Gibertoni) · [GitHub](https://github.com/gbrgnn)
+[UniFind profile](https://unimore.unifind.cineca.it/resource/person/172668) · [Google Scholar](https://scholar.google.com/scholar?q=Giovanni+Gibertoni+University+of+Modena+and+Reggio+Emilia) · [ResearchGate](https://www.researchgate.net/profile/Giovanni-Gibertoni) · [GitHub](https://github.com/gbrgnn)
 :::
 
 ::: {.person-card}
@@ -61,7 +61,7 @@ Optical measurement systems and sensor characterization, including LiDAR safety 
 
 <p class="person-email"><a href="mailto:davide.cassanelli@unimore.it">davide.cassanelli@unimore.it</a></p>
 
-[UniFind profile](https://unimore.unifind.cineca.it/individual?uri=http%3A%2F%2Firises.unimore.it%2Fresource%2Fperson%2F134454) · [ResearchGate](https://www.researchgate.net/profile/Davide-Cassanelli-2)
+[UniFind profile](https://unimore.unifind.cineca.it/individual?uri=http%3A%2F%2Firises.unimore.it%2Fresource%2Fperson%2F134454) · [Google Scholar](https://scholar.google.com/scholar?q=Davide+Cassanelli+University+of+Modena+and+Reggio+Emilia) · [ResearchGate](https://www.researchgate.net/profile/Davide-Cassanelli-2)
 :::
 
 ::: {.person-card}
@@ -75,7 +75,7 @@ Vision science, binocular vision, eye tracking, wearable systems and computation
 
 <p class="person-email"><a href="mailto:agostino.gibaldi@unimore.it">agostino.gibaldi@unimore.it</a></p>
 
-[UniFind profile](https://unimore.unifind.cineca.it/resource/person/274103) · [ResearchGate](https://www.researchgate.net/profile/Agostino-Gibaldi)
+[UniFind profile](https://unimore.unifind.cineca.it/resource/person/274103) · [Google Scholar](https://scholar.google.com/scholar?q=Agostino+Gibaldi+University+of+Modena+and+Reggio+Emilia) · [ResearchGate](https://www.researchgate.net/profile/Agostino-Gibaldi)
 :::
 
 ::: {.person-card}
@@ -89,7 +89,7 @@ Biomedical measurement systems, electronics, signal processing and sensor-based 
 
 <p class="person-email"><a href="mailto:daniele.goldoni@unimore.it">daniele.goldoni@unimore.it</a></p>
 
-[UniFind UNIMORE](https://unimore.unifind.cineca.it/) · [ResearchGate](https://www.researchgate.net/profile/Daniele-Goldoni) · [Google Scholar](https://scholar.google.com/citations?hl=en&user=KOyMMasAAAAJ)
+[UniFind UNIMORE](https://unimore.unifind.cineca.it/) · [Google Scholar](https://scholar.google.com/citations?hl=en&user=KOyMMasAAAAJ) · [ResearchGate](https://www.researchgate.net/profile/Daniele-Goldoni)
 :::
 
 ::: {.person-card}
@@ -103,6 +103,6 @@ Doctoral researcher working on compact optical sensors, flexible calibration and
 
 <p class="person-email"><a href="mailto:alberto.besozzi@unimore.it">alberto.besozzi@unimore.it</a></p>
 
-[UniFind profile](https://unimore.unifind.cineca.it/resource/person/232859) · [PhD programme](https://www.ict.unimore.it/phdStudents.asp) · [Recent publication](https://iris.unimore.it/handle/11380/1412808)
+[UniFind profile](https://unimore.unifind.cineca.it/resource/person/232859) · [Google Scholar](https://scholar.google.com/scholar?q=Alberto+Besozzi+University+of+Modena+and+Reggio+Emilia) · [PhD programme](https://www.ict.unimore.it/phdStudents.asp) · [Recent publication](https://iris.unimore.it/handle/11380/1412808)
 :::
 :::
