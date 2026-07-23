@@ -232,11 +232,9 @@ h1, h2, h3 {
   padding: 0 0 1.8rem;
 }
 
-.person-card > h3,
-.person-card > p,
-.person-card > .person-role {
-  margin-right: 1.7rem;
-  margin-left: 1.7rem;
+.person-card > :not(.person-photo) {
+  margin-right: 2rem;
+  margin-left: 2rem;
 }
 
 .person-card > h3 {
@@ -250,6 +248,17 @@ h1, h2, h3 {
   object-fit: cover;
   object-position: center 25%;
   border: 0;
+}
+
+.giovanni-photo {
+  object-position: center top;
+}
+
+.person-email {
+  margin-top: .85rem;
+  margin-bottom: .85rem;
+  font-weight: 700;
+  overflow-wrap: anywhere;
 }
 
 .person-initials {

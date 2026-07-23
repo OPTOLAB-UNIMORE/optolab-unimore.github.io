@@ -28,7 +28,7 @@ Items marked as complete were resolved from public UNIMORE profiles, the group w
 - [ ] Complete missing ORCID, Scholar and GitHub links where relevant
 - [x] Add publicly available profile photographs for six members
 - [ ] Obtain reuse authorization for every profile photograph
-- [ ] Add an authorized portrait for Alberto Besozzi
+- [x] Add a publicly available profile photograph for Alberto Besozzi
 
 ## Research and outputs
 

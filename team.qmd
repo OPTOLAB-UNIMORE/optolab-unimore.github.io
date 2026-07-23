@@ -17,7 +17,9 @@ OptoLAB is led by Prof. Luigi Rovati and brings together expertise in measuremen
 
 Measurement science and optoelectronic instrumentation for biomedical and ophthalmic applications, with particular attention to weak optical signals and metrological characterization.
 
-[UNIMORE profile](https://unimore.unifind.cineca.it/resource/person/66046?language=en_US) · [ResearchGate](https://www.researchgate.net/profile/Luigi-Rovati)
+<p class="person-email"><a href="mailto:luigi.rovati@unimore.it">luigi.rovati@unimore.it</a></p>
+
+[UniFind profile](https://unimore.unifind.cineca.it/resource/person/66046?language=en_US) · [ResearchGate](https://www.researchgate.net/profile/Luigi-Rovati)
 :::
 
 ::: {.person-card}
@@ -29,11 +31,13 @@ Measurement science and optoelectronic instrumentation for biomedical and ophtha
 
 Electronic measurements, sensor systems and measurement methods for industrial, automotive and biomedical applications.
 
-[UNIMORE profile](https://unimore.unifind.cineca.it/resource/person/70100) · [ResearchGate](https://www.researchgate.net/profile/Stefano-Cattini) · [ORCID](https://orcid.org/0000-0001-7466-9629)
+<p class="person-email"><a href="mailto:stefano.cattini@unimore.it">stefano.cattini@unimore.it</a></p>
+
+[UniFind profile](https://unimore.unifind.cineca.it/resource/person/70100) · [ResearchGate](https://www.researchgate.net/profile/Stefano-Cattini) · [ORCID](https://orcid.org/0000-0001-7466-9629)
 :::
 
 ::: {.person-card}
-<img class="person-photo" src="assets/images/team-giovanni-gibertoni.jpg" alt="Portrait of Giovanni Gibertoni">
+<img class="person-photo giovanni-photo" src="assets/images/team-giovanni-gibertoni.jpg" alt="Portrait of Giovanni Gibertoni">
 
 ### Giovanni Gibertoni
 
@@ -41,7 +45,9 @@ Electronic measurements, sensor systems and measurement methods for industrial, 
 
 Biomedical optical instrumentation, ophthalmic imaging, image-quality assessment and computational methods for ocular measurements.
 
-[UNIMORE profile](https://unimore.unifind.cineca.it/resource/person/172668) · [ResearchGate](https://www.researchgate.net/profile/Giovanni-Gibertoni) · [GitHub](https://github.com/gbrgnn)
+<p class="person-email"><a href="mailto:giovanni.gibertoni@unimore.it">giovanni.gibertoni@unimore.it</a></p>
+
+[UniFind profile](https://unimore.unifind.cineca.it/resource/person/172668) · [ResearchGate](https://www.researchgate.net/profile/Giovanni-Gibertoni) · [GitHub](https://github.com/gbrgnn)
 :::
 
 ::: {.person-card}
@@ -53,7 +59,9 @@ Biomedical optical instrumentation, ophthalmic imaging, image-quality assessment
 
 Optical measurement systems and sensor characterization, including LiDAR safety and portable fluorescence instrumentation.
 
-[Group profile](https://www.misure.unimore.it/staff/) · [ResearchGate](https://www.researchgate.net/profile/Davide-Cassanelli-2)
+<p class="person-email"><a href="mailto:davide.cassanelli@unimore.it">davide.cassanelli@unimore.it</a></p>
+
+[UniFind profile](https://unimore.unifind.cineca.it/individual?uri=http%3A%2F%2Firises.unimore.it%2Fresource%2Fperson%2F134454) · [ResearchGate](https://www.researchgate.net/profile/Davide-Cassanelli-2)
 :::
 
 ::: {.person-card}
@@ -65,7 +73,9 @@ Optical measurement systems and sensor characterization, including LiDAR safety 
 
 Vision science, binocular vision, eye tracking, wearable systems and computational models of visual behaviour.
 
-[UNIMORE profile](https://unimore.unifind.cineca.it/resource/person/274103) · [ResearchGate](https://www.researchgate.net/profile/Agostino-Gibaldi)
+<p class="person-email"><a href="mailto:agostino.gibaldi@unimore.it">agostino.gibaldi@unimore.it</a></p>
+
+[UniFind profile](https://unimore.unifind.cineca.it/resource/person/274103) · [ResearchGate](https://www.researchgate.net/profile/Agostino-Gibaldi)
 :::
 
 ::: {.person-card}
@@ -77,11 +87,13 @@ Vision science, binocular vision, eye tracking, wearable systems and computation
 
 Biomedical measurement systems, electronics, signal processing and sensor-based methods for biological and environmental analysis.
 
-[Group profile](https://www.misure.unimore.it/staff/) · [ResearchGate](https://www.researchgate.net/profile/Daniele-Goldoni) · [Google Scholar](https://scholar.google.com/citations?hl=en&user=KOyMMasAAAAJ)
+<p class="person-email"><a href="mailto:daniele.goldoni@unimore.it">daniele.goldoni@unimore.it</a></p>
+
+[UniFind UNIMORE](https://unimore.unifind.cineca.it/) · [ResearchGate](https://www.researchgate.net/profile/Daniele-Goldoni) · [Google Scholar](https://scholar.google.com/citations?hl=en&user=KOyMMasAAAAJ)
 :::
 
 ::: {.person-card}
-<div class="person-photo person-initials" role="img" aria-label="Profile placeholder with the initials AB">AB</div>
+<img class="person-photo" src="assets/images/team-alberto-besozzi.jpg" alt="Portrait of Alberto Besozzi">
 
 ### Alberto Besozzi
 
@@ -89,6 +101,8 @@ Biomedical measurement systems, electronics, signal processing and sensor-based 
 
 Doctoral researcher working on compact optical sensors, flexible calibration and wearable measurement systems under the supervision of Agostino Gibaldi and Luigi Rovati.
 
-[PhD programme](https://www.ict.unimore.it/phdStudents.asp) · [Recent publication](https://iris.unimore.it/handle/11380/1412808)
+<p class="person-email"><a href="mailto:alberto.besozzi@unimore.it">alberto.besozzi@unimore.it</a></p>
+
+[UniFind profile](https://unimore.unifind.cineca.it/resource/person/232859) · [PhD programme](https://www.ict.unimore.it/phdStudents.asp) · [Recent publication](https://iris.unimore.it/handle/11380/1412808)
 :::
 :::
