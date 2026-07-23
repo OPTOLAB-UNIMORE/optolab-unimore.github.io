@@ -10,28 +10,28 @@ OptoLAB welcomes enquiries about scientific collaboration, technology developmen
 
 ::: {.contact-panel}
 ::: {.contact-primary}
-### OptoLAB
+### Prof. Luigi Rovati
 
-**University of Modena and Reggio Emilia**
+**OptoLAB lead and main contact**
 
-[Visit the OPTOLAB-UNIMORE GitHub organization](https://github.com/OPTOLAB-UNIMORE)
+[luigi.rovati@unimore.it](mailto:luigi.rovati@unimore.it)
+
+[UNIMORE institutional profile](https://unimore.unifind.cineca.it/resource/person/66046?language=en_US)
 :::
 
 ::: {.contact-details}
-**Department**  
-To be verified
+**Department of Engineering “Enzo Ferrari”**<br>
+University of Modena and Reggio Emilia
 
-**Institutional address**  
-To be verified
+**Address**<br>
+Via Pietro Vivarelli 10, Building 26<br>
+41125 Modena, Italy
 
-**Institutional email**  
-To be verified
+**Public profiles**<br>
+[Measurements, Instrumentation and Sensors Group](https://www.misure.unimore.it/)<br>
+[OptoLAB on ResearchGate](https://www.researchgate.net/lab/OptoLab-Unimore-Luigi-Rovati)
 
-**Map**  
-To be added after the address is verified
+**Directions**<br>
+[Open the address in OpenStreetMap](https://www.openstreetmap.org/search?query=Via%20Pietro%20Vivarelli%2010%2C%20Modena)
 :::
-:::
-
-::: {.callout-warning}
-Contact details must be verified before public communication. No email address, telephone number or physical location has been inferred.
 :::

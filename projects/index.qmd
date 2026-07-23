@@ -1,6 +1,6 @@
 ---
 title: "Projects"
-description: "OptoLAB research areas and technology demonstrators."
+description: "Selected OptoLAB research directions and public outputs."
 canonical-url: "https://optolab-unimore.github.io/projects/"
 listing:
   contents: items
@@ -13,4 +13,4 @@ listing:
 page-layout: full
 ---
 
-The entries below are demonstrative content used to establish the site structure. They are **not presented as funded projects or validated research results** and must be replaced or formally reviewed before institutional communication.
+Selected OptoLAB research directions and public outputs. Each entry links to an institutional record, publication or open resource where available.

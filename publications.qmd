@@ -1,16 +1,27 @@
 ---
 title: "Publications"
-description: "A publication index prepared for verified OptoLAB bibliographic records."
+description: "Selected recent OptoLAB publications and research outputs."
 canonical-url: "https://optolab-unimore.github.io/publications.html"
 bibliography: publications.bib
 ---
 
-This page is ready for a verified BibTeX bibliography. No publications are listed yet because authorship, affiliations and bibliographic records must be reviewed before release.
+Selected recent outputs involving OptoLAB members. The links lead to DOI records or the UNIMORE institutional repository.
 
-## Add a publication
+## 2026
 
-Add a valid record to `publications.bib`, then cite it from this page with its BibTeX key. The repository [README](https://github.com/OPTOLAB-UNIMORE/optolab-unimore.github.io#adding-a-publication) documents the workflow.
+- Flexible calibration method: Photometric and radiometric measurements with compact low-cost multi-channel sensors. [@besozzi2026calibration] [IRIS record](https://iris.unimore.it/handle/11380/1412808)
+- Design and characterization of a portable fluorescence measuring system for on-site monitoring marine bio-constructors. [@cassanelli2026fluorescence] [IRIS record](https://iris.unimore.it/handle/11380/1405128)
+- PopEYE: an infrared ocular image dataset. [@gibertoni2026popeye] [Dataset record](https://doi.org/10.5281/zenodo.18430186)
 
-::: {.callout-important}
-Do not publish placeholder citations or infer laboratory authorship from repository metadata.
-:::
+## 2025
+
+- A simplified method for evaluating LiDAR optical safety. [@cattini2025lidar] [IRIS record](https://iris.unimore.it/handle/11380/1387908)
+- Enhancing ophthalmic exams with real-time eye position monitoring. [@gibertoni2025optocheck] [IRIS record](https://iris.unimore.it/handle/11380/1386368)
+
+## 2024
+
+- Size-resolved concentration estimation of nano-/micro-plastics for different salinity with nanoelectrode arrays. [@goldoni2024microplastics] [IRIS record](https://iris.unimore.it/handle/11380/1364249)
+
+## Earlier selected work
+
+- Vision-based eye image classification for ophthalmic measurement systems. [@gibertoni2023classification] [IRIS record](https://iris.unimore.it/handle/11380/1294625)

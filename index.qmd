@@ -15,7 +15,7 @@ page-layout: full
 
 <p class="hero-lead">Optical technologies for biomedical imaging, sensing and ophthalmic instrumentation.</p>
 
-<p class="hero-context">OptoLAB brings together optics, electronics, embedded systems and computation to explore new research instruments—from the first photon at the sensor to interpretable data.</p>
+<p class="hero-context">Led by Prof. Luigi Rovati, OptoLAB brings together optics, electronics, embedded systems and computation to develop and characterize optical and optoelectronic measurement systems for biomedical and ophthalmic applications.</p>
 
 ::: {.hero-actions}
 [Explore our research](research.qmd){.btn .btn-primary .btn-lg}
@@ -42,7 +42,7 @@ We investigate measurement chains as connected systems: optical interaction, sen
 
 ### Ophthalmic instrumentation
 
-Optical and optoelectronic approaches for studying the eye and supporting the development of research instrumentation.
+Optical and optoelectronic approaches for eye diagnostics, imaging and measurement-quality support.
 
 [Explore the area →](research.qmd#ophthalmic-instrumentation)
 :::
@@ -52,7 +52,7 @@ Optical and optoelectronic approaches for studying the eye and supporting the de
 
 ### Biomedical optical imaging
 
-Imaging architectures and acquisition methods designed around biological measurement questions.
+Imaging architectures and acquisition methods designed around biological and environmental measurement questions.
 
 [Explore the area →](research.qmd#biomedical-optical-imaging)
 :::
@@ -62,7 +62,7 @@ Imaging architectures and acquisition methods designed around biological measure
 
 ### Wearable optical sensing
 
-Compact sensing concepts that combine optical interfaces, embedded acquisition and signal processing.
+Compact sensing platforms for light exposure, visual-environment monitoring and embedded acquisition.
 
 [Explore the area →](research.qmd#wearable-optical-sensing)
 :::
@@ -72,7 +72,7 @@ Compact sensing concepts that combine optical interfaces, embedded acquisition a
 
 ### Spectral sensing
 
-Colorimetric and multispectral methods, including calibration strategies for compact multi-channel sensors.
+Colorimetric, photometric and radiometric methods, including calibration of compact multi-channel sensors.
 
 [Explore the area →](research.qmd#colorimetry-and-spectral-sensing)
 :::
@@ -82,7 +82,7 @@ Colorimetric and multispectral methods, including calibration strategies for com
 
 ### Embedded acquisition
 
-Hardware–software co-design for experimental control, sensor readout and connected prototypes.
+Hardware–software co-design for experimental control, sensor readout and portable prototypes.
 
 [Explore the area →](research.qmd#embedded-acquisition-systems)
 :::
@@ -92,9 +92,9 @@ Hardware–software co-design for experimental control, sensor readout and conne
 
 ### Computational imaging & AI
 
-Computational methods that support reconstruction, analysis and interpretation of optical data.
+Computational methods for image quality, feature extraction and interpretation of optical data.
 
-[Explore the area →](research.qmd#computational-imaging-and-ai)
+[Explore the area →](research.qmd#computational-imaging-and-artificial-intelligence)
 :::
 :::
 
@@ -102,9 +102,9 @@ Computational methods that support reconstruction, analysis and interpretation o
 ::: {.section-intro}
 <p class="eyebrow">Selected work</p>
 
-## From measurement idea to research demonstrator
+## From measurement idea to validated method
 
-These provisional examples describe technology directions, not funded projects or validated outcomes. They will be replaced as institutional content is reviewed.
+Recent work spans calibrated compact sensors, ophthalmic measurement support and wearable monitoring of the visual environment.
 :::
 
 ::: {.card-grid .three}
@@ -113,29 +113,29 @@ These provisional examples describe technology directions, not funded projects o
 
 ### Multichannel sensor calibration
 
-Research area exploring flexible calibration workflows for compact photometric and radiometric sensing.
+A flexible method for photometric and radiometric measurements with compact, low-cost multi-channel sensors.
 
-[View demonstrator](projects/items/multichannel-calibration.qmd)
+[Explore the work](projects/items/multichannel-calibration.qmd)
 :::
 
 ::: {.work-card}
 <div class="spectral-line cool"></div>
 
-### Embedded camera acquisition
+### Ophthalmic measurement support
 
-Technology demonstrator connecting an ESP32-S3 camera, a readable TCP protocol and a desktop interface.
+Eye-position monitoring and image-quality assessment methods designed to improve ophthalmic measurements.
 
-[View demonstrator](projects/items/embedded-camera.qmd)
+[Explore the work](projects/items/embedded-camera.qmd)
 :::
 
 ::: {.work-card}
 <div class="spectral-line warm"></div>
 
-### Wearable optical platform
+### Wearable visual-environment monitoring
 
-Research-area placeholder for compact optical sensing, embedded acquisition and signal interpretation.
+A wearable optical approach for characterizing personal light exposure and visual habits relevant to myopia research.
 
-[View demonstrator](projects/items/wearable-optics.qmd)
+[Explore the work](projects/items/wearable-optics.qmd)
 :::
 :::
 :::
@@ -146,7 +146,7 @@ Research-area placeholder for compact optical sensing, embedded acquisition and 
 
 ## Building the complete measurement chain
 
-Our work spans the interfaces between light, hardware and information. The current capability map is intentionally qualitative while facilities and equipment records are being verified.
+Our work spans the interfaces between light, hardware and information, from optomechanical prototyping and sensor characterization to embedded acquisition and computational analysis.
 :::
 
 ::: {.capability-list}
@@ -155,7 +155,7 @@ Our work spans the interfaces between light, hardware and information. The curre
 - **Embedded systems** — acquisition, control and device communication
 - **Experimental software** — desktop tools, protocols and data inspection
 - **Calibration** — photometric, radiometric and multichannel workflows
-- **Computational methods** — signal processing, imaging and AI exploration
+- **Computational methods** — signal processing, imaging and artificial intelligence
 :::
 :::
 
@@ -168,7 +168,7 @@ Our work spans the interfaces between light, hardware and information. The curre
 
 ## Inspectable tools for learning and research
 
-Public repositories make methods easier to examine, teach and extend. Explore verified OptoLAB resources for sensor calibration, embedded camera acquisition and serial instrumentation.
+Public repositories make methods easier to examine, teach and extend. Explore OptoLAB resources for sensor calibration, embedded camera acquisition and serial instrumentation.
 
 [Browse software & resources](software.qmd){.btn .btn-light}
 [Visit GitHub](https://github.com/OPTOLAB-UNIMORE){.btn .btn-outline-light}

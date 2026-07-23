@@ -1,23 +1,25 @@
 ---
-title: "Wearable Optical Sensing Platform"
-description: "A research-area placeholder for compact optical sensing and embedded acquisition."
+title: "Wearable Visual-Environment Monitoring"
+description: "Wearable sensing for characterizing personal light exposure and visual habits relevant to myopia research."
 canonical-url: "https://optolab-unimore.github.io/projects/items/wearable-optics.html"
-date: 2026-01-01
-categories: [Research area, Wearable sensing, Prototyping]
+date: 2025-06-01
+categories: [Wearable sensing, Vision science, Prototyping]
 ---
 
 ::: {.status-pill}
-Demonstrative content — replace before institutional release
+Ongoing research
 :::
 
 ## Research context
 
-Wearable optical sensing brings together tissue–light interaction, optomechanical interfaces, low-noise acquisition, embedded processing and robust signal interpretation.
+The visual environment—including illumination and near-work behaviour—is an important research dimension in the study of myopia.
 
-## Demonstrator scope
+## Research approach
 
-This page reserves a structure for a future, publishable OptoLAB project. No device specification, study, funding source, clinical claim or quantitative result is implied.
+OptoLAB is exploring wearable, multi-sensor instruments that combine ambient-light measurement, embedded acquisition and visual-context analysis. The work brings together optical sensing, vision science, prototyping and signal interpretation.
 
-## Before publication
+## Public overview
 
-Add only reviewed information: the research question, responsible team, institutional partners, approved images, project status and links to public outputs.
+The laboratory’s public ResearchGate page includes the 2025 conference contribution *A Wearable Device for Comprehensive Monitoring of the Visual Environment in Myopia Research*.
+
+[View the OptoLAB ResearchGate profile](https://www.researchgate.net/lab/OptoLab-Unimore-Luigi-Rovati)

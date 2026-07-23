@@ -1,48 +1,94 @@
 ---
 title: "Team"
-description: "Placeholder structure for verified OptoLAB team profiles."
+description: "The OptoLAB team at the University of Modena and Reggio Emilia."
 canonical-url: "https://optolab-unimore.github.io/team.html"
 page-layout: full
 ---
 
-The team directory is awaiting verified institutional information. The placeholders below define the intended profile structure and do not represent real people or roles.
+OptoLAB is led by Prof. Luigi Rovati and brings together expertise in measurement science, biomedical engineering, vision science, electronics and optical instrumentation.
 
 ::: {.people-grid}
 ::: {.person-card}
-<div class="avatar-placeholder" aria-hidden="true">01</div>
+<img class="person-photo" src="assets/images/team-luigi-rovati.jpg" alt="Portrait of Luigi Rovati">
 
-### Member name to verify
+### Luigi Rovati
 
-<span class="person-role">Academic role to verify</span>
+<span class="person-role">Full Professor · Laboratory Head</span>
 
-Short biography and research interests to be supplied and approved.
+Measurement science and optoelectronic instrumentation for biomedical and ophthalmic applications, with particular attention to weak optical signals and metrological characterization.
 
-`Institutional profile` · `ORCID` · `Scholar` · `GitHub`
+[UNIMORE profile](https://unimore.unifind.cineca.it/resource/person/66046?language=en_US) · [ResearchGate](https://www.researchgate.net/profile/Luigi-Rovati)
 :::
 
 ::: {.person-card}
-<div class="avatar-placeholder" aria-hidden="true">02</div>
+<img class="person-photo" src="assets/images/team-stefano-cattini.jpg" alt="Portrait of Stefano Cattini">
 
-### Member name to verify
+### Stefano Cattini
 
-<span class="person-role">Academic role to verify</span>
+<span class="person-role">Associate Professor</span>
 
-Short biography and research interests to be supplied and approved.
+Electronic measurements, sensor systems and measurement methods for industrial, automotive and biomedical applications.
 
-`Institutional profile` · `ORCID` · `Scholar` · `GitHub`
+[UNIMORE profile](https://unimore.unifind.cineca.it/resource/person/70100) · [ResearchGate](https://www.researchgate.net/profile/Stefano-Cattini) · [ORCID](https://orcid.org/0000-0001-7466-9629)
 :::
 
 ::: {.person-card}
-<div class="avatar-placeholder" aria-hidden="true">03</div>
+<img class="person-photo" src="assets/images/team-giovanni-gibertoni.jpg" alt="Portrait of Giovanni Gibertoni">
 
-### Member name to verify
+### Giovanni Gibertoni
 
-<span class="person-role">Academic role to verify</span>
+<span class="person-role">Assistant Professor · Bioengineering</span>
 
-Short biography and research interests to be supplied and approved.
+Biomedical optical instrumentation, ophthalmic imaging, image-quality assessment and computational methods for ocular measurements.
 
-`Institutional profile` · `ORCID` · `Scholar` · `GitHub`
+[UNIMORE profile](https://unimore.unifind.cineca.it/resource/person/172668) · [ResearchGate](https://www.researchgate.net/profile/Giovanni-Gibertoni) · [GitHub](https://github.com/gbrgnn)
+:::
+
+::: {.person-card}
+<img class="person-photo" src="assets/images/team-davide-cassanelli.jpg" alt="Portrait of Davide Cassanelli">
+
+### Davide Cassanelli
+
+<span class="person-role">Researcher · Automotive</span>
+
+Optical measurement systems and sensor characterization, including LiDAR safety and portable fluorescence instrumentation.
+
+[Group profile](https://www.misure.unimore.it/staff/) · [ResearchGate](https://www.researchgate.net/profile/Davide-Cassanelli-2)
+:::
+
+::: {.person-card}
+<img class="person-photo" src="assets/images/team-agostino-gibaldi.jpg" alt="Portrait of Agostino Gibaldi">
+
+### Agostino Gibaldi
+
+<span class="person-role">Assistant Professor · Bioengineering</span>
+
+Vision science, binocular vision, eye tracking, wearable systems and computational models of visual behaviour.
+
+[UNIMORE profile](https://unimore.unifind.cineca.it/resource/person/274103) · [ResearchGate](https://www.researchgate.net/profile/Agostino-Gibaldi)
+:::
+
+::: {.person-card}
+<img class="person-photo" src="assets/images/team-daniele-goldoni.jpg" alt="Portrait of Daniele Goldoni">
+
+### Daniele Goldoni
+
+<span class="person-role">Researcher · Biomedical</span>
+
+Biomedical measurement systems, electronics, signal processing and sensor-based methods for biological and environmental analysis.
+
+[Group profile](https://www.misure.unimore.it/staff/) · [ResearchGate](https://www.researchgate.net/profile/Daniele-Goldoni) · [Google Scholar](https://scholar.google.com/citations?hl=en&user=KOyMMasAAAAJ)
+:::
+
+::: {.person-card}
+<div class="person-photo person-initials" role="img" aria-label="Profile placeholder with the initials AB">AB</div>
+
+### Alberto Besozzi
+
+<span class="person-role">PhD Student</span>
+
+Doctoral researcher working on compact optical sensors, flexible calibration and wearable measurement systems under the supervision of Agostino Gibaldi and Luigi Rovati.
+
+[PhD programme](https://www.ict.unimore.it/phdStudents.asp) · [Recent publication](https://iris.unimore.it/handle/11380/1412808)
 :::
 :::
-
-See [CONTENT-TODO.md](https://github.com/OPTOLAB-UNIMORE/optolab-unimore.github.io/blob/main/CONTENT-TODO.md) for the data required for each member.

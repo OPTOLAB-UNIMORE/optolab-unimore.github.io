@@ -18,7 +18,7 @@ website:
   page-navigation: true
   back-to-top-navigation: true
   open-graph:
-    title: "OptoLAB | Optical and Optoelectronic Biomedical Instrumentation Laboratory"
+    title: "OptoLAB | Biomedical Optics and Optoelectronic Instrumentation"
     description: "Optical technologies for biomedical imaging, sensing and ophthalmic instrumentation."
     image: assets/brand/optical-hero.svg
     locale: en_US
@@ -61,7 +61,7 @@ website:
     left: |
       **OptoLAB** · University of Modena and Reggio Emilia
     center: |
-      Content currently being updated
+      Biomedical optics and optoelectronic instrumentation
     right: |
       [GitHub organization](https://github.com/OPTOLAB-UNIMORE)
 

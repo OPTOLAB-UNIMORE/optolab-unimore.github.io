@@ -226,6 +226,40 @@ h1, h2, h3 {
   font-weight: 800;
   background: linear-gradient(135deg, var(--teal), var(--violet));
 }
+
+.person-card {
+  overflow: hidden;
+  padding: 0 0 1.8rem;
+}
+
+.person-card > h3,
+.person-card > p,
+.person-card > .person-role {
+  margin-right: 1.7rem;
+  margin-left: 1.7rem;
+}
+
+.person-card > h3 {
+  margin-top: 1.5rem;
+}
+
+.person-photo {
+  display: block;
+  width: 100%;
+  height: 310px;
+  object-fit: cover;
+  object-position: center 25%;
+  border: 0;
+}
+
+.person-initials {
+  place-content: center;
+  color: #fff;
+  font-size: 3.4rem;
+  font-weight: 800;
+  letter-spacing: .06em;
+  background: linear-gradient(135deg, var(--teal), var(--violet));
+}
 .contact-panel {
   display: grid;
   grid-template-columns: 1fr 1fr;
@@ -266,4 +300,3 @@ h1, h2, h3 {
     animation-iteration-count: 1 !important;
   }
 }
-

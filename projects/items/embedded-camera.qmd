@@ -1,23 +1,26 @@
 ---
-title: "Embedded Camera Acquisition"
-description: "A technology demonstrator for camera streaming, device control and high-resolution snapshot capture."
+title: "Ophthalmic Measurement Support"
+description: "Eye-position monitoring and image-analysis methods that support more reliable ophthalmic measurements."
 canonical-url: "https://optolab-unimore.github.io/projects/items/embedded-camera.html"
-date: 2026-01-01
-categories: [Technology demonstrator, Embedded systems, Imaging]
+date: 2025-01-01
+categories: [Ophthalmic instrumentation, Imaging, Artificial intelligence]
 ---
 
 ::: {.status-pill}
-Demonstrative content — replace before institutional release
+Research direction
 :::
 
 ## Research context
 
-Embedded cameras provide a compact platform for exploring how sensor configuration, memory, image compression and transfer protocols affect an acquisition chain.
+The quality of an ophthalmic measurement depends not only on the instrument, but also on eye position and image quality during acquisition.
 
-## Demonstrator scope
+## Current work
 
-This demonstrator links ESP32-S3 firmware with a PySide6 desktop interface over a readable TCP protocol. The public educational resource supports live JPEG streaming, JSON control commands and still-image capture.
+OptoLAB investigates real-time eye-position monitoring and automated ocular-image analysis. Public outputs include the OptoCheck approach for monitoring eye position during ophthalmic examinations, image classification for ophthalmic measurement systems and the PopEYE infrared ocular-image dataset.
 
-## Related public resource
+## Selected outputs
 
-See [esp32-s3-camera-gui](https://github.com/OPTOLAB-UNIMORE/esp32-s3-camera-gui) for the verified public description, source code and teaching notes.
+- [OptoCheck institutional record](https://iris.unimore.it/handle/11380/1386368)
+- [Vision-based eye image classification](https://doi.org/10.3390/s23010386)
+- [PopEYE dataset record](https://iris.unimore.it/handle/11380/1395150)
+- [Educational embedded-camera resource](https://github.com/OPTOLAB-UNIMORE/esp32-s3-camera-gui)
