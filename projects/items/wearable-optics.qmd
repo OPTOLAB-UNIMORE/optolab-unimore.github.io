@@ -1,0 +1,23 @@
+---
+title: "Wearable Optical Sensing Platform"
+description: "A research-area placeholder for compact optical sensing and embedded acquisition."
+canonical-url: "https://optolab-unimore.github.io/projects/items/wearable-optics.html"
+date: 2026-01-01
+categories: [Research area, Wearable sensing, Prototyping]
+---
+
+::: {.status-pill}
+Demonstrative content — replace before institutional release
+:::
+
+## Research context
+
+Wearable optical sensing brings together tissue–light interaction, optomechanical interfaces, low-noise acquisition, embedded processing and robust signal interpretation.
+
+## Demonstrator scope
+
+This page reserves a structure for a future, publishable OptoLAB project. No device specification, study, funding source, clinical claim or quantitative result is implied.
+
+## Before publication
+
+Add only reviewed information: the research question, responsible team, institutional partners, approved images, project status and links to public outputs.

@@ -1,0 +1,43 @@
+---
+title: "Software & Resources"
+description: "Verified public software and educational resources from the OPTOLAB-UNIMORE GitHub organization."
+canonical-url: "https://optolab-unimore.github.io/software.html"
+---
+
+The following cards are based only on public repository descriptions and README files retrieved from the [OPTOLAB-UNIMORE GitHub organization](https://github.com/OPTOLAB-UNIMORE).
+
+::: {.resource-grid}
+::: {.resource-card}
+<span class="resource-type">Calibration · research code</span>
+
+## Calibration Method for Multi-Channel Sensor
+
+Repository intended to contain code related to work on flexible calibration methods for low-cost photometric and radiometric measurements.
+
+[Open repository →](https://github.com/OPTOLAB-UNIMORE/Calibration-Method-for-Multi-Channel-Sensor)
+:::
+
+::: {.resource-card}
+<span class="resource-type">Imaging · educational software</span>
+
+## ESP32-S3 Camera GUI
+
+Educational PySide6 GUI and ESP32-S3 firmware for Wi-Fi camera streaming, TCP control and high-resolution snapshot capture.
+
+[Open repository →](https://github.com/OPTOLAB-UNIMORE/esp32-s3-camera-gui)
+:::
+
+::: {.resource-card}
+<span class="resource-type">Acquisition · educational software</span>
+
+## Educational Serial Monitor GUI
+
+Educational PySide6 desktop GUI for serial device control, live analog signal plotting, peak detection, data inspection and Arduino/ESP32 firmware examples.
+
+[Open repository →](https://github.com/OPTOLAB-UNIMORE/educational-serial-monitor-gui)
+:::
+:::
+
+## Responsible reuse
+
+Each repository is the authoritative source for its requirements, setup instructions and current status. Review its README and license information before reuse.

@@ -1,0 +1,16 @@
+---
+title: "Projects"
+description: "OptoLAB research areas and technology demonstrators."
+canonical-url: "https://optolab-unimore.github.io/projects/"
+listing:
+  contents: items
+  sort: "date desc"
+  type: grid
+  grid-columns: 3
+  fields: [title, description, categories]
+  filter-ui: true
+  sort-ui: false
+page-layout: full
+---
+
+The entries below are demonstrative content used to establish the site structure. They are **not presented as funded projects or validated research results** and must be replaced or formally reviewed before institutional communication.

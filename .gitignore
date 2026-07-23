@@ -1,0 +1,10 @@
+/.quarto/
+/.quarto-cache/
+/_site/
+.DS_Store
+Thumbs.db
+.env
+*.local
+
+
+**/*.quarto_ipynb

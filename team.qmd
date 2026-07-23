@@ -1,0 +1,48 @@
+---
+title: "Team"
+description: "Placeholder structure for verified OptoLAB team profiles."
+canonical-url: "https://optolab-unimore.github.io/team.html"
+page-layout: full
+---
+
+The team directory is awaiting verified institutional information. The placeholders below define the intended profile structure and do not represent real people or roles.
+
+::: {.people-grid}
+::: {.person-card}
+<div class="avatar-placeholder" aria-hidden="true">01</div>
+
+### Member name to verify
+
+<span class="person-role">Academic role to verify</span>
+
+Short biography and research interests to be supplied and approved.
+
+`Institutional profile` · `ORCID` · `Scholar` · `GitHub`
+:::
+
+::: {.person-card}
+<div class="avatar-placeholder" aria-hidden="true">02</div>
+
+### Member name to verify
+
+<span class="person-role">Academic role to verify</span>
+
+Short biography and research interests to be supplied and approved.
+
+`Institutional profile` · `ORCID` · `Scholar` · `GitHub`
+:::
+
+::: {.person-card}
+<div class="avatar-placeholder" aria-hidden="true">03</div>
+
+### Member name to verify
+
+<span class="person-role">Academic role to verify</span>
+
+Short biography and research interests to be supplied and approved.
+
+`Institutional profile` · `ORCID` · `Scholar` · `GitHub`
+:::
+:::
+
+See [CONTENT-TODO.md](https://github.com/OPTOLAB-UNIMORE/optolab-unimore.github.io/blob/main/CONTENT-TODO.md) for the data required for each member.

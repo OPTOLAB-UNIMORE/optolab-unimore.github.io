@@ -1,0 +1,23 @@
+---
+title: "Multichannel Sensor Calibration"
+description: "A research-area demonstrator for flexible calibration of compact photometric and radiometric sensors."
+canonical-url: "https://optolab-unimore.github.io/projects/items/multichannel-calibration.html"
+date: 2026-01-01
+categories: [Research area, Spectral sensing, Calibration]
+---
+
+::: {.status-pill}
+Demonstrative content — replace before institutional release
+:::
+
+## Research context
+
+Compact multi-channel sensors can support photometric and radiometric measurements when their spectral response and calibration chain are treated explicitly.
+
+## Demonstrator scope
+
+This placeholder describes a possible workflow spanning reference measurements, calibration model development and verification on independent observations. It does not state performance figures or completed validation.
+
+## Related public resource
+
+The public repository [Calibration-Method-for-Multi-Channel-Sensor](https://github.com/OPTOLAB-UNIMORE/Calibration-Method-for-Multi-Channel-Sensor) is intended to host code related to a paper on flexible calibration methods for low-cost photometric and radiometric measurements.

@@ -1,0 +1,16 @@
+---
+title: "Publications"
+description: "A publication index prepared for verified OptoLAB bibliographic records."
+canonical-url: "https://optolab-unimore.github.io/publications.html"
+bibliography: publications.bib
+---
+
+This page is ready for a verified BibTeX bibliography. No publications are listed yet because authorship, affiliations and bibliographic records must be reviewed before release.
+
+## Add a publication
+
+Add a valid record to `publications.bib`, then cite it from this page with its BibTeX key. The repository [README](https://github.com/OPTOLAB-UNIMORE/optolab-unimore.github.io#adding-a-publication) documents the workflow.
+
+::: {.callout-important}
+Do not publish placeholder citations or infer laboratory authorship from repository metadata.
+:::
