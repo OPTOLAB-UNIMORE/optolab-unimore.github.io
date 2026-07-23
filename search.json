@@ -4,126 +4,133 @@
     "href": "team.html",
     "title": "Team",
     "section": "",
-    "text": "The team directory is awaiting verified institutional information. The placeholders below define the intended profile structure and do not represent real people or roles.\n\n\n\n01\n\n\nMember name to verify\nAcademic role to verify\nShort biography and research interests to be supplied and approved.\nInstitutional profile · ORCID · Scholar · GitHub\n\n\n\n\n02\n\n\nMember name to verify\nAcademic role to verify\nShort biography and research interests to be supplied and approved.\nInstitutional profile · ORCID · Scholar · GitHub\n\n\n\n\n03\n\n\nMember name to verify\nAcademic role to verify\nShort biography and research interests to be supplied and approved.\nInstitutional profile · ORCID · Scholar · GitHub\n\n\n\nSee CONTENT-TODO.md for the data required for each member.\n\n\n\n Back to top"
+    "text": "OptoLAB is led by Prof. Luigi Rovati and brings together expertise in measurement science, biomedical engineering, vision science, electronics and optical instrumentation.\n\n\n\n\nLuigi Rovati\nFull Professor · Laboratory Head\nMeasurement science and optoelectronic instrumentation for biomedical and ophthalmic applications, with particular attention to weak optical signals and metrological characterization.\nUNIMORE profile · ResearchGate\n\n\n\n\n\nStefano Cattini\nAssociate Professor\nElectronic measurements, sensor systems and measurement methods for industrial, automotive and biomedical applications.\nUNIMORE profile · ResearchGate · ORCID\n\n\n\n\n\nGiovanni Gibertoni\nAssistant Professor · Bioengineering\nBiomedical optical instrumentation, ophthalmic imaging, image-quality assessment and computational methods for ocular measurements.\nUNIMORE profile · ResearchGate · GitHub\n\n\n\n\n\nDavide Cassanelli\nResearcher · Automotive\nOptical measurement systems and sensor characterization, including LiDAR safety and portable fluorescence instrumentation.\nGroup profile · ResearchGate\n\n\n\n\n\nAgostino Gibaldi\nAssistant Professor · Bioengineering\nVision science, binocular vision, eye tracking, wearable systems and computational models of visual behaviour.\nUNIMORE profile · ResearchGate\n\n\n\n\n\nDaniele Goldoni\nResearcher · Biomedical\nBiomedical measurement systems, electronics, signal processing and sensor-based methods for biological and environmental analysis.\nGroup profile · ResearchGate · Google Scholar\n\n\n\n\nAB\n\n\nAlberto Besozzi\nPhD Student\nDoctoral researcher working on compact optical sensors, flexible calibration and wearable measurement systems under the supervision of Agostino Gibaldi and Luigi Rovati.\nPhD programme · Recent publication\n\n\n\n\n\n\n Back to top"
   },
   {
     "objectID": "research.html",
     "href": "research.html",
     "title": "Research",
     "section": "",
-    "text": "Our research is organized around the complete optical measurement chain. The descriptions below are intentionally broad pending institutional review; they do not claim clinical validation, funding or specific performance outcomes."
+    "text": "OptoLAB designs, develops and characterizes optical and optoelectronic measurement systems for biomedical and ophthalmic applications. The laboratory combines experimental prototyping with modelling, simulation and signal processing across the complete measurement chain."
   },
   {
     "objectID": "research.html#ophthalmic-instrumentation",
     "href": "research.html#ophthalmic-instrumentation",
     "title": "Research",
     "section": "Ophthalmic instrumentation",
-    "text": "Ophthalmic instrumentation\nWe explore optical and optoelectronic concepts for research instruments that interrogate or image the eye. Relevant work may combine illumination design, sensing geometry, electronic acquisition and computational analysis."
+    "text": "Ophthalmic instrumentation\nWe develop methods and research instruments for eye diagnostics and imaging, including eye-position monitoring, anterior-segment assessment and automated analysis of ocular images."
   },
   {
     "objectID": "research.html#biomedical-optical-imaging",
     "href": "research.html#biomedical-optical-imaging",
     "title": "Research",
     "section": "Biomedical optical imaging",
-    "text": "Biomedical optical imaging\nWe study imaging systems in which optical architecture, acquisition strategy and computation are designed together around a biomedical measurement question."
+    "text": "Biomedical optical imaging\nWe study imaging and fluorescence-measurement systems in which optical architecture, acquisition strategy and computation are designed together around a biomedical or environmental measurement question."
   },
   {
     "objectID": "research.html#wearable-optical-sensing",
     "href": "research.html#wearable-optical-sensing",
     "title": "Research",
     "section": "Wearable optical sensing",
-    "text": "Wearable optical sensing\nThis area considers compact optical interfaces, motion-aware acquisition, embedded electronics and signal processing for wearable research platforms."
+    "text": "Wearable optical sensing\nThis area focuses on compact instruments for monitoring the personal visual environment and light exposure, integrating optical sensing, embedded electronics and context-aware data analysis."
   },
   {
     "objectID": "research.html#optoelectronic-instrumentation",
     "href": "research.html#optoelectronic-instrumentation",
     "title": "Research",
     "section": "Optoelectronic instrumentation",
-    "text": "Optoelectronic instrumentation\nWe develop experimental measurement chains that connect light sources, detectors, analog and digital electronics, control software and data interpretation."
+    "text": "Optoelectronic instrumentation\nWe develop experimental measurement chains that connect light sources, detectors, analog and digital electronics, control software and data interpretation, with attention to weak-signal acquisition and metrological characterization."
   },
   {
     "objectID": "research.html#embedded-acquisition-systems",
     "href": "research.html#embedded-acquisition-systems",
     "title": "Research",
     "section": "Embedded acquisition systems",
-    "text": "Embedded acquisition systems\nEmbedded platforms support synchronized acquisition, experimental control, communication and rapid prototyping. Readable protocols and inspectable software are part of the research workflow."
+    "text": "Embedded acquisition systems\nEmbedded platforms support synchronized acquisition, experimental control, communication and portable instrument prototypes. Readable protocols and inspectable software are part of the research and teaching workflow."
   },
   {
     "objectID": "research.html#colorimetry-and-spectral-sensing",
     "href": "research.html#colorimetry-and-spectral-sensing",
     "title": "Research",
     "section": "Colorimetry and spectral sensing",
-    "text": "Colorimetry and spectral sensing\nWe investigate colorimetric, photometric, radiometric and multispectral measurement approaches, with attention to sensor response and calibration."
+    "text": "Colorimetry and spectral sensing\nWe investigate colorimetric, photometric, radiometric and multispectral measurement approaches, including flexible calibration methods for compact, low-cost multi-channel sensors."
   },
   {
     "objectID": "research.html#computational-imaging-and-artificial-intelligence",
     "href": "research.html#computational-imaging-and-artificial-intelligence",
     "title": "Research",
     "section": "Computational imaging and artificial intelligence",
-    "text": "Computational imaging and artificial intelligence\nWe explore computational approaches for reconstruction, feature extraction and interpretation of optical data. Any future claims about datasets, models or performance will be added only after verification.\n\n\n\n\n\n\nNote\n\n\n\nThe official laboratory name, extended title, institutional description and detailed research portfolio remain to be confirmed. See CONTENT-TODO.md."
+    "text": "Computational imaging and artificial intelligence\nWe develop computational approaches for reconstruction, quality assessment, feature extraction and interpretation of optical data, including machine-learning methods for ophthalmic images and curated research datasets."
+  },
+  {
+    "objectID": "research.html#public-research-profiles",
+    "href": "research.html#public-research-profiles",
+    "title": "Research",
+    "section": "Public research profiles",
+    "text": "Public research profiles\n\nOptoLAB on ResearchGate\nUNIMORE Research Portal (IRIS)\nMeasurements, Instrumentation and Sensors Group"
   },
   {
     "objectID": "projects/items/wearable-optics.html",
     "href": "projects/items/wearable-optics.html",
-    "title": "Wearable Optical Sensing Platform",
+    "title": "Wearable Visual-Environment Monitoring",
     "section": "",
-    "text": "Demonstrative content — replace before institutional release"
+    "text": "Ongoing research"
   },
   {
     "objectID": "projects/items/wearable-optics.html#research-context",
     "href": "projects/items/wearable-optics.html#research-context",
-    "title": "Wearable Optical Sensing Platform",
+    "title": "Wearable Visual-Environment Monitoring",
     "section": "Research context",
-    "text": "Research context\nWearable optical sensing brings together tissue–light interaction, optomechanical interfaces, low-noise acquisition, embedded processing and robust signal interpretation."
+    "text": "Research context\nThe visual environment—including illumination and near-work behaviour—is an important research dimension in the study of myopia."
   },
   {
-    "objectID": "projects/items/wearable-optics.html#demonstrator-scope",
-    "href": "projects/items/wearable-optics.html#demonstrator-scope",
-    "title": "Wearable Optical Sensing Platform",
-    "section": "Demonstrator scope",
-    "text": "Demonstrator scope\nThis page reserves a structure for a future, publishable OptoLAB project. No device specification, study, funding source, clinical claim or quantitative result is implied."
+    "objectID": "projects/items/wearable-optics.html#research-approach",
+    "href": "projects/items/wearable-optics.html#research-approach",
+    "title": "Wearable Visual-Environment Monitoring",
+    "section": "Research approach",
+    "text": "Research approach\nOptoLAB is exploring wearable, multi-sensor instruments that combine ambient-light measurement, embedded acquisition and visual-context analysis. The work brings together optical sensing, vision science, prototyping and signal interpretation."
   },
   {
-    "objectID": "projects/items/wearable-optics.html#before-publication",
-    "href": "projects/items/wearable-optics.html#before-publication",
-    "title": "Wearable Optical Sensing Platform",
-    "section": "Before publication",
-    "text": "Before publication\nAdd only reviewed information: the research question, responsible team, institutional partners, approved images, project status and links to public outputs."
+    "objectID": "projects/items/wearable-optics.html#public-overview",
+    "href": "projects/items/wearable-optics.html#public-overview",
+    "title": "Wearable Visual-Environment Monitoring",
+    "section": "Public overview",
+    "text": "Public overview\nThe laboratory’s public ResearchGate page includes the 2025 conference contribution A Wearable Device for Comprehensive Monitoring of the Visual Environment in Myopia Research.\nView the OptoLAB ResearchGate profile"
   },
   {
     "objectID": "projects/items/embedded-camera.html",
     "href": "projects/items/embedded-camera.html",
-    "title": "Embedded Camera Acquisition",
+    "title": "Ophthalmic Measurement Support",
     "section": "",
-    "text": "Demonstrative content — replace before institutional release"
+    "text": "Research direction"
   },
   {
     "objectID": "projects/items/embedded-camera.html#research-context",
     "href": "projects/items/embedded-camera.html#research-context",
-    "title": "Embedded Camera Acquisition",
+    "title": "Ophthalmic Measurement Support",
     "section": "Research context",
-    "text": "Research context\nEmbedded cameras provide a compact platform for exploring how sensor configuration, memory, image compression and transfer protocols affect an acquisition chain."
+    "text": "Research context\nThe quality of an ophthalmic measurement depends not only on the instrument, but also on eye position and image quality during acquisition."
   },
   {
-    "objectID": "projects/items/embedded-camera.html#demonstrator-scope",
-    "href": "projects/items/embedded-camera.html#demonstrator-scope",
-    "title": "Embedded Camera Acquisition",
-    "section": "Demonstrator scope",
-    "text": "Demonstrator scope\nThis demonstrator links ESP32-S3 firmware with a PySide6 desktop interface over a readable TCP protocol. The public educational resource supports live JPEG streaming, JSON control commands and still-image capture."
+    "objectID": "projects/items/embedded-camera.html#current-work",
+    "href": "projects/items/embedded-camera.html#current-work",
+    "title": "Ophthalmic Measurement Support",
+    "section": "Current work",
+    "text": "Current work\nOptoLAB investigates real-time eye-position monitoring and automated ocular-image analysis. Public outputs include the OptoCheck approach for monitoring eye position during ophthalmic examinations, image classification for ophthalmic measurement systems and the PopEYE infrared ocular-image dataset."
   },
   {
-    "objectID": "projects/items/embedded-camera.html#related-public-resource",
-    "href": "projects/items/embedded-camera.html#related-public-resource",
-    "title": "Embedded Camera Acquisition",
-    "section": "Related public resource",
-    "text": "Related public resource\nSee esp32-s3-camera-gui for the verified public description, source code and teaching notes."
+    "objectID": "projects/items/embedded-camera.html#selected-outputs",
+    "href": "projects/items/embedded-camera.html#selected-outputs",
+    "title": "Ophthalmic Measurement Support",
+    "section": "Selected outputs",
+    "text": "Selected outputs\n\nOptoCheck institutional record\nVision-based eye image classification\nPopEYE dataset record\nEducational embedded-camera resource"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "OptoLAB",
     "section": "",
-    "text": "University of Modena and Reggio Emilia\n\n\n\n\nOptical technologies for biomedical imaging, sensing and ophthalmic instrumentation.\n\n\nOptoLAB brings together optics, electronics, embedded systems and computation to explore new research instruments—from the first photon at the sensor to interpretable data.\n\n\nExplore our research Contact the lab\n\n\n\n\n\n\n\nAbstract illustration of spectral light beams crossing optical elements and converging on a sensor"
+    "text": "University of Modena and Reggio Emilia\n\n\n\n\nOptical technologies for biomedical imaging, sensing and ophthalmic instrumentation.\n\n\nLed by Prof. Luigi Rovati, OptoLAB brings together optics, electronics, embedded systems and computation to develop and characterize optical and optoelectronic measurement systems for biomedical and ophthalmic applications.\n\n\nExplore our research Contact the lab\n\n\n\n\n\n\n\nAbstract illustration of spectral light beams crossing optical elements and converging on a sensor"
   },
   {
     "objectID": "index.html#across-optics-instruments-and-computation",
@@ -133,25 +140,25 @@
     "text": "Across optics, instruments and computation\nWe investigate measurement chains as connected systems: optical interaction, sensor response, electronic acquisition and computational interpretation."
   },
   {
-    "objectID": "index.html#from-measurement-idea-to-research-demonstrator",
-    "href": "index.html#from-measurement-idea-to-research-demonstrator",
+    "objectID": "index.html#from-measurement-idea-to-validated-method",
+    "href": "index.html#from-measurement-idea-to-validated-method",
     "title": "OptoLAB",
-    "section": "From measurement idea to research demonstrator",
-    "text": "From measurement idea to research demonstrator\nThese provisional examples describe technology directions, not funded projects or validated outcomes. They will be replaced as institutional content is reviewed."
+    "section": "From measurement idea to validated method",
+    "text": "From measurement idea to validated method\nRecent work spans calibrated compact sensors, ophthalmic measurement support and wearable monitoring of the visual environment."
   },
   {
     "objectID": "index.html#building-the-complete-measurement-chain",
     "href": "index.html#building-the-complete-measurement-chain",
     "title": "OptoLAB",
     "section": "Building the complete measurement chain",
-    "text": "Building the complete measurement chain\nOur work spans the interfaces between light, hardware and information. The current capability map is intentionally qualitative while facilities and equipment records are being verified."
+    "text": "Building the complete measurement chain\nOur work spans the interfaces between light, hardware and information, from optomechanical prototyping and sensor characterization to embedded acquisition and computational analysis."
   },
   {
     "objectID": "index.html#inspectable-tools-for-learning-and-research",
     "href": "index.html#inspectable-tools-for-learning-and-research",
     "title": "OptoLAB",
     "section": "Inspectable tools for learning and research",
-    "text": "Inspectable tools for learning and research\nPublic repositories make methods easier to examine, teach and extend. Explore verified OptoLAB resources for sensor calibration, embedded camera acquisition and serial instrumentation.\nBrowse software & resources Visit GitHub"
+    "text": "Inspectable tools for learning and research\nPublic repositories make methods easier to examine, teach and extend. Explore OptoLAB resources for sensor calibration, embedded camera acquisition and serial instrumentation.\nBrowse software & resources Visit GitHub"
   },
   {
     "objectID": "index.html#a-measurement-challenge-is-a-good-place-to-start.",
@@ -165,77 +172,98 @@
     "href": "contact.html",
     "title": "Contact",
     "section": "",
-    "text": "OptoLAB welcomes enquiries about scientific collaboration, technology development, student projects and shared research questions in biomedical optics and instrumentation.\n\n\n\nUniversity of Modena and Reggio Emilia\nVisit the OPTOLAB-UNIMORE GitHub organization\n\n\nDepartment\nTo be verified\nInstitutional address\nTo be verified\nInstitutional email\nTo be verified\nMap\nTo be added after the address is verified\n\n\n\n\n\n\n\n\nWarning\n\n\n\nContact details must be verified before public communication. No email address, telephone number or physical location has been inferred."
+    "text": "OptoLAB welcomes enquiries about scientific collaboration, technology development, student projects and shared research questions in biomedical optics and instrumentation.\n\n\n\nOptoLAB lead and main contact\nluigi.rovati@unimore.it\nUNIMORE institutional profile\n\n\nDepartment of Engineering “Enzo Ferrari” University of Modena and Reggio Emilia\nAddress Via Pietro Vivarelli 10, Building 26 41125 Modena, Italy\nPublic profiles Measurements, Instrumentation and Sensors Group OptoLAB on ResearchGate\nDirections Open the address in OpenStreetMap"
   },
   {
     "objectID": "contact.html#start-a-research-conversation",
     "href": "contact.html#start-a-research-conversation",
     "title": "Contact",
     "section": "",
-    "text": "OptoLAB welcomes enquiries about scientific collaboration, technology development, student projects and shared research questions in biomedical optics and instrumentation.\n\n\n\nUniversity of Modena and Reggio Emilia\nVisit the OPTOLAB-UNIMORE GitHub organization\n\n\nDepartment\nTo be verified\nInstitutional address\nTo be verified\nInstitutional email\nTo be verified\nMap\nTo be added after the address is verified\n\n\n\n\n\n\n\n\nWarning\n\n\n\nContact details must be verified before public communication. No email address, telephone number or physical location has been inferred."
+    "text": "OptoLAB welcomes enquiries about scientific collaboration, technology development, student projects and shared research questions in biomedical optics and instrumentation.\n\n\n\nOptoLAB lead and main contact\nluigi.rovati@unimore.it\nUNIMORE institutional profile\n\n\nDepartment of Engineering “Enzo Ferrari” University of Modena and Reggio Emilia\nAddress Via Pietro Vivarelli 10, Building 26 41125 Modena, Italy\nPublic profiles Measurements, Instrumentation and Sensors Group OptoLAB on ResearchGate\nDirections Open the address in OpenStreetMap"
   },
   {
     "objectID": "facilities.html",
     "href": "facilities.html",
     "title": "Facilities & Capabilities",
     "section": "",
-    "text": "OptoLAB works across optical, electronic and computational prototyping. A verified equipment inventory is being prepared; no specific instrument, performance range or access condition is claimed on this page."
+    "text": "OptoLAB supports the development of complete optical measurement chains, from experimental layouts and optomechanics to electronic acquisition, calibration and computational analysis."
   },
   {
-    "objectID": "facilities.html#equipment-information-to-verify",
-    "href": "facilities.html#equipment-information-to-verify",
+    "objectID": "facilities.html#representative-equipment",
+    "href": "facilities.html#representative-equipment",
     "title": "Facilities & Capabilities",
-    "section": "Equipment information to verify",
-    "text": "Equipment information to verify\nBefore this page becomes an equipment catalogue, each entry must include an approved name, manufacturer and model where appropriate, measurement purpose, key verified specifications, access conditions, responsible contact and an authorized image."
+    "section": "Representative equipment",
+    "text": "Representative equipment\nThe current laboratory records include:\n\nMatrix Vision/Balluff BlueFOX3 USB3 machine-vision cameras, including a 5 MP BF3-5M-0051ZG-110510 system;\nC-mount lenses and mounts, broadband mirrors for 750–1100 nm, a hot mirror and related optical components;\nLattePanda Alpha compact development systems used in portable ophthalmic image-acquisition prototypes;\na dedicated computing workstation for modelling, acquisition and analysis;\na Creality CR-10 Smart Pro 3D printer for rapid prototyping.\n\nThis is a representative capability overview rather than a complete booking inventory. Configurations, availability and access conditions should be confirmed with the laboratory."
   },
   {
     "objectID": "projects/index.html",
     "href": "projects/index.html",
     "title": "Projects",
     "section": "",
-    "text": "The entries below are demonstrative content used to establish the site structure. They are not presented as funded projects or validated research results and must be replaced or formally reviewed before institutional communication.\n\n\n\n\n\n\n    \n      \n      \n    \n\n\n\n\n\n\n\nEmbedded Camera Acquisition\n\n\n\nTechnology demonstrator\n\nEmbedded systems\n\nImaging\n\n\n\nA technology demonstrator for camera streaming, device control and high-resolution snapshot capture.\n\n\n\n\n\n\n\n\n\nMultichannel Sensor Calibration\n\n\n\nResearch area\n\nSpectral sensing\n\nCalibration\n\n\n\nA research-area demonstrator for flexible calibration of compact photometric and radiometric sensors.\n\n\n\n\n\n\n\n\n\nWearable Optical Sensing Platform\n\n\n\nResearch area\n\nWearable sensing\n\nPrototyping\n\n\n\nA research-area placeholder for compact optical sensing and embedded acquisition.\n\n\n\n\n\nNo matching items\n Back to top"
+    "text": "Selected OptoLAB research directions and public outputs. Each entry links to an institutional record, publication or open resource where available.\n\n\n\n\n\n\n    \n      \n      \n    \n\n\n\n\n\n\n\nFlexible Calibration of Multi-Channel Sensors\n\n\n\nPublication\n\nSpectral sensing\n\nCalibration\n\n\n\nA flexible calibration method for photometric and radiometric measurements with compact, low-cost multi-channel sensors.\n\n\n\n\n\n\n\n\n\nWearable Visual-Environment Monitoring\n\n\n\nWearable sensing\n\nVision science\n\nPrototyping\n\n\n\nWearable sensing for characterizing personal light exposure and visual habits relevant to myopia research.\n\n\n\n\n\n\n\n\n\nOphthalmic Measurement Support\n\n\n\nOphthalmic instrumentation\n\nImaging\n\nArtificial intelligence\n\n\n\nEye-position monitoring and image-analysis methods that support more reliable ophthalmic measurements.\n\n\n\n\n\nNo matching items\n Back to top"
   },
   {
     "objectID": "projects/items/multichannel-calibration.html",
     "href": "projects/items/multichannel-calibration.html",
-    "title": "Multichannel Sensor Calibration",
+    "title": "Flexible Calibration of Multi-Channel Sensors",
     "section": "",
-    "text": "Demonstrative content — replace before institutional release"
+    "text": "Published research · 2026"
   },
   {
     "objectID": "projects/items/multichannel-calibration.html#research-context",
     "href": "projects/items/multichannel-calibration.html#research-context",
-    "title": "Multichannel Sensor Calibration",
+    "title": "Flexible Calibration of Multi-Channel Sensors",
     "section": "Research context",
     "text": "Research context\nCompact multi-channel sensors can support photometric and radiometric measurements when their spectral response and calibration chain are treated explicitly."
   },
   {
-    "objectID": "projects/items/multichannel-calibration.html#demonstrator-scope",
-    "href": "projects/items/multichannel-calibration.html#demonstrator-scope",
-    "title": "Multichannel Sensor Calibration",
-    "section": "Demonstrator scope",
-    "text": "Demonstrator scope\nThis placeholder describes a possible workflow spanning reference measurements, calibration model development and verification on independent observations. It does not state performance figures or completed validation."
+    "objectID": "projects/items/multichannel-calibration.html#published-work",
+    "href": "projects/items/multichannel-calibration.html#published-work",
+    "title": "Flexible Calibration of Multi-Channel Sensors",
+    "section": "Published work",
+    "text": "Published work\nThe work presents a flexible calibration method that relates multi-channel measurements to photometric and radiometric quantities. It was developed by Alberto Besozzi, Giovanni Gibertoni, Luigi Rovati and Agostino Gibaldi and published in Acta IMEKO."
   },
   {
-    "objectID": "projects/items/multichannel-calibration.html#related-public-resource",
-    "href": "projects/items/multichannel-calibration.html#related-public-resource",
-    "title": "Multichannel Sensor Calibration",
-    "section": "Related public resource",
-    "text": "Related public resource\nThe public repository Calibration-Method-for-Multi-Channel-Sensor is intended to host code related to a paper on flexible calibration methods for low-cost photometric and radiometric measurements."
+    "objectID": "projects/items/multichannel-calibration.html#outputs",
+    "href": "projects/items/multichannel-calibration.html#outputs",
+    "title": "Flexible Calibration of Multi-Channel Sensors",
+    "section": "Outputs",
+    "text": "Outputs\n\nInstitutional record (IRIS)\nPublication DOI\nCode repository"
   },
   {
     "objectID": "publications.html",
     "href": "publications.html",
     "title": "Publications",
     "section": "",
-    "text": "This page is ready for a verified BibTeX bibliography. No publications are listed yet because authorship, affiliations and bibliographic records must be reviewed before release."
+    "text": "Selected recent outputs involving OptoLAB members. The links lead to DOI records or the UNIMORE institutional repository."
   },
   {
-    "objectID": "publications.html#add-a-publication",
-    "href": "publications.html#add-a-publication",
+    "objectID": "publications.html#section",
+    "href": "publications.html#section",
     "title": "Publications",
-    "section": "Add a publication",
-    "text": "Add a publication\nAdd a valid record to publications.bib, then cite it from this page with its BibTeX key. The repository README documents the workflow.\n\n\n\n\n\n\nImportant\n\n\n\nDo not publish placeholder citations or infer laboratory authorship from repository metadata."
+    "section": "2026",
+    "text": "2026\n\nFlexible calibration method: Photometric and radiometric measurements with compact low-cost multi-channel sensors. (Besozzi et al. 2026) IRIS record\nDesign and characterization of a portable fluorescence measuring system for on-site monitoring marine bio-constructors. (Cassanelli et al. 2026) IRIS record\nPopEYE: an infrared ocular image dataset. (Gibertoni et al. 2026) Dataset record"
+  },
+  {
+    "objectID": "publications.html#section-1",
+    "href": "publications.html#section-1",
+    "title": "Publications",
+    "section": "2025",
+    "text": "2025\n\nA simplified method for evaluating LiDAR optical safety. (Cattini et al. 2025) IRIS record\nEnhancing ophthalmic exams with real-time eye position monitoring. (Gibertoni and Rovati 2025) IRIS record"
+  },
+  {
+    "objectID": "publications.html#section-2",
+    "href": "publications.html#section-2",
+    "title": "Publications",
+    "section": "2024",
+    "text": "2024\n\nSize-resolved concentration estimation of nano-/micro-plastics for different salinity with nanoelectrode arrays. (Goldoni et al. 2024) IRIS record"
+  },
+  {
+    "objectID": "publications.html#earlier-selected-work",
+    "href": "publications.html#earlier-selected-work",
+    "title": "Publications",
+    "section": "Earlier selected work",
+    "text": "Earlier selected work\n\nVision-based eye image classification for ophthalmic measurement systems. (Gibertoni et al. 2023) IRIS record"
   },
   {
     "objectID": "software.html",
