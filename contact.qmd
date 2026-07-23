@@ -10,13 +10,13 @@ OptoLAB welcomes enquiries about scientific collaboration, technology developmen
 
 ::: {.contact-panel}
 ::: {.contact-primary}
+<img class="contact-campus" src="assets/images/dief-campus.jpg" alt="Courtyard of the Department of Engineering Enzo Ferrari in Modena">
+
 ### Prof. Luigi Rovati
 
 **OptoLAB lead and main contact**
 
 [luigi.rovati@unimore.it](mailto:luigi.rovati@unimore.it)
-
-[UNIMORE institutional profile](https://unimore.unifind.cineca.it/resource/person/66046?language=en_US)
 :::
 
 ::: {.contact-details}
@@ -31,7 +31,7 @@ Via Pietro Vivarelli 10, Building 26<br>
 [Measurements, Instrumentation and Sensors Group](https://www.misure.unimore.it/)<br>
 [OptoLAB on ResearchGate](https://www.researchgate.net/lab/OptoLab-Unimore-Luigi-Rovati)
 
-**Directions**<br>
-[Open the address in OpenStreetMap](https://www.openstreetmap.org/search?query=Via%20Pietro%20Vivarelli%2010%2C%20Modena)
+**Map and directions**<br>
+[Open the OptoLAB location in Google Maps](https://www.google.com/maps/search/?api=1&query=Department+of+Engineering+Enzo+Ferrari%2C+Via+Pietro+Vivarelli+10%2C+41125+Modena)
 :::
 :::
