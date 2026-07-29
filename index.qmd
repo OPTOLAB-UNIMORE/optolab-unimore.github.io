@@ -19,7 +19,7 @@ page-layout: full
 
 ::: {.hero-actions}
 [Explore our research](research.qmd){.btn .btn-primary .btn-lg}
-[Contact the lab](contact.qmd){.btn .btn-outline-primary .btn-lg}
+[Contact the lab](team.qmd#contact){.btn .btn-outline-primary .btn-lg}
 :::
 :::
 
@@ -182,5 +182,5 @@ Public repositories make methods easier to examine, teach and extend. Explore Op
 
 We welcome conversations with academic and industrial partners working at the intersection of biomedical optics, sensing and research instrumentation.
 
-[Start a conversation](contact.qmd){.btn .btn-primary .btn-lg}
+[Start a conversation](team.qmd#contact){.btn .btn-primary .btn-lg}
 :::

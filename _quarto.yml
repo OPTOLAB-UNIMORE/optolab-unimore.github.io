@@ -40,18 +40,10 @@ website:
         text: Home
       - href: research.qmd
         text: Research
-      - href: projects/index.qmd
-        text: Projects
       - href: publications.qmd
         text: Publications
-      - href: software.qmd
-        text: Software
-      - href: facilities.qmd
-        text: Facilities
       - href: team.qmd
         text: Team
-      - href: contact.qmd
-        text: Contact
     right:
       - icon: github
         href: https://github.com/OPTOLAB-UNIMORE

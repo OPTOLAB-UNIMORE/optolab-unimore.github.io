@@ -89,7 +89,7 @@ Biomedical measurement systems, electronics, signal processing and sensor-based 
 
 <p class="person-email"><a href="mailto:daniele.goldoni@unimore.it">daniele.goldoni@unimore.it</a></p>
 
-[UniFind profile](https://unimore.unifind.cineca.it/) · [Google Scholar](https://scholar.google.com/citations?user=KOyMMasAAAAJ&hl=it) · [ORCID](https://orcid.org/0000-0002-7247-9554) · [ResearchGate](https://www.researchgate.net/profile/Daniele-Goldoni)
+[Google Scholar](https://scholar.google.com/citations?user=KOyMMasAAAAJ&hl=it) · [ORCID](https://orcid.org/0000-0002-7247-9554) · [ResearchGate](https://www.researchgate.net/profile/Daniele-Goldoni)
 :::
 
 ::: {.person-card}
@@ -104,5 +104,37 @@ Doctoral researcher working on compact optical sensors, flexible calibration and
 <p class="person-email"><a href="mailto:alberto.besozzi@unimore.it">alberto.besozzi@unimore.it</a></p>
 
 [UniFind profile](https://unimore.unifind.cineca.it/resource/person/232859) · [Google Scholar](https://scholar.google.com/citations?user=Z4Lv8ncAAAAJ&hl=it) · [ORCID](https://orcid.org/0009-0003-3153-2544) · [ResearchGate](https://www.researchgate.net/profile/Alberto-Besozzi)
+:::
+:::
+
+## Contact
+
+OptoLAB welcomes enquiries about scientific collaboration, technology development, student projects and shared research questions in biomedical optics and instrumentation.
+
+::: {.contact-panel}
+::: {.contact-primary}
+<img class="contact-campus" src="assets/images/dief-campus.jpg" alt="Courtyard of the Department of Engineering Enzo Ferrari in Modena">
+
+### Prof. Luigi Rovati
+
+**OptoLAB lead and main contact**
+
+[luigi.rovati@unimore.it](mailto:luigi.rovati@unimore.it)
+:::
+
+::: {.contact-details}
+**Department of Engineering “Enzo Ferrari”**<br>
+University of Modena and Reggio Emilia
+
+**Address**<br>
+Via Pietro Vivarelli 10, Building 26<br>
+41125 Modena, Italy
+
+**Public profiles**<br>
+[Measurements, Instrumentation and Sensors Group](https://www.misure.unimore.it/)<br>
+[OptoLAB on ResearchGate](https://www.researchgate.net/lab/OptoLab-Unimore-Luigi-Rovati)
+
+**Map and directions**<br>
+[Open the OptoLAB location in Google Maps](https://www.google.com/maps/search/?api=1&query=Department+of+Engineering+Enzo+Ferrari%2C+Via+Pietro+Vivarelli+10%2C+41125+Modena)
 :::
 :::

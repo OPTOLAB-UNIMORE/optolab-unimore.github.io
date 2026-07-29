@@ -34,6 +34,60 @@ We investigate colorimetric, photometric, radiometric and multispectral measurem
 
 We develop computational approaches for reconstruction, quality assessment, feature extraction and interpretation of optical data, including machine-learning methods for ophthalmic images and curated research datasets.
 
+## Facilities & capabilities
+
+OptoLAB supports the development of complete optical measurement chains, from experimental layouts and optomechanics to electronic acquisition, calibration and computational analysis.
+
+::: {.card-grid .three}
+::: {.topic-card}
+### Optical prototyping
+
+Experimental layouts for illumination, collection, imaging and spectral sensing, supported by C-mount optics, broadband mirrors, filters and optomechanical components.
+:::
+
+::: {.topic-card}
+### Imaging sensors
+
+Machine-vision cameras for experimental image acquisition, including Matrix Vision/Balluff BlueFOX3 USB3 camera systems in 3 MP and 5 MP configurations.
+:::
+
+::: {.topic-card}
+### Electronic instrumentation
+
+Sensor interfaces, acquisition electronics and optoelectronic system integration for weak-signal and multi-channel measurements.
+:::
+
+::: {.topic-card}
+### Embedded platforms
+
+Compact computing and embedded-acquisition systems for device control, communication, portable instrumentation and edge processing.
+:::
+
+::: {.topic-card}
+### Calibration workflows
+
+Methods and software for sensor characterization, reference comparison, photometric and radiometric calibration and model fitting.
+:::
+
+::: {.topic-card}
+### Computational prototyping
+
+Dedicated computing resources and in-house additive manufacturing for data analysis, instrument housings, optical supports and test parts.
+:::
+:::
+
+### Representative equipment
+
+The current laboratory records include:
+
+- Matrix Vision/Balluff BlueFOX3 USB3 machine-vision cameras, including a 5 MP BF3-5M-0051ZG-110510 system;
+- C-mount lenses and mounts, broadband mirrors for 750–1100 nm, a hot mirror and related optical components;
+- LattePanda Alpha compact development systems used in portable ophthalmic image-acquisition prototypes;
+- a dedicated computing workstation for modelling, acquisition and analysis;
+- a Creality CR-10 Smart Pro 3D printer for rapid prototyping.
+
+This is a representative capability overview rather than a complete booking inventory. Configurations, availability and access conditions should be confirmed with the laboratory.
+
 ## Public research profiles
 
 - [OptoLAB on ResearchGate](https://www.researchgate.net/lab/OptoLab-Unimore-Luigi-Rovati)
