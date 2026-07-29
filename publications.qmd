@@ -1,10 +1,21 @@
 ---
 title: "Publications"
-description: "Peer-reviewed journal and conference publications by OptoLAB members over the last five years."
+description: "This page contains Peer-reviewed journal and conference publications by OptoLAB members over the last five years."
 canonical-url: "https://optolab-unimore.github.io/publications.html"
 ---
 
-Journal articles and conference papers authored by OptoLAB members over the last five years (2021&ndash;2026), grouped by year and formatted in IEEE style. Each entry links to its DOI record.
+Over the last five years (2021&ndash;2026), OptoLAB members have (co-)authored **103 peer-reviewed publications** across **58 different journals and conference proceedings** &mdash; roughly **19 papers a year**. The work spans instrumentation and measurement, biomedical and ophthalmic optics, sensing and computational imaging, with *IEEE Transactions on Instrumentation and Measurement* the most frequent journal.
+
+```{=html}
+<div class="pub-stats">
+  <div class="stat"><span class="num">103</span><span class="label">Publications since 2021</span></div>
+  <div class="stat"><span class="num">56</span><span class="label">Journal articles</span></div>
+  <div class="stat"><span class="num">47</span><span class="label">Conference papers</span></div>
+  <div class="stat"><span class="num">58</span><span class="label">Journals &amp; proceedings</span></div>
+</div>
+```
+
+The list below is grouped by year and formatted in IEEE style; each entry links to its DOI record.
 
 ## 2026
 

@@ -288,6 +288,48 @@ h1, h2, h3 {
   object-fit: cover;
   aspect-ratio: 16 / 7;
 }
+
+.pub-stats {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 1rem;
+  max-width: 1240px;
+  margin: 2rem auto 2.75rem;
+}
+.pub-stats .stat {
+  position: relative;
+  overflow: hidden;
+  padding: 1.7rem 1.4rem 1.5rem;
+  border: 1px solid var(--line);
+  border-radius: 1rem;
+  background: var(--paper);
+  box-shadow: 0 4px 18px rgba(17, 49, 68, .035);
+}
+.pub-stats .stat::before {
+  content: "";
+  position: absolute;
+  inset: 0 0 auto;
+  height: 4px;
+  background: linear-gradient(90deg, var(--cyan), var(--violet), var(--magenta));
+}
+.pub-stats .stat p { margin: 0; }
+.pub-stats .num {
+  display: block;
+  color: var(--ink);
+  font-size: clamp(2.1rem, 4vw, 2.9rem);
+  font-weight: 780;
+  line-height: 1;
+  letter-spacing: -.03em;
+}
+.pub-stats .label {
+  display: block;
+  margin-top: .55rem;
+  color: var(--teal);
+  font-size: .72rem;
+  font-weight: 800;
+  letter-spacing: .1em;
+  text-transform: uppercase;
+}
 .not-found { max-width: 760px; margin: 10vh auto; padding: 2rem; text-align: center; }
 .error-code { margin: 0; color: var(--teal); font-size: clamp(6rem, 18vw, 13rem); font-weight: 800; line-height: .8; opacity: .15; }
 
@@ -297,6 +339,7 @@ h1, h2, h3 {
   .hero { grid-template-columns: 1fr; min-height: auto; }
   .hero-art { max-width: 620px; margin: 0 auto; }
   .card-grid.three, .resource-grid, .people-grid { grid-template-columns: repeat(2, 1fr); }
+  .pub-stats { grid-template-columns: repeat(2, 1fr); }
   .split-section { grid-template-columns: 1fr; gap: 2rem; }
 }
 
