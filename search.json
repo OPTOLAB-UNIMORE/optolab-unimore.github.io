@@ -4,7 +4,14 @@
     "href": "team.html",
     "title": "Team",
     "section": "",
-    "text": "OptoLAB is led by Prof. Luigi Rovati and brings together expertise in measurement science, biomedical engineering, vision science, electronics and optical instrumentation.\n\n\n\n\nLuigi Rovati\nFull Professor · Laboratory Head\nMeasurement science and optoelectronic instrumentation for biomedical and ophthalmic applications, with particular attention to weak optical signals and metrological characterization.\n\nluigi.rovati@unimore.it\n\nUniFind profile · Google Scholar · ORCID · ResearchGate\n\n\n\n\n\nStefano Cattini\nAssociate Professor\nElectronic measurements, sensor systems and measurement methods for industrial, automotive and biomedical applications.\n\nstefano.cattini@unimore.it\n\nUniFind profile · Google Scholar · ORCID · ResearchGate\n\n\n\n\n\nGiovanni Gibertoni\nAssistant Professor · Bioengineering\nBiomedical optical instrumentation, ophthalmic imaging, image-quality assessment and computational methods for ocular measurements.\n\ngiovanni.gibertoni@unimore.it\n\nUniFind profile · Google Scholar · ORCID · ResearchGate\n\n\n\n\n\nDavide Cassanelli\nResearcher · Automotive\nOptical measurement systems and sensor characterization, including LiDAR safety and portable fluorescence instrumentation.\n\ndavide.cassanelli@unimore.it\n\nUniFind profile · Google Scholar · ORCID · ResearchGate\n\n\n\n\n\nAgostino Gibaldi\nAssistant Professor · Bioengineering\nVision science, binocular vision, eye tracking, wearable systems and computational models of visual behaviour.\n\nagostino.gibaldi@unimore.it\n\nUniFind profile · Google Scholar · ORCID · ResearchGate\n\n\n\n\n\nDaniele Goldoni\nResearcher · Biomedical\nBiomedical measurement systems, electronics, signal processing and sensor-based methods for biological and environmental analysis.\n\ndaniele.goldoni@unimore.it\n\nUniFind profile · Google Scholar · ORCID · ResearchGate\n\n\n\n\n\nAlberto Besozzi\nPhD Student\nDoctoral researcher working on compact optical sensors, flexible calibration and wearable measurement systems under the supervision of Agostino Gibaldi and Luigi Rovati.\n\nalberto.besozzi@unimore.it\n\nUniFind profile · Google Scholar · ORCID · ResearchGate\n\n\n\n\n\n\n Back to top"
+    "text": "OptoLAB is led by Prof. Luigi Rovati and brings together expertise in measurement science, biomedical engineering, vision science, electronics and optical instrumentation."
+  },
+  {
+    "objectID": "team.html#contact",
+    "href": "team.html#contact",
+    "title": "Team",
+    "section": "Contact",
+    "text": "Contact\nOptoLAB welcomes enquiries about scientific collaboration, technology development, student projects and shared research questions in biomedical optics and instrumentation.\n\n\n\n\nProf. Luigi Rovati\nOptoLAB lead and main contact\nluigi.rovati@unimore.it\n\n\n\nDepartment of Engineering “Enzo Ferrari” University of Modena and Reggio Emilia\nAddress Via Pietro Vivarelli 10, Building 26 41125 Modena, Italy\nPublic profiles Measurements, Instrumentation and Sensors Group OptoLAB on ResearchGate\nMap and directions Open the OptoLAB location in Google Maps"
   },
   {
     "objectID": "research.html",
@@ -61,6 +68,13 @@
     "title": "Research",
     "section": "Computational imaging and artificial intelligence",
     "text": "Computational imaging and artificial intelligence\nWe develop computational approaches for reconstruction, quality assessment, feature extraction and interpretation of optical data, including machine-learning methods for ophthalmic images and curated research datasets."
+  },
+  {
+    "objectID": "research.html#facilities-capabilities",
+    "href": "research.html#facilities-capabilities",
+    "title": "Research",
+    "section": "Facilities & capabilities",
+    "text": "Facilities & capabilities\nOptoLAB supports the development of complete optical measurement chains, from experimental layouts and optomechanics to electronic acquisition, calibration and computational analysis.\n\n\nOptical prototyping\nExperimental layouts for illumination, collection, imaging and spectral sensing, supported by C-mount optics, broadband mirrors, filters and optomechanical components.\n\n\nImaging sensors\nMachine-vision cameras for experimental image acquisition, including Matrix Vision/Balluff BlueFOX3 USB3 camera systems in 3 MP and 5 MP configurations.\n\n\nElectronic instrumentation\nSensor interfaces, acquisition electronics and optoelectronic system integration for weak-signal and multi-channel measurements.\n\n\nEmbedded platforms\nCompact computing and embedded-acquisition systems for device control, communication, portable instrumentation and edge processing.\n\n\nCalibration workflows\nMethods and software for sensor characterization, reference comparison, photometric and radiometric calibration and model fitting.\n\n\nComputational prototyping\nDedicated computing resources and in-house additive manufacturing for data analysis, instrument housings, optical supports and test parts.\n\n\n\nRepresentative equipment\nThe current laboratory records include:\n\nMatrix Vision/Balluff BlueFOX3 USB3 machine-vision cameras, including a 5 MP BF3-5M-0051ZG-110510 system;\nC-mount lenses and mounts, broadband mirrors for 750–1100 nm, a hot mirror and related optical components;\nLattePanda Alpha compact development systems used in portable ophthalmic image-acquisition prototypes;\na dedicated computing workstation for modelling, acquisition and analysis;\na Creality CR-10 Smart Pro 3D printer for rapid prototyping.\n\nThis is a representative capability overview rather than a complete booking inventory. Configurations, availability and access conditions should be confirmed with the laboratory."
   },
   {
     "objectID": "research.html#public-research-profiles",
@@ -166,34 +180,6 @@
     "title": "OptoLAB",
     "section": "A measurement challenge is a good place to start.",
     "text": "A measurement challenge is a good place to start.\nWe welcome conversations with academic and industrial partners working at the intersection of biomedical optics, sensing and research instrumentation.\nStart a conversation"
-  },
-  {
-    "objectID": "contact.html",
-    "href": "contact.html",
-    "title": "Contact",
-    "section": "",
-    "text": "OptoLAB welcomes enquiries about scientific collaboration, technology development, student projects and shared research questions in biomedical optics and instrumentation.\n\n\n\n\n\nOptoLAB lead and main contact\nluigi.rovati@unimore.it\n\n\n\nDepartment of Engineering “Enzo Ferrari” University of Modena and Reggio Emilia\nAddress Via Pietro Vivarelli 10, Building 26 41125 Modena, Italy\nPublic profiles Measurements, Instrumentation and Sensors Group OptoLAB on ResearchGate\nMap and directions Open the OptoLAB location in Google Maps"
-  },
-  {
-    "objectID": "contact.html#start-a-research-conversation",
-    "href": "contact.html#start-a-research-conversation",
-    "title": "Contact",
-    "section": "",
-    "text": "OptoLAB welcomes enquiries about scientific collaboration, technology development, student projects and shared research questions in biomedical optics and instrumentation.\n\n\n\n\n\nOptoLAB lead and main contact\nluigi.rovati@unimore.it\n\n\n\nDepartment of Engineering “Enzo Ferrari” University of Modena and Reggio Emilia\nAddress Via Pietro Vivarelli 10, Building 26 41125 Modena, Italy\nPublic profiles Measurements, Instrumentation and Sensors Group OptoLAB on ResearchGate\nMap and directions Open the OptoLAB location in Google Maps"
-  },
-  {
-    "objectID": "facilities.html",
-    "href": "facilities.html",
-    "title": "Facilities & Capabilities",
-    "section": "",
-    "text": "OptoLAB supports the development of complete optical measurement chains, from experimental layouts and optomechanics to electronic acquisition, calibration and computational analysis."
-  },
-  {
-    "objectID": "facilities.html#representative-equipment",
-    "href": "facilities.html#representative-equipment",
-    "title": "Facilities & Capabilities",
-    "section": "Representative equipment",
-    "text": "Representative equipment\nThe current laboratory records include:\n\nMatrix Vision/Balluff BlueFOX3 USB3 machine-vision cameras, including a 5 MP BF3-5M-0051ZG-110510 system;\nC-mount lenses and mounts, broadband mirrors for 750–1100 nm, a hot mirror and related optical components;\nLattePanda Alpha compact development systems used in portable ophthalmic image-acquisition prototypes;\na dedicated computing workstation for modelling, acquisition and analysis;\na Creality CR-10 Smart Pro 3D printer for rapid prototyping.\n\nThis is a representative capability overview rather than a complete booking inventory. Configurations, availability and access conditions should be confirmed with the laboratory."
   },
   {
     "objectID": "projects/index.html",
