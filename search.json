@@ -147,32 +147,11 @@
     "text": "University of Modena and Reggio Emilia\n\n\n\n\nAn electronic-measurement laboratory specialized in optical and optoelectronic instrumentation.\n\n\nLed by Prof. Luigi Rovati, OptoLAB designs, builds and characterizes optical measurement systems for biomedical, ophthalmic and environmental applications, bringing together optics, electronics, embedded systems and computation across the whole measurement chain.\n\n\nExplore our research Contact the lab\n\n\n\n\n\n\n\nAbstract illustration of spectral light beams crossing optical elements and converging on a sensor"
   },
   {
-    "objectID": "index.html#across-optics-instruments-and-computation",
-    "href": "index.html#across-optics-instruments-and-computation",
+    "objectID": "index.html#what-we-investigate",
+    "href": "index.html#what-we-investigate",
     "title": "OptoLAB",
-    "section": "Across optics, instruments and computation",
-    "text": "Across optics, instruments and computation\nWe investigate measurement chains as connected systems: optical interaction, sensor response, electronic acquisition and computational interpretation."
-  },
-  {
-    "objectID": "index.html#from-measurement-idea-to-validated-method",
-    "href": "index.html#from-measurement-idea-to-validated-method",
-    "title": "OptoLAB",
-    "section": "From measurement idea to validated method",
-    "text": "From measurement idea to validated method\nRecent work spans calibrated compact sensors, ophthalmic measurement support and wearable monitoring of the visual environment."
-  },
-  {
-    "objectID": "index.html#building-the-complete-measurement-chain",
-    "href": "index.html#building-the-complete-measurement-chain",
-    "title": "OptoLAB",
-    "section": "Building the complete measurement chain",
-    "text": "Building the complete measurement chain\nOur work spans the interfaces between light, hardware and information, from optomechanical prototyping and sensor characterization to embedded acquisition and computational analysis."
-  },
-  {
-    "objectID": "index.html#inspectable-tools-for-learning-and-research",
-    "href": "index.html#inspectable-tools-for-learning-and-research",
-    "title": "OptoLAB",
-    "section": "Inspectable tools for learning and research",
-    "text": "Inspectable tools for learning and research\nPublic repositories make methods easier to examine, teach and extend. Explore OptoLAB resources for sensor calibration, embedded camera acquisition and serial instrumentation.\nBrowse software & resources Visit GitHub"
+    "section": "What we investigate",
+    "text": "What we investigate\nWe treat optical measurement as a connected chain, from optical interaction and sensor response to electronic acquisition and computational interpretation. Our activity spans ophthalmic instrumentation, biomedical optical imaging, wearable and spectral sensing, embedded acquisition and computational imaging.\nExplore our research →"
   },
   {
     "objectID": "index.html#a-measurement-challenge-is-a-good-place-to-start.",
@@ -299,12 +278,5 @@
     "title": "Software & Resources",
     "section": "Responsible reuse",
     "text": "Responsible reuse\nEach repository is the authoritative source for its requirements, setup instructions and current status. Review its README and license information before reuse."
-  },
-  {
-    "objectID": "index.html#what-we-investigate",
-    "href": "index.html#what-we-investigate",
-    "title": "OptoLAB",
-    "section": "What we investigate",
-    "text": "What we investigate\nWe treat optical measurement as a connected chain, from optical interaction and sensor response to electronic acquisition and computational interpretation. Our activity spans ophthalmic instrumentation, biomedical optical imaging, wearable and spectral sensing, embedded acquisition and computational imaging.\nExplore our research →"
   }
 ]
