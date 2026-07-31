@@ -1,6 +1,6 @@
 ---
 title: "OptoLAB"
-pagetitle: "OptoLAB | Biomedical Optics and Optoelectronic Instrumentation"
+pagetitle: "OptoLAB - Electronics Measurement laboratory specialized in Optoelectronics"
 description: "OptoLAB develops optical technologies for biomedical imaging, sensing and ophthalmic instrumentation at the University of Modena and Reggio Emilia."
 canonical-url: "https://optolab-unimore.github.io/"
 toc: false
@@ -13,9 +13,9 @@ page-layout: full
 
 # Light, measured with purpose.
 
-<p class="hero-lead">Optical technologies for biomedical imaging, sensing and ophthalmic instrumentation.</p>
+<p class="hero-lead">An electronic-measurement laboratory specialized in optical and optoelectronic instrumentation.</p>
 
-<p class="hero-context">Led by Prof. Luigi Rovati, OptoLAB brings together optics, electronics, embedded systems and computation to develop and characterize optical and optoelectronic measurement systems for biomedical and ophthalmic applications.</p>
+<p class="hero-context">Led by Prof. Luigi Rovati, OptoLAB designs, builds and characterizes optical measurement systems for biomedical, ophthalmic and environmental applications, bringing together optics, electronics, embedded systems and computation across the whole measurement chain.</p>
 
 ::: {.hero-actions}
 [Explore our research](research.qmd){.btn .btn-primary .btn-lg}
@@ -29,150 +29,13 @@ page-layout: full
 :::
 
 ::: {.section-intro}
-<p class="eyebrow">Research areas</p>
+<p class="eyebrow">Research</p>
 
-## Across optics, instruments and computation
+## What we investigate
 
-We investigate measurement chains as connected systems: optical interaction, sensor response, electronic acquisition and computational interpretation.
-:::
+We treat optical measurement as a connected chain, from optical interaction and sensor response to electronic acquisition and computational interpretation. Our activity spans ophthalmic instrumentation, biomedical optical imaging, wearable and spectral sensing, embedded acquisition and computational imaging.
 
-::: {.card-grid .three}
-::: {.topic-card}
-<span class="card-index">01</span>
-
-### Ophthalmic instrumentation
-
-Optical and optoelectronic approaches for eye diagnostics, imaging and measurement-quality support.
-
-[Explore the area →](research.qmd#ophthalmic-instrumentation)
-:::
-
-::: {.topic-card}
-<span class="card-index">02</span>
-
-### Biomedical optical imaging
-
-Imaging architectures and acquisition methods designed around biological and environmental measurement questions.
-
-[Explore the area →](research.qmd#biomedical-optical-imaging)
-:::
-
-::: {.topic-card}
-<span class="card-index">03</span>
-
-### Wearable optical sensing
-
-Compact sensing platforms for light exposure, visual-environment monitoring and embedded acquisition.
-
-[Explore the area →](research.qmd#wearable-optical-sensing)
-:::
-
-::: {.topic-card}
-<span class="card-index">04</span>
-
-### Spectral sensing
-
-Colorimetric, photometric and radiometric methods, including calibration of compact multi-channel sensors.
-
-[Explore the area →](research.qmd#colorimetry-and-spectral-sensing)
-:::
-
-::: {.topic-card}
-<span class="card-index">05</span>
-
-### Embedded acquisition
-
-Hardware–software co-design for experimental control, sensor readout and portable prototypes.
-
-[Explore the area →](research.qmd#embedded-acquisition-systems)
-:::
-
-::: {.topic-card}
-<span class="card-index">06</span>
-
-### Computational imaging & AI
-
-Computational methods for image quality, feature extraction and interpretation of optical data.
-
-[Explore the area →](research.qmd#computational-imaging-and-artificial-intelligence)
-:::
-:::
-
-::: {.band}
-::: {.section-intro}
-<p class="eyebrow">Selected work</p>
-
-## From measurement idea to validated method
-
-Recent work spans calibrated compact sensors, ophthalmic measurement support and wearable monitoring of the visual environment.
-:::
-
-::: {.card-grid .three}
-::: {.work-card}
-<div class="spectral-line"></div>
-
-### Multichannel sensor calibration
-
-A flexible method for photometric and radiometric measurements with compact, low-cost multi-channel sensors.
-
-[Explore the work](projects/items/multichannel-calibration.qmd)
-:::
-
-::: {.work-card}
-<div class="spectral-line cool"></div>
-
-### Ophthalmic measurement support
-
-Eye-position monitoring and image-quality assessment methods designed to improve ophthalmic measurements.
-
-[Explore the work](projects/items/embedded-camera.qmd)
-:::
-
-::: {.work-card}
-<div class="spectral-line warm"></div>
-
-### Wearable visual-environment monitoring
-
-A wearable optical approach for characterizing personal light exposure and visual habits relevant to myopia research.
-
-[Explore the work](projects/items/wearable-optics.qmd)
-:::
-:::
-:::
-
-::: {.split-section}
-::: {.split-copy}
-<p class="eyebrow">Capabilities</p>
-
-## Building the complete measurement chain
-
-Our work spans the interfaces between light, hardware and information, from optomechanical prototyping and sensor characterization to embedded acquisition and computational analysis.
-:::
-
-::: {.capability-list}
-- **Optical architecture** — illumination, collection and sensing concepts
-- **Optoelectronic instrumentation** — sensor interfaces and measurement electronics
-- **Embedded systems** — acquisition, control and device communication
-- **Experimental software** — desktop tools, protocols and data inspection
-- **Calibration** — photometric, radiometric and multichannel workflows
-- **Computational methods** — signal processing, imaging and artificial intelligence
-:::
-:::
-
-::: {.open-science}
-::: {.open-science-mark}
-`{ }`
-:::
-::: {.open-science-copy}
-<p class="eyebrow">Open science & software</p>
-
-## Inspectable tools for learning and research
-
-Public repositories make methods easier to examine, teach and extend. Explore OptoLAB resources for sensor calibration, embedded camera acquisition and serial instrumentation.
-
-[Browse software & resources](software.qmd){.btn .btn-light}
-[Visit GitHub](https://github.com/OPTOLAB-UNIMORE){.btn .btn-outline-light}
-:::
+[Explore our research →](research.qmd){.btn .btn-primary .btn-lg}
 :::
 
 ::: {.collab-cta}
@@ -182,5 +45,5 @@ Public repositories make methods easier to examine, teach and extend. Explore Op
 
 We welcome conversations with academic and industrial partners working at the intersection of biomedical optics, sensing and research instrumentation.
 
-[Start a conversation](team.qmd#contact){.btn .btn-primary .btn-lg}
+[Contact the lab](team.qmd#contact){.btn .btn-primary .btn-lg}
 :::
