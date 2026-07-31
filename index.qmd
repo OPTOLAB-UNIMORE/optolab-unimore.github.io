@@ -1,5 +1,4 @@
 ---
-title: "OptoLAB"
 pagetitle: "OptoLAB - Electronics Measurement laboratory specialized in Optoelectronics"
 description: "OptoLAB develops optical technologies for biomedical imaging, sensing and ophthalmic instrumentation at the University of Modena and Reggio Emilia."
 canonical-url: "https://optolab-unimore.github.io/"
@@ -9,13 +8,13 @@ page-layout: full
 
 ::: {.hero}
 ::: {.hero-copy}
-<p class="eyebrow">University of Modena and Reggio Emilia</p>
+<p class="eyebrow">OPTOLAB - University of Modena and Reggio Emilia</p>
 
-# Light, measured with purpose.
+# Light measurement and beyond
 
-<p class="hero-lead">An electronic-measurement laboratory specialized in optical and optoelectronic instrumentation.</p>
+<p class="hero-lead">An Electronic Measurement laboratory specialized in Optoelectronics instrumentation, devices and technologies.</p>
 
-<p class="hero-context">Led by Prof. Luigi Rovati, OptoLAB designs, builds and characterizes optical measurement systems for biomedical, ophthalmic and environmental applications, bringing together optics, electronics, embedded systems and computation across the whole measurement chain.</p>
+<p class="hero-context">Led by Prof. Luigi Rovati, OptoLAB designs, builds and characterizes optical measurement systems for biomedical, ophthalmic, environmental and automotive applications, bringing together optics, electronics, embedded systems and computation across the whole measurement chain.</p>
 
 ::: {.hero-actions}
 [Explore our research](research.qmd){.btn .btn-primary .btn-lg}
