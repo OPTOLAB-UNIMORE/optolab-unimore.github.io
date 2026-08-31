@@ -1,0 +1,28 @@
+---
+title: "Short headline for the entry"
+description: "One- or two-sentence summary, written like a caption. Used on the news cards."
+canonical-url: "https://optolab-unimore.github.io/news/items/YYYY-MM-DD-short-slug.html"
+date: YYYY-MM-DD
+categories: [Conference]
+# Photo is optional. To add one, place the file in assets/images/ (named
+# news-<slug>.jpg) and uncomment both lines below. Items without a photo render
+# as text-only cards.
+# image: /assets/images/news-<slug>.jpg
+# image-alt: "Describe what the photo shows, for screen readers."
+---
+
+Body of the entry: a short paragraph (2–4 sentences) about the conference, talk, award or
+update, linking to the related record where relevant.
+
+Notes on using this template:
+
+- Copy this file to `news/items/YYYY-MM-DD-short-slug.qmd` using the date of the event, so
+  entries stay in chronological order both in the folder and in the listings.
+- Update the title, description, date and `canonical-url` to match the new filename.
+- Set `categories` (e.g. `Conference`, `Award`, `Publication`, `Seminar`) to drive the
+  filters on the news archive.
+- Image paths start with `/` so the same entry resolves correctly on the home page and in
+  the archive.
+
+This file is prefixed with `_`, so Quarto skips it: it never renders and never appears in
+the listings. See `README.md` → "Adding a news item".

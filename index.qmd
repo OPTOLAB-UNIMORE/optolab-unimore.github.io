@@ -7,10 +7,10 @@ page-layout: full
 listing:
   id: latest-news
   contents: news/items
-  type: grid
-  grid-columns: 2
-  max-items: 2
+  template: assets/listings/news-compact.ejs
+  max-items: 3
   sort: "date desc"
+  date-format: "D MMMM YYYY"
   fields: [image, title, date, description]
 ---
 
@@ -30,8 +30,13 @@ listing:
 :::
 :::
 
-::: {.hero-art}
-![Abstract illustration of spectral light beams crossing optical elements and converging on a sensor](assets/brand/optical-hero.svg){fig-alt="Abstract spectral light paths passing through circular optical elements and reaching a detector grid"}
+::: {.hero-news}
+<p class="eyebrow">Latest news</p>
+
+:::{#latest-news}
+:::
+
+[See all news →](news/index.qmd){.hero-news-more}
 :::
 :::
 
@@ -43,19 +48,6 @@ listing:
 We treat optical measurement as a connected chain, from optical interaction and sensor response to electronic acquisition and computational interpretation. Our activity spans ophthalmic instrumentation, biomedical optical imaging, wearable and spectral sensing, embedded acquisition and computational imaging.
 
 [Explore our research →](research.qmd){.btn .btn-primary .btn-lg}
-:::
-
-::: {.section-intro}
-<p class="eyebrow">News</p>
-
-## Latest news
-:::
-
-:::{#latest-news}
-:::
-
-::: {.section-intro}
-[See all news →](news/index.qmd){.btn .btn-outline-primary .btn-lg}
 :::
 
 ::: {.collab-cta}

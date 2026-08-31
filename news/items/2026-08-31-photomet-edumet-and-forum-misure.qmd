@@ -1,0 +1,11 @@
+---
+title: "Autumn conference season: IMEKO PHOTOMET/EDUMET 2026 and the Forum Nazionale delle Misure"
+description: "OptoLAB takes part in the joint IMEKO symposium in Klagenfurt and, the following week, in the GMEE national measurement forum in Reggio Calabria."
+canonical-url: "https://optolab-unimore.github.io/news/items/2026-08-31-photomet-edumet-and-forum-misure.html"
+date: 2026-08-31
+categories: [Conference]
+---
+
+Giovanni Gibertoni, Daniele Goldoni and Luigi Rovati are attending the joint IMEKO symposium **PHOTOMET/EDUMET 2026** — *Metrology in Transition: Education, Photonics, and the Impact of AI & Robotics* — hosted at Lakeside Park, Alpen-Adria-Universität Klagenfurt, Austria, on 31 August – 2 September 2026. The symposium brings together the two IMEKO technical committees on photonics (TC2) and on education and training in measurement science (TC1).
+
+The following week, Luigi Rovati and Davide Cassanelli will take part in the **Forum Nazionale delle Misure**, the annual national forum organized by GMEE (Gruppo Misure Elettriche ed Elettroniche), held at Università Mediterranea di Reggio Calabria on 7–9 September 2026.

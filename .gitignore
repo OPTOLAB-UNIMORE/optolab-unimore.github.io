@@ -8,3 +8,7 @@ Thumbs.db
 
 
 **/*.quarto_ipynb
+
+# Image drop zone for Claude — raw/unreviewed photos, never committed as-is.
+/assets/inbox/*
+!/assets/inbox/README.md

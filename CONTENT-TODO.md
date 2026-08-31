@@ -8,7 +8,8 @@ Items marked as complete were resolved from public UNIMORE profiles, the group w
 - [ ] Confirm or replace the extended title: **Optical and Optoelectronic Biomedical Instrumentation Laboratory**
 - [x] Add a source-grounded laboratory description and tagline
 - [x] Confirm the responsible UNIMORE department
-- [ ] Obtain an authorized institutional or laboratory logo and usage guidance
+- [x] Obtain an authorized institutional or laboratory logo (OptoLab logo supplied by the laboratory; used in the navbar and favicon)
+- [ ] Document logo usage guidance (clear space, minimum size, allowed backgrounds)
 - [ ] Confirm who approves and maintains website content
 - [ ] Review privacy requirements and add an appropriate notice if required
 

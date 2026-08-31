@@ -53,7 +53,14 @@ h1, h2, h3 {
   background: rgba(255, 255, 255, .94) !important;
 }
 
-.navbar-brand img { width: 2rem; height: 2rem; }
+.navbar-brand-container .navbar-logo {
+  width: auto;
+  height: 2.6rem;
+  min-height: 0;
+  max-height: 2.6rem;
+  padding-right: 0;
+  object-fit: contain;
+}
 .navbar-title { font-weight: 750; letter-spacing: -.02em; }
 .nav-link { font-size: .93rem; font-weight: 600; }
 
@@ -63,7 +70,7 @@ h1, h2, h3 {
 
 .hero {
   display: grid;
-  grid-template-columns: 1.07fr .93fr;
+  grid-template-columns: minmax(0, 1fr) minmax(300px, 380px);
   align-items: center;
   gap: clamp(2rem, 5vw, 6rem);
   min-height: calc(100vh - 4.5rem);
@@ -75,9 +82,9 @@ h1, h2, h3 {
 
 .hero h1 {
   max-width: 740px;
-  font-size: clamp(3.2rem, 7vw, 7rem);
+  font-size: clamp(2.9rem, 5vw, 5rem);
   font-weight: 760;
-  line-height: .95;
+  line-height: .98;
   letter-spacing: -.065em;
 }
 
@@ -91,7 +98,96 @@ h1, h2, h3 {
 
 .hero-context { max-width: 650px; color: var(--body); font-size: 1.05rem; }
 .hero-actions { display: flex; flex-wrap: wrap; gap: .8rem; margin-top: 2rem; }
-.hero-art img { width: 100%; filter: drop-shadow(0 28px 45px rgba(19, 69, 91, .14)); }
+.hero-news {
+  padding: clamp(1.6rem, 2.5vw, 2.2rem);
+  border: 1px solid var(--line);
+  border-radius: 1.25rem;
+  background: var(--paper);
+  box-shadow: var(--shadow);
+}
+
+.hero-news .eyebrow { margin-bottom: 1.25rem; }
+
+.news-feed { display: grid; }
+.news-feed p { margin: 0; }
+
+.news-feed-item {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 1rem;
+  margin: 0 -.7rem;
+  padding: 1.05rem .7rem;
+  border-top: 1px solid var(--line);
+  border-radius: .6rem;
+  color: inherit;
+  text-decoration: none;
+}
+
+.news-feed-item.has-thumb { grid-template-columns: 4.6rem 1fr; }
+.news-feed-item:first-child { border-top: 0; }
+
+.news-feed-item:hover,
+.news-feed-item:focus-visible { background: var(--mist); }
+
+.news-feed-thumb {
+  width: 4.6rem;
+  height: 4.6rem;
+  border-radius: .7rem;
+  object-fit: cover;
+}
+
+.news-feed-body { display: block; min-width: 0; }
+
+.news-feed-date {
+  display: block;
+  color: var(--teal);
+  font-size: .72rem;
+  font-weight: 800;
+  letter-spacing: .09em;
+  text-transform: uppercase;
+}
+
+.news-feed-title {
+  display: block;
+  margin-top: .3rem;
+  color: var(--ink);
+  font-size: 1.02rem;
+  font-weight: 700;
+  line-height: 1.3;
+}
+
+.news-feed-item:hover .news-feed-title { color: var(--teal); }
+
+.news-feed-desc {
+  display: -webkit-box;
+  overflow: hidden;
+  margin-top: .35rem;
+  color: var(--body);
+  font-size: .87rem;
+  line-height: 1.45;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 2;
+}
+
+.news-feed-desc p { margin: 0; }
+
+.hero-news-more {
+  display: inline-block;
+  margin-top: 1.4rem;
+  font-size: .9rem;
+  font-weight: 700;
+}
+
+.hero-news .quarto-listing { margin: 0; }
+
+/* News archive: entries without a photo get a spectral panel instead of a blank one. */
+.quarto-grid-item .listing-item-img-placeholder {
+  border-radius: .75rem .75rem 0 0;
+  background: linear-gradient(135deg, #0d3350, #12657a 55%, #7755a6);
+}
+
+.quarto-grid-item .thumbnail-image { object-fit: cover; }
+.quarto-grid-item .listing-title { line-height: 1.3; }
 
 .eyebrow {
   margin-bottom: 1rem;
@@ -338,7 +434,7 @@ h1, h2, h3 {
 
 @media (max-width: 991px) {
   .hero { grid-template-columns: 1fr; min-height: auto; }
-  .hero-art { max-width: 620px; margin: 0 auto; }
+  .hero-news { max-width: 620px; margin: 0 auto; }
   .card-grid.three, .resource-grid, .people-grid { grid-template-columns: repeat(2, 1fr); }
   .pub-stats { grid-template-columns: repeat(2, 1fr); }
   .split-section { grid-template-columns: 1fr; gap: 2rem; }
@@ -346,7 +442,7 @@ h1, h2, h3 {
 
 @media (max-width: 640px) {
   .hero { padding-top: 4rem; }
-  .hero h1 { font-size: clamp(3rem, 17vw, 4.7rem); }
+  .hero h1 { font-size: clamp(2.1rem, 10.5vw, 3.6rem); }
   .hero-actions .btn { width: 100%; }
   .card-grid.three, .resource-grid, .people-grid, .contact-panel { grid-template-columns: 1fr; }
   .band { margin: 4rem 0; padding-top: 4rem; padding-bottom: 4rem; }

@@ -13,4 +13,14 @@ Team portraits were retrieved on 23 July 2026 from the public staff page of the 
 | `team-alberto-besozzi.jpg` | <https://unimore.unifind.cineca.it/resource/person/232859> |
 | `dief-campus.jpg` | <https://www.ingmo.unimore.it/it> (homepage banner, retrieved 23 July 2026) |
 
+News photographs supplied directly by the laboratory:
+
+| File | Origin | Used in |
+|---|---|---|
+| `news-mdpi-best-poster-award-ceremony.jpg` | Photo supplied by Alberto Besozzi, International Summer School on Wearable Sensors, Rome, 10 June 2026 | `news/items/2026-06-10-mdpi-best-poster-award.qmd` |
+| `news-mdpi-best-poster-award-poster.jpg` | Photo supplied by Alberto Besozzi, International Summer School on Wearable Sensors, Rome, 10 June 2026 | `news/items/2026-06-10-mdpi-best-poster-award.qmd` |
+
+The ceremony photograph shows identifiable people other than the award recipient. Confirm
+that their consent covers publication on this website before treating the entry as final.
+
 Before institutional reuse, confirm that the original publication authorization also covers this website. Record the copyright holder, licence or written authorization for future assets, together with descriptive alternative text and the page where each image is used.

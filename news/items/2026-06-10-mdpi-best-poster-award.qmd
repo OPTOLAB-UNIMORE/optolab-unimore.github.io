@@ -1,0 +1,17 @@
+---
+title: "MDPI Best Poster Award for Alberto Besozzi in Rome"
+description: "MYRA-TECH, a wearable device for assessing environmental myopia risk factors, received the MDPI Best Poster Award at the International Summer School on Wearable Sensors."
+canonical-url: "https://optolab-unimore.github.io/news/items/2026-06-10-mdpi-best-poster-award.html"
+date: 2026-06-10
+categories: [Award]
+image: /assets/images/news-mdpi-best-poster-award-ceremony.jpg
+image-alt: "Alberto Besozzi receiving the MDPI Best Poster Award certificate on stage at the International Summer School on Wearable Sensors"
+---
+
+Alberto Besozzi received the **MDPI Best Poster Award** at the 3rd edition of the *International Summer School on Wearable Sensors*, held at Università Campus Bio-Medico di Roma on 8–10 June 2026. The award, sponsored by *Applied Sciences* — an open-access journal published by MDPI — was assigned by the school's Scientific Committee to the poster receiving the highest overall evaluation.
+
+The winning poster, **MYRA-TECH: Myopia Risk Assessment TECHnologies**, presents an ergonomic head-worn device for continuously monitoring a child's visual environment. It combines multichannel spectrometers for ambient light spectrum and intensity, an 8×8 time-of-flight sensor and an RGB camera for measuring viewing distances at high spatial resolution, and an inertial measurement unit for activity classification — all battery powered, for a full day of measurement.
+
+![Alberto Besozzi receives the MDPI Best Poster Award at the International Summer School on Wearable Sensors, Università Campus Bio-Medico di Roma.](/assets/images/news-mdpi-best-poster-award-ceremony.jpg){fig-alt="Alberto Besozzi holding the award certificate between two members of the school committee, in front of a screen announcing the MDPI poster award winner"}
+
+![The awarded poster, MYRA-TECH: Myopia Risk Assessment TECHnologies, and the award certificate.](/assets/images/news-mdpi-best-poster-award-poster.jpg){fig-alt="Alberto Besozzi standing beside the MYRA-TECH poster while holding the MDPI Best Poster Award certificate"}

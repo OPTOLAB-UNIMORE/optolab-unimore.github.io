@@ -1,0 +1,3 @@
+<div class="news-feed">
+<% for (const item of items) { %><a class="news-feed-item<% if (item.image) { %> has-thumb<% } %>" href="<%= item.path %>"><% if (item.image) { %><img class="news-feed-thumb" src="<%= item.image %>" alt=""><% } %><span class="news-feed-body"><span class="news-feed-date"><%= item.date %></span><span class="news-feed-title"><%= item.title %></span><% if (item.description) { %><span class="news-feed-desc"><%- item.description %></span><% } %></span></a><% } %>
+</div>

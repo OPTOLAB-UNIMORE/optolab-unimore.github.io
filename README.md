@@ -22,17 +22,19 @@ gh auth status
 ## Repository structure
 
 - `_quarto.yml`: website, navigation, SEO and output configuration
-- `index.qmd`: homepage, including the "Latest news" listing (2 most recent entries from `news/items/`)
+- `index.qmd`: homepage; the hero carries a "Latest news" panel with the 3 most recent entries from `news/items/`, rendered through `assets/listings/news-compact.ejs`
 - `research.qmd`: research areas, facilities and capabilities (no separate `facilities.qmd`)
 - `team.qmd`: team roster and contact information (no separate `contact.qmd`; contact details live in the `#contact` section of this page)
 - `publications.qmd`: publication index, hand-maintained as a flat, year-grouped Markdown list in IEEE style (there is no `publications.bib` — entries are added directly as Markdown)
 - `datasets.qmd`: public dataset index
 - `join-us.qmd`: opportunities for students and collaborators (thesis, internships, PhD) — currently a template pending real open positions
 - `news/index.qmd`: full news archive (filterable listing)
-- `news/items/`: one Quarto file per news entry (conference participations, awards, updates)
+- `news/items/`: one Quarto file per news entry (conference participations, awards, updates), named `YYYY-MM-DD-short-slug.qmd`; `_template.qmd` is the starting point and is skipped by Quarto
 - `software.qmd`: verified public repositories and resources — **not linked from the site navigation**, kept as a direct-URL page pending a content review
 - `projects/index.qmd` and `projects/items/`: filterable project listing — **not linked from the site navigation**, kept as a direct-URL page pending a content review
-- `assets/`: brand, image and icon assets
+- `assets/`: brand, image and icon assets (`assets/brand/README.md` documents the logo and favicon)
+- `assets/inbox/`: untracked drop zone for raw photos awaiting placement in `assets/images/`
+- `assets/listings/`: EJS templates for custom Quarto listings
 - `styles.scss`: visual system and responsive rules
 - `.github/workflows/publish.yml`: automated GitHub Pages deployment
 
@@ -68,17 +70,18 @@ Do not infer OptoLAB authorship or affiliations.
 
 ## Adding a news item
 
-1. Copy `news/items/example-conference-participation.qmd` to a new file with a short, lowercase, hyphenated filename.
-2. Replace the title, description and date in the YAML front matter, and set `categories` (e.g. `Conference`, `Award`, `Publication`, `Seminar`).
-3. If you have a photo, place it in `assets/images/`, uncomment the `image:` field and point it to that file — it becomes the card thumbnail on the Home page and the News archive.
+1. Copy `news/items/_template.qmd` to `news/items/YYYY-MM-DD-short-slug.qmd`, using the date of the event so entries stay in chronological order.
+2. Replace the title, description, date and `canonical-url` in the YAML front matter, and set `categories` (e.g. `Conference`, `Award`, `Publication`, `Seminar`).
+3. A photo is optional. To add one, place the file in `assets/images/` as `news-<slug>.jpg`, then uncomment the `image:` and `image-alt:` fields. Entries without a photo render as text-only cards on the Home page and get a spectral panel in place of the thumbnail in the archive. Keep image paths root-relative (`/assets/images/...`) so they resolve on both pages.
 4. Replace the body with a short paragraph (2–4 sentences), linking to a related record where relevant.
-5. Run `quarto render` and check the "Latest news" section on the Home page and the full archive at `news/index.qmd`.
+5. Record the photo's origin and authorization in `assets/images/README.md`.
+6. Run `quarto render` and check the "Latest news" panel on the Home page and the full archive at `news/index.qmd`.
 
-The Home page always shows the 2 most recent news entries by date; older entries remain available in the archive.
+Both listings sort by `date` descending. The Home page shows the 3 most recent entries; older entries remain available in the archive.
 
 ## Replacing images
 
-Place reviewed images in `assets/images/`, optimize them for the web and add meaningful alternative text at every use. Record copyright, licence or written authorization. Do not replace the provisional abstract mark with a UNIMORE or departmental logo until its use is authorized.
+Drop raw photos in `assets/inbox/` (untracked). Place the reviewed, optimized copy in `assets/images/` with a descriptive filename, add meaningful alternative text at every use, and record copyright, licence or written authorization in `assets/images/README.md`. The navbar and favicon use the laboratory's own OptoLab logo (see `assets/brand/README.md`); do not add a UNIMORE or departmental logo until its use is authorized.
 
 ## Updating team members
 

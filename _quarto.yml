@@ -12,7 +12,7 @@ website:
   title: "OptoLAB"
   description: "Optical technologies for biomedical imaging, sensing and ophthalmic instrumentation."
   site-url: "https://optolab-unimore.github.io/"
-  favicon: assets/brand/favicon.svg
+  favicon: assets/brand/favicon.png
   search:
     location: navbar
     type: overlay
@@ -33,9 +33,9 @@ website:
   navbar:
     background: light
     pinned: true
-    logo: assets/brand/favicon.svg
-    logo-alt: "OptoLAB abstract spectrum mark"
-    title: "OptoLAB"
+    logo: assets/brand/logo.png
+    logo-alt: "OptoLab"
+    title: false
     left:
       - href: index.qmd
         text: Home
@@ -49,9 +49,9 @@ website:
         text: News
       - href: team.qmd
         text: Team
-    right:
       - href: join-us.qmd
         text: Join Us
+    right:
       - icon: github
         href: https://github.com/OPTOLAB-UNIMORE
         aria-label: "OptoLAB on GitHub"
