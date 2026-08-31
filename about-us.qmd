@@ -1,11 +1,10 @@
 ---
 title: "About Us"
-description: "The OptoLAB team, how to reach the laboratory and how to join it."
+description: "The OptoLAB team and how to reach the laboratory."
 canonical-url: "https://optolab-unimore.github.io/about-us.html"
 page-layout: full
 aliases:
   - /team.html
-  - /join-us.html
 ---
 
 OptoLAB is led by Prof. Luigi Rovati and brings together expertise in measurement science, biomedical engineering, vision science, electronics and optical instrumentation.
@@ -136,56 +135,9 @@ Via Pietro Vivarelli 10, Building 26<br>
 41125 Modena, Italy
 
 **Public profiles**<br>
-[Measurements, Instrumentation and Sensors Group](https://www.misure.unimore.it/)<br>
 [OptoLAB on ResearchGate](https://www.researchgate.net/lab/OptoLab-Unimore-Luigi-Rovati)
 
 **Map and directions**<br>
 [Open the OptoLAB location in Google Maps](https://www.google.com/maps/search/?api=1&query=Department+of+Engineering+Enzo+Ferrari%2C+Via+Pietro+Vivarelli+10%2C+41125+Modena)
 :::
 :::
-
-
-## Join us
-
-::: {.status-pill}
-Template — content to be finalized
-:::
-
-OptoLAB welcomes motivated students and researchers interested in optical measurement, biomedical instrumentation, embedded systems and computational imaging. We regularly host bachelor's and master's thesis projects, and occasionally internships and PhD collaborations, connected to the laboratory's ongoing research directions.
-
-<!-- TODO: replace the placeholder cards below with the actual open positions/topics. -->
-
-### Current opportunities
-
-::: {.card-grid .three}
-::: {.topic-card}
-#### Bachelor's & master's theses
-
-Placeholder — list specific thesis topics here (e.g. wearable sensing, ophthalmic imaging, calibration methods), or describe how students can propose their own topic within the lab's research areas.
-:::
-
-::: {.topic-card}
-#### Internships
-
-Placeholder — describe available internship formats (curricular, extracurricular), typical duration and the skills a candidate should bring.
-:::
-
-::: {.topic-card}
-#### PhD & research collaborations
-
-Placeholder — describe current or upcoming PhD openings, co-supervision opportunities or visiting-researcher arrangements.
-:::
-:::
-
-### What we offer
-
-- Hands-on work across the full measurement chain: optics, electronics, embedded acquisition and data analysis.
-- Access to the laboratory's optical, imaging and embedded-computing equipment (see [Research → Facilities & capabilities](research.qmd#facilities-capabilities)).
-- Supervision from a team with an active publication record in instrumentation, biomedical optics and sensing.
-- The possibility of contributing to open, publishable research outputs.
-
-### How to apply
-
-1. Look through our [Research](research.qmd) areas to see what the lab currently works on.
-2. Email Prof. Luigi Rovati with a short note on your background and the area you're interested in, using the address in [Contact us](#contact) above.
-3. We'll get back to you to discuss available topics and next steps.

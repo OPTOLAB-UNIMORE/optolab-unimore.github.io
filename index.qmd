@@ -25,7 +25,7 @@ listing:
 <p class="hero-context">Led by Prof. Luigi Rovati, OptoLAB designs, builds and characterizes optical measurement systems for biomedical, ophthalmic, environmental and automotive applications, bringing together optics, electronics, embedded systems and computation across the whole measurement chain.</p>
 
 ::: {.hero-actions}
-[Explore our research](research.qmd){.btn .btn-primary .btn-lg}
+[Explore our work](publications.qmd){.btn .btn-primary .btn-lg}
 [Contact the lab](about-us.qmd#contact){.btn .btn-outline-primary .btn-lg}
 :::
 :::

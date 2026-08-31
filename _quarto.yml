@@ -45,6 +45,8 @@ website:
         text: Publications
       - href: news/index.qmd
         text: News
+      - href: students.qmd
+        text: Students
       - href: about-us.qmd
         text: About Us
     right:

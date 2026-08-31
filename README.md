@@ -24,7 +24,8 @@ gh auth status
 - `_quarto.yml`: website, navigation, SEO and output configuration
 - `index.qmd`: homepage; the hero carries a "Latest news" panel with the 3 most recent entries from `news/items/`, rendered through `assets/listings/news-compact.ejs`
 - `research.qmd`: research areas, facilities and capabilities (no separate `facilities.qmd`)
-- `about-us.qmd`: team roster, contact information and opportunities, in that order (no separate `team.qmd`, `contact.qmd` or `join-us.qmd`; the old `/team.html` and `/join-us.html` URLs redirect here through the `aliases` front matter, and contact details keep the `#contact` anchor)
+- `about-us.qmd`: team roster followed by contact information (no separate `team.qmd` or `contact.qmd`; `/team.html` redirects here through the `aliases` front matter, and the contact block keeps the `#contact` anchor other pages link to)
+- `students.qmd`: recently completed theses followed by the "Join us" opportunities (theses, internships, PhD positions, research fellowships); `/join-us.html` redirects here
 - `publications.qmd`: publication index, hand-maintained as a flat, year-grouped Markdown list in IEEE style (there is no `publications.bib` — entries are added directly as Markdown); `assets/js/publications-filter.js` reads that rendered list and builds the year / author / type filters from it
 - `datasets.qmd`: public dataset index — **not linked from the site navigation**, kept as a direct-URL page
 - `news/index.qmd`: full news archive (filterable listing)
@@ -41,7 +42,7 @@ gh auth status
 
 `datasets.qmd`, `software.qmd` and `projects/` are intentionally excluded from the navbar in `_quarto.yml` — this is a deliberate editorial choice (pending a content pass), not an oversight. Re-add them to the `navbar.left`/`navbar.right` lists in `_quarto.yml` once their content is ready to publish.
 
-The navigation is deliberately short: Home, Research, Publications, News, About Us.
+The navigation is deliberately short: Home, Research, Publications, News, Students, About Us.
 
 ## Local preview and rendering
 
@@ -94,6 +95,14 @@ Both listings sort by `date` descending. The Home page shows the 3 most recent e
 ## Replacing images
 
 Drop raw photos in `assets/inbox/` (untracked). Place the reviewed, optimized copy in `assets/images/` with a descriptive filename, add meaningful alternative text at every use, and record copyright, licence or written authorization in `assets/images/README.md`. The navbar and favicon use the laboratory's own OptoLab logo (see `assets/brand/README.md`); do not add a UNIMORE or departmental logo until its use is authorized.
+
+## Adding a completed thesis
+
+1. Open the "Recent theses" section of `students.qmd`.
+2. Copy one `.thesis-card` block and fill in the four fields: the `.thesis-tag` (degree and academic year), the `###` heading (thesis title), `.thesis-who` (author) and `.thesis-sup` (supervisor, and co-supervisor where relevant).
+3. Keep the most recent theses first; the grid shows three per row.
+4. Remove the `.status-pill` above the grid once the list holds real entries, and delete any leftover placeholder cards.
+5. Publish a student's name only with their agreement.
 
 ## Updating team members
 
