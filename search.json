@@ -140,11 +140,18 @@
     "text": "Selected outputs\n\nOptoCheck institutional record\nVision-based eye image classification\nPopEYE dataset record\nEducational embedded-camera resource"
   },
   {
-    "objectID": "news/items/example-conference-participation.html",
-    "href": "news/items/example-conference-participation.html",
-    "title": "Example: OptoLAB at a conference",
+    "objectID": "news/items/2026-08-31-photomet-edumet-and-forum-misure.html",
+    "href": "news/items/2026-08-31-photomet-edumet-and-forum-misure.html",
+    "title": "Autumn conference season: IMEKO PHOTOMET/EDUMET 2026 and the Forum Nazionale delle Misure",
     "section": "",
-    "text": "Example — replace with a real entry\n\nThis is a placeholder news item showing the expected format. Duplicate this file for each new entry, then:\n\nUpdate the title, description and date in the front matter.\nUncomment and set the image: field to a photo placed in assets/images/ (used as the card thumbnail on the Home page and the News archive).\nReplace this body text with a short paragraph (2–4 sentences) about the conference, talk, award or update, with a link to the related record where relevant.\nAdjust categories (e.g. Conference, Award, Publication, Seminar) to help filtering on the News archive page.\n\nSee README.md → “Adding a news item” for the full workflow.\n\n\n\n Back to top"
+    "text": "Giovanni Gibertoni, Daniele Goldoni and Luigi Rovati are attending the joint IMEKO symposium PHOTOMET/EDUMET 2026 — Metrology in Transition: Education, Photonics, and the Impact of AI & Robotics — hosted at Lakeside Park, Alpen-Adria-Universität Klagenfurt, Austria, on 31 August – 2 September 2026. The symposium brings together the two IMEKO technical committees on photonics (TC2) and on education and training in measurement science (TC1).\nThe following week, Luigi Rovati and Davide Cassanelli will take part in the Forum Nazionale delle Misure, the annual national forum organized by GMEE (Gruppo Misure Elettriche ed Elettroniche), held at Università Mediterranea di Reggio Calabria on 7–9 September 2026.\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "news/items/2026-06-10-mdpi-best-poster-award.html",
+    "href": "news/items/2026-06-10-mdpi-best-poster-award.html",
+    "title": "MDPI Best Poster Award for Alberto Besozzi in Rome",
+    "section": "",
+    "text": "Alberto Besozzi received the MDPI Best Poster Award at the 3rd edition of the International Summer School on Wearable Sensors, held at Università Campus Bio-Medico di Roma on 8–10 June 2026. The award, sponsored by Applied Sciences — an open-access journal published by MDPI — was assigned by the school’s Scientific Committee to the poster receiving the highest overall evaluation.\nThe winning poster, MYRA-TECH: Myopia Risk Assessment TECHnologies, presents an ergonomic head-worn device for continuously monitoring a child’s visual environment. It combines multichannel spectrometers for ambient light spectrum and intensity, an 8×8 time-of-flight sensor and an RGB camera for measuring viewing distances at high spatial resolution, and an inertial measurement unit for activity classification — all battery powered, for a full day of measurement.\n\n\n\nAlberto Besozzi receives the MDPI Best Poster Award at the International Summer School on Wearable Sensors, Università Campus Bio-Medico di Roma.\n\n\n\n\n\nThe awarded poster, MYRA-TECH: Myopia Risk Assessment TECHnologies, and the award certificate.\n\n\n\n\n\n Back to top"
   },
   {
     "objectID": "join-us.html",
@@ -207,7 +214,7 @@
     "href": "index.html",
     "title": "Light measurement and beyond",
     "section": "",
-    "text": "OPTOLAB - University of Modena and Reggio Emilia\n\n\n\n\nAn Electronic Measurement laboratory specialized in Optoelectronics instrumentation, devices and technologies.\n\n\nLed by Prof. Luigi Rovati, OptoLAB designs, builds and characterizes optical measurement systems for biomedical, ophthalmic, environmental and automotive applications, bringing together optics, electronics, embedded systems and computation across the whole measurement chain.\n\n\nExplore our research Contact the lab\n\n\n\n\n\n\n\nAbstract illustration of spectral light beams crossing optical elements and converging on a sensor"
+    "text": "OPTOLAB - University of Modena and Reggio Emilia\n\n\n\n\nAn Electronic Measurement laboratory specialized in Optoelectronics instrumentation, devices and technologies.\n\n\nLed by Prof. Luigi Rovati, OptoLAB designs, builds and characterizes optical measurement systems for biomedical, ophthalmic, environmental and automotive applications, bringing together optics, electronics, embedded systems and computation across the whole measurement chain.\n\n\nExplore our research Contact the lab\n\n\n\n\n\nLatest news\n\n\n\n31 August 2026Autumn conference season: IMEKO PHOTOMET/EDUMET 2026 and the Forum Nazionale delle MisureOptoLAB takes part in the joint IMEKO symposium in Klagenfurt and, the following week, in the GMEE national measurement forum in Reggio Calabria.26 July 2026OptoLAB at IEEE EMBC 2026 in TorontoGiovanni Gibertoni and Alberto Besozzi presented a modular NIR armband for forearm optical myography at the 48th IEEE EMBC.10 June 2026MDPI Best Poster Award for Alberto Besozzi in RomeMYRA-TECH, a wearable device for assessing environmental myopia risk factors, received the MDPI Best Poster Award at the International Summer School on Wearable Sensors.\n\nNo matching items\n\nSee all news →"
   },
   {
     "objectID": "index.html#what-we-investigate",
@@ -215,13 +222,6 @@
     "title": "Light measurement and beyond",
     "section": "What we investigate",
     "text": "What we investigate\nWe treat optical measurement as a connected chain, from optical interaction and sensor response to electronic acquisition and computational interpretation. Our activity spans ophthalmic instrumentation, biomedical optical imaging, wearable and spectral sensing, embedded acquisition and computational imaging.\nExplore our research →"
-  },
-  {
-    "objectID": "index.html#latest-news",
-    "href": "index.html#latest-news",
-    "title": "Light measurement and beyond",
-    "section": "Latest news",
-    "text": "Latest news"
   },
   {
     "objectID": "index.html#a-measurement-challenge-is-a-good-place-to-start.",
@@ -235,7 +235,14 @@
     "href": "news/index.html",
     "title": "News",
     "section": "",
-    "text": "Archive of OptoLAB news: conference participations, publication highlights, seminars and other lab updates.\n\n\n\n\n\n\n    \n      \n      \n    \n\n\n\n\n\n\n\n\nExample: OptoLAB at a conference\n\n\nShort one- or two-sentence summary of what happened, written like a caption.\n\n\n\nJan 1, 2026\n\n\n\n\n\n\nNo matching items\n Back to top"
+    "text": "Archive of OptoLAB news: conference participations, publication highlights, seminars and other lab updates.\n\n\n\n\n\n\n    \n      \n      \n    \n\n\n\n\n\n\n\n\nAutumn conference season: IMEKO PHOTOMET/EDUMET 2026 and the Forum Nazionale delle Misure\n\n\nOptoLAB takes part in the joint IMEKO symposium in Klagenfurt and, the following week, in the GMEE national measurement forum in Reggio Calabria.\n\n\n\nAug 31, 2026\n\n\n\n\n\n\n\n\n\n\n\nOptoLAB at IEEE EMBC 2026 in Toronto\n\n\nGiovanni Gibertoni and Alberto Besozzi presented a modular NIR armband for forearm optical myography at the 48th IEEE EMBC.\n\n\n\nJul 26, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nMDPI Best Poster Award for Alberto Besozzi in Rome\n\n\nMYRA-TECH, a wearable device for assessing environmental myopia risk factors, received the MDPI Best Poster Award at the International Summer School on Wearable Sensors.\n\n\n\nJun 10, 2026\n\n\n\n\n\n\nNo matching items\n Back to top"
+  },
+  {
+    "objectID": "news/items/2026-07-26-embc-2026-toronto.html",
+    "href": "news/items/2026-07-26-embc-2026-toronto.html",
+    "title": "OptoLAB at IEEE EMBC 2026 in Toronto",
+    "section": "",
+    "text": "Giovanni Gibertoni and Alberto Besozzi took part in EMBC 2026, the 48th Annual International Conference of the IEEE Engineering in Medicine and Biology Society, held at the Metro Toronto Convention Centre in Toronto, Canada, on 26–30 July 2026.\nThey presented the paper “A Charge-Integrated Modular NIR Armband for Forearm Optical Myography” by Giovanni Gibertoni, Alberto Besozzi and Luigi Rovati (Department of Engineering “Enzo Ferrari”, University of Modena and Reggio Emilia; Giovanni Gibertoni is also with the Department of Biomedical, Metabolic and Neural Sciences of the same university).\nThe contribution is currently in press: it will be added to the Publications page once the proceedings record and DOI are available.\n\n\n\n Back to top"
   },
   {
     "objectID": "projects/index.html",

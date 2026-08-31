@@ -36,7 +36,7 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/fuse.min.js"></script>
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
-<link href="./assets/brand/favicon.svg" rel="icon" type="image/svg+xml">
+<link href="./assets/brand/favicon.png" rel="icon" type="image/png">
 <script src="site_libs/quarto-listing/list.min.js"></script>
 <script src="site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="site_libs/quarto-html/quarto.js" type="module"></script>
@@ -48,7 +48,7 @@ ul.task-list li input[type="checkbox"] {
 <link href="site_libs/quarto-html/quarto-syntax-highlighting-64a204ab8560d761af7679ceaba22944.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-8418f9c08086a187b6e13b7b044e3d72.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-306c83193b74b88aeaff7b68edebb30b.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -85,9 +85,9 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: ['listing-image','listing-title','listing-date','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      valueNames: ['listing-image','listing-title','listing-date','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-date-modified-sort'] },{ data: ['listing-file-modified-sort'] },{ data: ['listing-reading-time-sort'] },{ data: ['listing-word-count-sort'] }],
       
-      searchColumns: ["listing-title","listing-author","listing-date","listing-image","listing-description"],
+      searchColumns: ["listing-project","listing-website","listing-format","listing-execute","listing-engines","listing-language","listing-title","listing-description","listing-canonical-url","listing-date","listing-categories","listing-image","listing-image-alt","listing-path","listing-outputHref","listing-date-modified","listing-author","listing-filename","listing-file-modified","listing-reading-time","listing-word-count"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -156,11 +156,8 @@ window.Quarto = {
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
     <a href="./index.html" class="navbar-brand navbar-brand-logo">
-    <img src="./assets/brand/favicon.svg" alt="OptoLAB abstract spectrum mark" class="navbar-logo light-content">
-    <img src="./assets/brand/favicon.svg" alt="OptoLAB abstract spectrum mark" class="navbar-logo dark-content">
-    </a>
-    <a class="navbar-brand" href="./index.html">
-    <span class="navbar-title">OptoLAB</span>
+    <img src="./assets/brand/logo.png" alt="OptoLab" class="navbar-logo light-content">
+    <img src="./assets/brand/logo.png" alt="OptoLab" class="navbar-logo dark-content">
     </a>
   </div>
             <div id="quarto-search" class="" title="Search"></div>
@@ -193,12 +190,12 @@ window.Quarto = {
     <a class="nav-link" href="./team.html"> 
 <span class="menu-text">Team</span></a>
   </li>  
-</ul>
-            <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
     <a class="nav-link" href="./join-us.html"> 
 <span class="menu-text">Join Us</span></a>
   </li>  
+</ul>
+            <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item compact">
     <a class="nav-link" href="https://github.com/OPTOLAB-UNIMORE"> <i class="bi bi-github" role="img" aria-label="OptoLAB on GitHub">
 </i> 
@@ -240,13 +237,17 @@ Led by Prof.&nbsp;Luigi Rovati, OptoLAB designs, builds and characterizes optica
 </div>
 </section>
 </div>
-<div class="hero-art">
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="assets/brand/optical-hero.svg" class="img-fluid figure-img" alt="Abstract spectral light paths passing through circular optical elements and reaching a detector grid"></p>
-<figcaption>Abstract illustration of spectral light beams crossing optical elements and converging on a sensor</figcaption>
-</figure>
+<div class="hero-news">
+<p class="eyebrow">
+Latest news
+</p>
+<div id="listing-latest-news" class="quarto-listing quarto-listing-container-custom">
+<div class="news-feed">
+<p><a class="news-feed-item" href="./news/items/2026-08-31-photomet-edumet-and-forum-misure.html"><span class="news-feed-body"><span class="news-feed-date">31 August 2026</span><span class="news-feed-title">Autumn conference season: IMEKO PHOTOMET/EDUMET 2026 and the Forum Nazionale delle Misure</span><span class="news-feed-desc">OptoLAB takes part in the joint IMEKO symposium in Klagenfurt and, the following week, in the GMEE national measurement forum in Reggio Calabria.</span></span></a><a class="news-feed-item" href="./news/items/2026-07-26-embc-2026-toronto.html"><span class="news-feed-body"><span class="news-feed-date">26 July 2026</span><span class="news-feed-title">OptoLAB at IEEE EMBC 2026 in Toronto</span><span class="news-feed-desc">Giovanni Gibertoni and Alberto Besozzi presented a modular NIR armband for forearm optical myography at the 48th IEEE EMBC.</span></span></a><a class="news-feed-item has-thumb" href="./news/items/2026-06-10-mdpi-best-poster-award.html"><img class="news-feed-thumb" src="./assets/images/news-mdpi-best-poster-award-ceremony.jpg" alt=""><span class="news-feed-body"><span class="news-feed-date">10 June 2026</span><span class="news-feed-title">MDPI Best Poster Award for Alberto Besozzi in Rome</span><span class="news-feed-desc">MYRA-TECH, a wearable device for assessing environmental myopia risk factors, received the MDPI Best Poster Award at the International Summer School on Wearable Sensors.</span></span></a></p>
 </div>
+<div class="listing-no-matching d-none">No matching items</div>
+</div>
+<p><a href="./news/index.html" class="hero-news-more">See all news →</a></p>
 </div>
 </div>
 <div class="section-intro">
@@ -258,41 +259,6 @@ Research
 <p>We treat optical measurement as a connected chain, from optical interaction and sensor response to electronic acquisition and computational interpretation. Our activity spans ophthalmic instrumentation, biomedical optical imaging, wearable and spectral sensing, embedded acquisition and computational imaging.</p>
 <p><a href="./research.html" class="btn btn-primary btn-lg">Explore our research →</a></p>
 </section>
-</div>
-<div class="section-intro">
-<p class="eyebrow">
-News
-</p>
-<section id="latest-news" class="level2">
-<h2 class="anchored" data-anchor-id="latest-news">Latest news</h2>
-</section>
-</div>
-<div id="listing-latest-news" class="quarto-listing quarto-listing-container-grid">
-<div class="list grid quarto-listing-cols-2">
-<div class="g-col-1" data-index="0" data-categories="Q29uZmVyZW5jZQ==" data-listing-date-sort="1767225600000" data-listing-file-modified-sort="1788164720899" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="111">
-<a href="./news/items/example-conference-participation.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<div class="listing-item-img-placeholder card-img-top" style="height: 150px;">&nbsp;</div>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Example: OptoLAB at a conference
-</h5>
-<div class="card-text listing-description delink">
-<p>Short one- or two-sentence summary of what happened, written like a caption.</p>
-</div>
-<div class="card-attribution card-text-small end">
-<div class="listing-date">
-Jan 1, 2026
-</div>
-</div>
-</div>
-</div></a>
-</div>
-</div>
-<div class="listing-no-matching d-none">No matching items</div>
-</div>
-<div class="section-intro">
-<p><a href="./news/index.html" class="btn btn-outline-primary btn-lg">See all news →</a></p>
 </div>
 <div class="collab-cta">
 <p class="eyebrow">
