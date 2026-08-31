@@ -1,5 +1,5 @@
 ---
-title: "Optolab at IMEKO PHOTOMET/EDUMET 2026 and the Forum Nazionale delle Misure"
+title: "OptoLAB at IMEKO PHOTOMET/EDUMET 2026 and the Forum Nazionale delle Misure"
 description: "OptoLAB takes part in the IMEKO symposium in Klagenfurt and, the following week, in the GMEE national measurement forum in Reggio Calabria."
 canonical-url: "https://optolab-unimore.github.io/news/items/2026-08-31-photomet-edumet-and-forum-misure.html"
 date: 2026-08-31

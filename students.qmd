@@ -9,8 +9,6 @@ aliases:
 
 ## Recent theses
 
-A selection of theses recently completed in the laboratory.
-
 <!--
 Adding a thesis: copy one .thesis-card block below and fill in three fields.
   - .thesis-tag   degree and session, e.g. "Master's thesis - October 2025"
@@ -58,7 +56,7 @@ OptoLAB is open to motivated students and researchers interested in optical meas
 
 ## Ready to start?
 
-Tell us what you'd like to work on — we'll take it from there.
+Tell us what you'd like to work on, we'll take it from there.
 
 [Contact the lab](about-us.qmd#contact){.btn .btn-primary .btn-lg}
 :::
