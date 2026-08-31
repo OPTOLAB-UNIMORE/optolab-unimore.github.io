@@ -33,7 +33,7 @@ website:
   navbar:
     background: light
     pinned: true
-    logo: assets/brand/logo.png
+    logo: assets/brand/Logo.jpeg
     logo-alt: "OptoLab"
     title: false
     left:
