@@ -1,13 +1,12 @@
 ---
 title: "About Us"
-description: "The OptoLAB team and how to reach the laboratory."
+description: "OptoLAB is led by Prof. Luigi Rovati and brings together expertise in measurement science, biomedical engineering, vision science, electronics and optical instrumentation."
 canonical-url: "https://optolab-unimore.github.io/about-us.html"
 page-layout: full
 aliases:
   - /team.html
 ---
 
-OptoLAB is led by Prof. Luigi Rovati and brings together expertise in measurement science, biomedical engineering, vision science, electronics and optical instrumentation.
 
 ## Team
 

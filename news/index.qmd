@@ -1,6 +1,6 @@
 ---
 title: "News"
-description: "Conference participations, publication highlights and updates from OptoLAB."
+description: "Archive of OptoLAB news, with conference participations, publication highlights, seminars and other lab updates."
 canonical-url: "https://optolab-unimore.github.io/news/"
 listing:
   contents: items
@@ -12,5 +12,3 @@ listing:
   sort-ui: false
 page-layout: full
 ---
-
-Archive of OptoLAB news: conference participations, publication highlights, seminars and other lab updates.

@@ -1,17 +1,15 @@
 ---
 title: "Students"
-description: "Theses recently completed at OptoLAB, and the thesis, internship, PhD and research-fellowship opportunities the laboratory offers."
+description: "OptoLAB is a teaching laboratory as much as a research one. Students work on real measurement problems alongside the group, from optical design and electronics through to acquisition and data analysis."
 canonical-url: "https://optolab-unimore.github.io/students.html"
 page-layout: full
 aliases:
   - /join-us.html
 ---
 
-OptoLAB is a teaching laboratory as much as a research one. Students work on real measurement problems alongside the group, from optical design and electronics through to acquisition and data analysis.
-
 ## Recent theses
 
-A selection of theses recently completed in the laboratory. Titles and summaries are published; the students' names are not.
+A selection of theses recently completed in the laboratory.
 
 <!--
 Adding a thesis: copy one .thesis-card block below and fill in three fields.
@@ -43,39 +41,15 @@ Development of MYRA-TECH (MYopia Risk Assessment TECHnologies), a lightweight he
 
 OptoLAB is open to motivated students and researchers interested in optical measurement, biomedical instrumentation, embedded systems and computational imaging. We host bachelor's and master's theses and internships throughout the year, and we welcome enquiries from prospective PhD candidates and research fellows. Every project connects to a research direction the laboratory is actively working on.
 
-::: {.card-grid .three}
-::: {.topic-card}
-#### Theses & internships
-
-Bachelor's and master's theses, and curricular or extracurricular internships at both levels. Propose a topic of your own within our research areas, or ask us which projects are currently looking for a student.
-
-:::
-
-::: {.topic-card}
-#### PhD positions
-
-We supervise doctoral candidates in the Information and Communication Technologies programme. Get in touch well before the call opens so we can shape a project together.
-
-:::
-
-::: {.topic-card}
-#### Research fellowships
-
-Post-graduate research fellowships (*assegni di ricerca*) open periodically alongside funded projects. We are glad to hear from candidates interested in joining the group in this role.
-
-:::
-:::
-
 ### What we offer
 
 - Hands-on work across the full measurement chain: optics, electronics, embedded acquisition and data analysis.
-- Access to the laboratory's optical, imaging and embedded-computing equipment (see [Research → Facilities & capabilities](research.qmd#facilities-capabilities)).
 - Supervision from a team with an active publication record in instrumentation, biomedical optics and sensing.
 - The possibility of contributing to open, publishable research outputs.
 
 ### How to apply
 
-1. Look through our [Research](research.qmd) areas and [Publications](publications.qmd) to see what the laboratory currently works on.
+1. Look through our [Publications](publications.qmd) to see what the laboratory currently works on.
 2. Email Prof. Luigi Rovati with a short note on your background, the level you are applying at and the area you are interested in.
 3. We'll get back to you to discuss available topics and next steps.
 
