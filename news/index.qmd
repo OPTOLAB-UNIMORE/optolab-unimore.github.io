@@ -1,0 +1,16 @@
+---
+title: "News"
+description: "Conference participations, publication highlights and updates from OptoLAB."
+canonical-url: "https://optolab-unimore.github.io/news/"
+listing:
+  contents: items
+  sort: "date desc"
+  type: grid
+  grid-columns: 3
+  fields: [image, title, date, description]
+  filter-ui: true
+  sort-ui: false
+page-layout: full
+---
+
+Archive of OptoLAB news: conference participations, publication highlights, seminars and other lab updates.

@@ -4,6 +4,14 @@ description: "OptoLAB develops optical technologies for biomedical imaging, sens
 canonical-url: "https://optolab-unimore.github.io/"
 toc: false
 page-layout: full
+listing:
+  id: latest-news
+  contents: news/items
+  type: grid
+  grid-columns: 2
+  max-items: 2
+  sort: "date desc"
+  fields: [image, title, date, description]
 ---
 
 ::: {.hero}
@@ -35,6 +43,19 @@ page-layout: full
 We treat optical measurement as a connected chain, from optical interaction and sensor response to electronic acquisition and computational interpretation. Our activity spans ophthalmic instrumentation, biomedical optical imaging, wearable and spectral sensing, embedded acquisition and computational imaging.
 
 [Explore our research →](research.qmd){.btn .btn-primary .btn-lg}
+:::
+
+::: {.section-intro}
+<p class="eyebrow">News</p>
+
+## Latest news
+:::
+
+:::{#latest-news}
+:::
+
+::: {.section-intro}
+[See all news →](news/index.qmd){.btn .btn-outline-primary .btn-lg}
 :::
 
 ::: {.collab-cta}
