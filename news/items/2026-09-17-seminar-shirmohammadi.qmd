@@ -10,9 +10,7 @@ image-alt: "Seminar announcement: Measurement in the Age of AI — Fundamentals 
 
 OptoLAB hosts **Prof. Shervin Shirmohammadi** (University of Ottawa) at the University of Modena and Reggio Emilia for the seminar **"Measurement in the Age of AI: Fundamentals and Uncertainty Quantification"**.
 
-**Thursday 17 September 2026, 15:00** — UniMORE AI Center, Via Pietro Vivarelli 2, Modena. The seminar is hosted by the Department of Engineering "Enzo Ferrari"; for information, contact [Luigi Rovati](mailto:luigi.rovati@unimore.it) or [Alberto Besozzi](mailto:alberto.besozzi@unimore.it).
-
-The talk examines the intertwined relationship between instrumentation and measurement and artificial intelligence: measurement collects the data that trains AI models, which are in turn used for indirect measurement. It covers how AI regression, classification and large language models are applied to indirect measurement, and how to quantify the uncertainty of AI-assisted measurements in order to design more reliable and trustworthy systems, including a unified taxonomy of uncertainty-quantification methods and a look at measurement-standard non-compliance in the AI literature.
+**Thursday 17 September 2026, 15:00** - UniMORE AI Center, Via Pietro Vivarelli 2, Modena. For information, contact [Luigi Rovati](mailto:luigi.rovati@unimore.it) or [Alberto Besozzi](mailto:alberto.besozzi@unimore.it).
 
 Shervin Shirmohammadi is a Full Professor with the School of Electrical Engineering and Computer Science at the University of Ottawa and Director of the Discover Laboratory, working on AI-assisted measurement and sensing systems. He is an IEEE Fellow, currently serves as President of the IEEE Instrumentation and Measurement Society, was Editor-in-Chief of the *IEEE Transactions on Instrumentation and Measurement* from 2017 to 2021 and founding Editor-in-Chief of the *IEEE Open Journal of Instrumentation and Measurement*.
 

@@ -226,7 +226,7 @@
     var last = sections[sections.length - 1];
     var empty = document.createElement('p');
     empty.className = 'pub-filter-empty';
-    empty.textContent = 'No publications match the current filters.';
+    empty.textContent = 'No entries match the current filters.';
     empty.hidden = true;
     last.parentNode.insertBefore(empty, last.nextSibling);
 
@@ -255,8 +255,8 @@
 
       empty.hidden = shown > 0;
       ui.status.textContent = shown === entries.length
-        ? 'Showing all ' + entries.length + ' publications'
-        : 'Showing ' + shown + ' of ' + entries.length + ' publications';
+        ? 'Showing all ' + entries.length + ' entries'
+        : 'Showing ' + shown + ' of ' + entries.length + ' entries';
 
       ui.note.hidden = !(author && abbreviated);
       ui.note.textContent = 'Entries abbreviated with “et al.” match on their listed authors only, so ' +

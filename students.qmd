@@ -11,46 +11,31 @@ OptoLAB is a teaching laboratory as much as a research one. Students work on rea
 
 ## Recent theses
 
-::: {.status-pill}
-Placeholder — thesis list to be supplied
-:::
+A selection of theses recently completed in the laboratory. Titles and summaries are published; the students' names are not.
 
 <!--
-Adding a thesis: copy one .thesis-card block below and fill in the four fields.
-  - .thesis-tag   degree and academic year, e.g. "Master's thesis · 2025/26"
-  - ### heading   the thesis title
-  - .thesis-who   the author
-  - .thesis-sup   the supervisor, and co-supervisor where relevant
-Keep the most recent theses first and remove the .status-pill above once the
-list holds real entries.
+Adding a thesis: copy one .thesis-card block below and fill in three fields.
+  - .thesis-tag   degree and session, e.g. "Master's thesis - October 2025"
+  - ### heading   the thesis title, in the language it was written in
+  - the paragraph a two- to four-sentence summary of the work
+Keep the most recent first, and publish no student or supervisor names.
 -->
 
 ::: {.thesis-grid}
 ::: {.thesis-card}
-<span class="thesis-tag">Degree · Academic year</span>
+<span class="thesis-tag">Bachelor's thesis · Electronic Engineering · April 2026</span>
 
-### Thesis title
+### Sistema a basso costo per l'analisi spettrale di fluidi
 
-<p class="thesis-who">Author name</p>
-<p class="thesis-sup">Supervisor: name</p>
+Design, construction and methodological validation of a portable, low-cost spectrometric system for the optical analysis of liquid samples inside transparent tubing, for decentralised diagnostics and food quality control. The prototype combines an 8-channel AS7341 visible multispectral sensor, a broadband LED source and an internal monitoring photodiode under an ESP32-S3 microcontroller. The work characterises the temporal stability of the source, calibrates the internal monitor, and develops a normalisation procedure that makes the measurement independent of source drift and sensor configuration. Tests on scattering matrices dosed with dyes at different concentrations assess ambient-light rejection and the ability to discriminate spectral variations in transmission, alongside an analytical estimate of component cost.
 :::
 
 ::: {.thesis-card}
-<span class="thesis-tag">Degree · Academic year</span>
+<span class="thesis-tag">Master's thesis · Electronic Engineering · October 2025</span>
 
-### Thesis title
+### Development and Testing of a Lightweight, All-Day Head-Mounted Wearable: Investigating the Visual Environment in Children for Myopia Risk Assessment
 
-<p class="thesis-who">Author name</p>
-<p class="thesis-sup">Supervisor: name</p>
-:::
-
-::: {.thesis-card}
-<span class="thesis-tag">Degree · Academic year</span>
-
-### Thesis title
-
-<p class="thesis-who">Author name</p>
-<p class="thesis-sup">Supervisor: name</p>
+Development of MYRA-TECH (MYopia Risk Assessment TECHnologies), a lightweight head-mounted system for recording a child's visual environment across a full day, in support of research into the environmental risk factors behind myopia. The device measures object distance, by combining monocular depth estimation from an OV2640 camera with a VL53L5CX 8×8 time-of-flight sensor, and ambient illuminance through an AS7341 spectral sensor, while an MPU6050 inertial unit supports machine-learning activity recognition that distinguishes reading, screen use and outdoor play. Built around an ESP32-S3 for full-day acquisition, the design keeps the electronics head-mounted and aligned with the child's eyes, with a single cable to a small power bank. Initial tests with five adults and one child assessed performance, comfort and data quality.
 :::
 :::
 

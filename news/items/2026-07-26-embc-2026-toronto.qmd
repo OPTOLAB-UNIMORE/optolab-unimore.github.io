@@ -1,13 +1,13 @@
 ---
 title: "OptoLAB at IEEE EMBC 2026 in Toronto"
-description: "Giovanni Gibertoni and Alberto Besozzi presented a modular NIR armband for forearm optical myography at the 48th IEEE EMBC."
+description: "Giovanni Gibertoni and Alberto Besozzi presented at the 48th IEEE EMBC."
 canonical-url: "https://optolab-unimore.github.io/news/items/2026-07-26-embc-2026-toronto.html"
 date: 2026-07-26
 categories: [Conference]
+image: /assets/images/news-embc-2026-toronto.jpg
+image-alt: "Giovanni Gibertoni presenting the OptoLAB paper on stage at IEEE EMBC 2026 in Toronto"
 ---
 
 Giovanni Gibertoni and Alberto Besozzi took part in **EMBC 2026**, the 48th Annual International Conference of the IEEE Engineering in Medicine and Biology Society, held at the Metro Toronto Convention Centre in Toronto, Canada, on 26–30 July 2026.
 
-They presented the paper **"A Charge-Integrated Modular NIR Armband for Forearm Optical Myography"** by Giovanni Gibertoni, Alberto Besozzi and Luigi Rovati (Department of Engineering "Enzo Ferrari", University of Modena and Reggio Emilia; Giovanni Gibertoni is also with the Department of Biomedical, Metabolic and Neural Sciences of the same university).
-
-The contribution is currently **in press**: it will be added to the [Publications](/publications.qmd) page once the proceedings record and DOI are available.
+![Presenting "A Charge-Integrated Modular NIR Armband for Forearm Optical Myography" at IEEE EMBC 2026, Metro Toronto Convention Centre.](/assets/images/news-embc-2026-toronto.jpg){fig-alt="A speaker at a lectern beside a screen showing the title slide of the OptoLAB paper at IEEE EMBC 2026"}

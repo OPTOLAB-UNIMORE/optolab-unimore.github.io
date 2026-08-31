@@ -1,21 +1,25 @@
 ---
 title: "Publications"
-description: "This page contains Peer-reviewed journal and conference publications by OptoLAB members over the last five years."
+description: "Peer-reviewed journal and conference publications by OptoLAB members over the last five years, together with the public datasets released by the laboratory."
 canonical-url: "https://optolab-unimore.github.io/publications.html"
+aliases:
+  - /datasets.html
 ---
 
 Over the last five years (2021&ndash;2026), OptoLAB members have (co-)authored **103 peer-reviewed publications** across **58 different journals and conference proceedings** &mdash; roughly **19 papers a year**. The work spans instrumentation and measurement, biomedical and ophthalmic optics, sensing and computational imaging, with *IEEE Transactions on Instrumentation and Measurement* the most frequent journal.
 
 ```{=html}
 <div class="pub-stats">
-  <div class="stat"><span class="num">103</span><span class="label">Publications since 2021</span></div>
+  <div class="stat"><span class="num">103</span><span class="label">Peer-reviewed publications</span></div>
   <div class="stat"><span class="num">56</span><span class="label">Journal articles</span></div>
   <div class="stat"><span class="num">47</span><span class="label">Conference &amp; workshop papers</span></div>
   <div class="stat"><span class="num">58</span><span class="label">Journals &amp; proceedings</span></div>
 </div>
 ```
 
-The list below is grouped by year and formatted in IEEE style; each entry links to its DOI record. Use the filters to narrow it by year, author or publication type.
+The list below is grouped by year and formatted in IEEE style; each entry links to its DOI record. It also carries the public datasets released by the laboratory — filter by type to see them on their own. Each dataset record is the authoritative source for its licensing terms, access conditions and citation requirements; review it before reuse.
+
+Use the filters to narrow the list by year, author or publication type.
 
 ```{=html}
 <div id="pub-filter" class="pub-filter"></div>
@@ -23,6 +27,7 @@ The list below is grouped by year and formatted in IEEE style; each entry links 
 
 ## 2026 {#y2026}
 
+- G. Gibertoni, G. Borghi, and L. Rovati, "PopEYE — Infrared Ocular Image Dataset for Eye State and Gaze-Direction Classification," *Zenodo dataset*, 2026, doi: [10.5281/zenodo.18430186](https://doi.org/10.5281/zenodo.18430186).
 - G. Baridi et al., "Multiscale Molecular Dynamics and Quantum–Electrostatic Modelling of Graphene Electric Double-Layer Transistors for β2-Microglobulin Biosensing," *Electronics*, vol. 15, no. 13, p. 2837, 2026, doi: [10.3390/electronics15132837](https://doi.org/10.3390/electronics15132837).
 - A. Gallerani, M. Muzzarelli, A. Ferrari, S. Cattini, and L. Rovati, "Optical sensing for real-time blood monitoring in extracorporeal circulation: Performance assessment of a biocompatible sensor and off-label investigation of a commercial device," *ACTA IMEKO*, vol. 15, no. 2, pp. 1–8, 2026, doi: [10.21014/actaimeko.v15i2.2263](https://doi.org/10.21014/actaimeko.v15i2.2263).
 - A. Besozzi, G. Gibertoni, L. Rovati, and A. Gibaldi, "Flexible calibration method: Photometric and radiometric measurements with compact low-cost multi-channel sensors," *ACTA IMEKO*, vol. 15, no. 2, pp. 1–12, 2026, doi: [10.21014/actaimeko.v15i2.2267](https://doi.org/10.21014/actaimeko.v15i2.2267).

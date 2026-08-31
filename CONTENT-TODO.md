@@ -30,8 +30,9 @@ Items marked as complete were resolved from public UNIMORE profiles, the group w
 - [x] Add publicly available profile photographs for six members
 - [ ] Obtain reuse authorization for every profile photograph
 - [x] Add a publicly available profile photograph for Alberto Besozzi
-- [ ] Replace the placeholder thesis cards in `students.qmd` with the theses recently completed in the laboratory
-- [ ] Obtain each student's agreement before publishing their name and thesis title
+- [x] Replace the placeholder thesis cards in `students.qmd` with the theses recently completed in the laboratory
+- [x] Publish thesis titles and summaries without student or supervisor names
+- [ ] Keep the thesis list current as new sessions close
 
 ## Research and outputs
 

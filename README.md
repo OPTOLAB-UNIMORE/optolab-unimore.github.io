@@ -26,8 +26,7 @@ gh auth status
 - `research.qmd`: research areas, facilities and capabilities (no separate `facilities.qmd`)
 - `about-us.qmd`: team roster followed by contact information (no separate `team.qmd` or `contact.qmd`; `/team.html` redirects here through the `aliases` front matter, and the contact block keeps the `#contact` anchor other pages link to)
 - `students.qmd`: recently completed theses followed by the "Join us" opportunities (theses, internships, PhD positions, research fellowships); `/join-us.html` redirects here
-- `publications.qmd`: publication index, hand-maintained as a flat, year-grouped Markdown list in IEEE style (there is no `publications.bib` — entries are added directly as Markdown); `assets/js/publications-filter.js` reads that rendered list and builds the year / author / type filters from it
-- `datasets.qmd`: public dataset index — **not linked from the site navigation**, kept as a direct-URL page
+- `publications.qmd`: publication and dataset index, hand-maintained as a flat, year-grouped Markdown list in IEEE style (there is no `publications.bib` — entries are added directly as Markdown); `assets/js/publications-filter.js` reads that rendered list and builds the year / author / type filters from it. Public datasets live in the same list and are told apart by their type, so there is no separate `datasets.qmd`; `/datasets.html` redirects here
 - `news/index.qmd`: full news archive (filterable listing)
 - `news/items/`: one Quarto file per news entry (conference participations, awards, updates), named `YYYY-MM-DD-short-slug.qmd`; `_template.qmd` is the starting point and is skipped by Quarto
 - `software.qmd`: verified public repositories and resources — **not linked from the site navigation**, kept as a direct-URL page pending a content review
@@ -40,7 +39,7 @@ gh auth status
 - `styles.scss`: visual system and responsive rules
 - `.github/workflows/publish.yml`: automated GitHub Pages deployment
 
-`datasets.qmd`, `software.qmd` and `projects/` are intentionally excluded from the navbar in `_quarto.yml` — this is a deliberate editorial choice (pending a content pass), not an oversight. Re-add them to the `navbar.left`/`navbar.right` lists in `_quarto.yml` once their content is ready to publish.
+`software.qmd` and `projects/` are intentionally excluded from the navbar in `_quarto.yml` — this is a deliberate editorial choice (pending a content pass), not an oversight. Re-add them to the `navbar.left`/`navbar.right` lists in `_quarto.yml` once their content is ready to publish.
 
 The navigation is deliberately short: Home, Research, Publications, News, Students, About Us.
 
@@ -77,7 +76,7 @@ The filters on that page are derived from the list itself, so no separate metada
 - AUTHORS, "TITLE," in *PROCEEDINGS*, pp. A–B, YEAR, doi: [DOI](URL).
 ```
 
-The leading `in ` before the italic venue is what marks an entry as a conference paper; a venue whose name contains "Workshop" is counted as a workshop paper, and one that looks like a data repository as a dataset. Authors are read from the text before the quoted title, so an entry abbreviated with `et al.` is only matched on the names it actually lists.
+The leading `in ` before the italic venue is what marks an entry as a conference paper; a venue whose name contains "Workshop" is counted as a workshop paper, and one naming a data repository (`Zenodo`, `figshare`, `dataset`, …) as a dataset — which is how datasets sit in the same list without extra metadata. Authors are read from the text before the quoted title, so an entry abbreviated with `et al.` is only matched on the names it actually lists.
 
 Do not infer OptoLAB authorship or affiliations.
 
@@ -99,10 +98,9 @@ Drop raw photos in `assets/inbox/` (untracked). Place the reviewed, optimized co
 ## Adding a completed thesis
 
 1. Open the "Recent theses" section of `students.qmd`.
-2. Copy one `.thesis-card` block and fill in the four fields: the `.thesis-tag` (degree and academic year), the `###` heading (thesis title), `.thesis-who` (author) and `.thesis-sup` (supervisor, and co-supervisor where relevant).
-3. Keep the most recent theses first; the grid shows three per row.
-4. Remove the `.status-pill` above the grid once the list holds real entries, and delete any leftover placeholder cards.
-5. Publish a student's name only with their agreement.
+2. Copy one `.thesis-card` block and fill in three fields: the `.thesis-tag` (degree, course and session), the `###` heading (thesis title, in the language it was written in) and a paragraph summarising the work in two to four sentences.
+3. Keep the most recent theses first; the grid fits up to three per row and stretches to fill the space when there are fewer.
+4. Do not publish student or supervisor names — the section deliberately carries titles and summaries only.
 
 ## Updating team members
 
