@@ -1,10 +1,11 @@
 [
   {
-    "listing": "/projects/index.html",
+    "listing": "/news/index.html",
     "items": [
-      "/projects/items/multichannel-calibration.html",
-      "/projects/items/wearable-optics.html",
-      "/projects/items/embedded-camera.html"
+      "/news/items/2026-09-17-seminar-shirmohammadi.html",
+      "/news/items/2026-08-31-photomet-edumet-and-forum-misure.html",
+      "/news/items/2026-07-26-embc-2026-toronto.html",
+      "/news/items/2026-06-10-mdpi-best-poster-award.html"
     ]
   },
   {
@@ -17,12 +18,11 @@
     ]
   },
   {
-    "listing": "/news/index.html",
+    "listing": "/projects/index.html",
     "items": [
-      "/news/items/2026-09-17-seminar-shirmohammadi.html",
-      "/news/items/2026-08-31-photomet-edumet-and-forum-misure.html",
-      "/news/items/2026-07-26-embc-2026-toronto.html",
-      "/news/items/2026-06-10-mdpi-best-poster-award.html"
+      "/projects/items/multichannel-calibration.html",
+      "/projects/items/wearable-optics.html",
+      "/projects/items/embedded-camera.html"
     ]
   }
 ]
