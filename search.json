@@ -140,6 +140,69 @@
     "text": "Selected outputs\n\nOptoCheck institutional record\nVision-based eye image classification\nPopEYE dataset record\nEducational embedded-camera resource"
   },
   {
+    "objectID": "news/items/example-conference-participation.html",
+    "href": "news/items/example-conference-participation.html",
+    "title": "Example: OptoLAB at a conference",
+    "section": "",
+    "text": "Example — replace with a real entry\n\nThis is a placeholder news item showing the expected format. Duplicate this file for each new entry, then:\n\nUpdate the title, description and date in the front matter.\nUncomment and set the image: field to a photo placed in assets/images/ (used as the card thumbnail on the Home page and the News archive).\nReplace this body text with a short paragraph (2–4 sentences) about the conference, talk, award or update, with a link to the related record where relevant.\nAdjust categories (e.g. Conference, Award, Publication, Seminar) to help filtering on the News archive page.\n\nSee README.md → “Adding a news item” for the full workflow.\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "join-us.html",
+    "href": "join-us.html",
+    "title": "Join Us",
+    "section": "",
+    "text": "Template — content to be finalized\nOptoLAB welcomes motivated students and researchers interested in optical measurement, biomedical instrumentation, embedded systems and computational imaging. We regularly host bachelor’s and master’s thesis projects, and occasionally internships and PhD collaborations, connected to the laboratory’s ongoing research directions."
+  },
+  {
+    "objectID": "join-us.html#current-opportunities",
+    "href": "join-us.html#current-opportunities",
+    "title": "Join Us",
+    "section": "Current opportunities",
+    "text": "Current opportunities\n\n\nBachelor’s & master’s theses\nPlaceholder — list specific thesis topics here (e.g. wearable sensing, ophthalmic imaging, calibration methods), or describe how students can propose their own topic within the lab’s research areas.\n\n\nInternships\nPlaceholder — describe available internship formats (curricular, extracurricular), typical duration and the skills a candidate should bring.\n\n\nPhD & research collaborations\nPlaceholder — describe current or upcoming PhD openings, co-supervision opportunities or visiting-researcher arrangements."
+  },
+  {
+    "objectID": "join-us.html#what-we-offer",
+    "href": "join-us.html#what-we-offer",
+    "title": "Join Us",
+    "section": "What we offer",
+    "text": "What we offer\n\nHands-on work across the full measurement chain: optics, electronics, embedded acquisition and data analysis.\nAccess to the laboratory’s optical, imaging and embedded-computing equipment (see Research → Facilities & capabilities).\nSupervision from a team with an active publication record in instrumentation, biomedical optics and sensing.\nThe possibility of contributing to open, publishable research outputs."
+  },
+  {
+    "objectID": "join-us.html#how-to-apply",
+    "href": "join-us.html#how-to-apply",
+    "title": "Join Us",
+    "section": "How to apply",
+    "text": "How to apply\n\nLook through our Research areas to see what the lab currently works on.\nEmail Prof. Luigi Rovati with a short note on your background and the area you’re interested in.\nWe’ll get back to you to discuss available topics and next steps.\n\n\n\nGet in touch\n\n\nReady to start a conversation?\nContact the lab"
+  },
+  {
+    "objectID": "join-us.html#ready-to-start-a-conversation",
+    "href": "join-us.html#ready-to-start-a-conversation",
+    "title": "Join Us",
+    "section": "Ready to start a conversation?",
+    "text": "Ready to start a conversation?\nContact the lab"
+  },
+  {
+    "objectID": "datasets.html",
+    "href": "datasets.html",
+    "title": "Datasets",
+    "section": "",
+    "text": "OptoLAB releases research datasets to support reproducible work in ophthalmic imaging, sensing and computational analysis. Each entry links to its institutional or public record."
+  },
+  {
+    "objectID": "datasets.html#popeye-infrared-ocular-image-dataset",
+    "href": "datasets.html#popeye-infrared-ocular-image-dataset",
+    "title": "Datasets",
+    "section": "PopEYE — Infrared Ocular Image Dataset",
+    "text": "PopEYE — Infrared Ocular Image Dataset\nInfrared ocular-image dataset supporting research on eye-position monitoring and automated ocular-image analysis.\nInstitutional record (IRIS) →"
+  },
+  {
+    "objectID": "datasets.html#responsible-reuse",
+    "href": "datasets.html#responsible-reuse",
+    "title": "Datasets",
+    "section": "Responsible reuse",
+    "text": "Responsible reuse\nEach dataset record is the authoritative source for licensing terms, access conditions and citation requirements. Review it before reuse."
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Light measurement and beyond",
@@ -154,11 +217,25 @@
     "text": "What we investigate\nWe treat optical measurement as a connected chain, from optical interaction and sensor response to electronic acquisition and computational interpretation. Our activity spans ophthalmic instrumentation, biomedical optical imaging, wearable and spectral sensing, embedded acquisition and computational imaging.\nExplore our research →"
   },
   {
+    "objectID": "index.html#latest-news",
+    "href": "index.html#latest-news",
+    "title": "Light measurement and beyond",
+    "section": "Latest news",
+    "text": "Latest news"
+  },
+  {
     "objectID": "index.html#a-measurement-challenge-is-a-good-place-to-start.",
     "href": "index.html#a-measurement-challenge-is-a-good-place-to-start.",
     "title": "Light measurement and beyond",
     "section": "A measurement challenge is a good place to start.",
     "text": "A measurement challenge is a good place to start.\nWe welcome conversations with academic and industrial partners working at the intersection of biomedical optics, sensing and research instrumentation.\nContact the lab"
+  },
+  {
+    "objectID": "news/index.html",
+    "href": "news/index.html",
+    "title": "News",
+    "section": "",
+    "text": "Archive of OptoLAB news: conference participations, publication highlights, seminars and other lab updates.\n\n\n\n\n\n\n    \n      \n      \n    \n\n\n\n\n\n\n\n\nExample: OptoLAB at a conference\n\n\nShort one- or two-sentence summary of what happened, written like a caption.\n\n\n\nJan 1, 2026\n\n\n\n\n\n\nNo matching items\n Back to top"
   },
   {
     "objectID": "projects/index.html",

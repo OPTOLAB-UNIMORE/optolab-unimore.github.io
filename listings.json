@@ -1,5 +1,17 @@
 [
   {
+    "listing": "/index.html",
+    "items": [
+      "/news/items/example-conference-participation.html"
+    ]
+  },
+  {
+    "listing": "/news/index.html",
+    "items": [
+      "/news/items/example-conference-participation.html"
+    ]
+  },
+  {
     "listing": "/projects/index.html",
     "items": [
       "/projects/items/multichannel-calibration.html",
