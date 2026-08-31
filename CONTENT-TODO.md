@@ -30,6 +30,7 @@ Items marked as complete were resolved from public UNIMORE profiles, the group w
 - [x] Add publicly available profile photographs for six members
 - [ ] Obtain reuse authorization for every profile photograph
 - [x] Add a publicly available profile photograph for Alberto Besozzi
+- [ ] Replace the placeholder opportunity cards in the "Join us" section of `about-us.qmd` with real thesis, internship and PhD openings
 
 ## Research and outputs
 

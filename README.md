@@ -24,21 +24,24 @@ gh auth status
 - `_quarto.yml`: website, navigation, SEO and output configuration
 - `index.qmd`: homepage; the hero carries a "Latest news" panel with the 3 most recent entries from `news/items/`, rendered through `assets/listings/news-compact.ejs`
 - `research.qmd`: research areas, facilities and capabilities (no separate `facilities.qmd`)
-- `team.qmd`: team roster and contact information (no separate `contact.qmd`; contact details live in the `#contact` section of this page)
-- `publications.qmd`: publication index, hand-maintained as a flat, year-grouped Markdown list in IEEE style (there is no `publications.bib` — entries are added directly as Markdown)
-- `datasets.qmd`: public dataset index
-- `join-us.qmd`: opportunities for students and collaborators (thesis, internships, PhD) — currently a template pending real open positions
+- `about-us.qmd`: team roster, contact information and opportunities, in that order (no separate `team.qmd`, `contact.qmd` or `join-us.qmd`; the old `/team.html` and `/join-us.html` URLs redirect here through the `aliases` front matter, and contact details keep the `#contact` anchor)
+- `publications.qmd`: publication index, hand-maintained as a flat, year-grouped Markdown list in IEEE style (there is no `publications.bib` — entries are added directly as Markdown); `assets/js/publications-filter.js` reads that rendered list and builds the year / author / type filters from it
+- `datasets.qmd`: public dataset index — **not linked from the site navigation**, kept as a direct-URL page
 - `news/index.qmd`: full news archive (filterable listing)
 - `news/items/`: one Quarto file per news entry (conference participations, awards, updates), named `YYYY-MM-DD-short-slug.qmd`; `_template.qmd` is the starting point and is skipped by Quarto
 - `software.qmd`: verified public repositories and resources — **not linked from the site navigation**, kept as a direct-URL page pending a content review
 - `projects/index.qmd` and `projects/items/`: filterable project listing — **not linked from the site navigation**, kept as a direct-URL page pending a content review
 - `assets/`: brand, image and icon assets (`assets/brand/README.md` documents the logo and favicon)
+- `assets/js/`: page scripts (currently the Publications filter)
+- `assets/files/`: downloadable documents linked from the site (seminar announcements and similar)
 - `assets/inbox/`: untracked drop zone for raw photos awaiting placement in `assets/images/`
 - `assets/listings/`: EJS templates for custom Quarto listings
 - `styles.scss`: visual system and responsive rules
 - `.github/workflows/publish.yml`: automated GitHub Pages deployment
 
-`software.qmd` and `projects/` are intentionally excluded from the navbar in `_quarto.yml` — this is a deliberate editorial choice (pending a content pass), not an oversight. Re-add them to the `navbar.left`/`navbar.right` lists in `_quarto.yml` once their content is ready to publish.
+`datasets.qmd`, `software.qmd` and `projects/` are intentionally excluded from the navbar in `_quarto.yml` — this is a deliberate editorial choice (pending a content pass), not an oversight. Re-add them to the `navbar.left`/`navbar.right` lists in `_quarto.yml` once their content is ready to publish.
+
+The navigation is deliberately short: Home, Research, Publications, News, About Us.
 
 ## Local preview and rendering
 
@@ -66,6 +69,15 @@ Rendered output is written to `_site/` and is intentionally excluded from Git.
 4. Update the summary counts at the top of `publications.qmd` (`pub-stats`) if the new entry changes the totals.
 5. Render the site and check capitalization, links and author order.
 
+The filters on that page are derived from the list itself, so no separate metadata is needed — but they only work while entries keep the established shape:
+
+```
+- AUTHORS, "TITLE," *JOURNAL*, vol. X, no. Y, pp. A–B, YEAR, doi: [DOI](URL).
+- AUTHORS, "TITLE," in *PROCEEDINGS*, pp. A–B, YEAR, doi: [DOI](URL).
+```
+
+The leading `in ` before the italic venue is what marks an entry as a conference paper; a venue whose name contains "Workshop" is counted as a workshop paper, and one that looks like a data repository as a dataset. Authors are read from the text before the quoted title, so an entry abbreviated with `et al.` is only matched on the names it actually lists.
+
 Do not infer OptoLAB authorship or affiliations.
 
 ## Adding a news item
@@ -85,7 +97,7 @@ Drop raw photos in `assets/inbox/` (untracked). Place the reviewed, optimized co
 
 ## Updating team members
 
-Replace placeholder cards in `team.qmd` only after collecting the fields listed in `CONTENT-TODO.md`: name, academic role, short bio, research interests, institutional profile, ORCID, Google Scholar, GitHub and an authorized photo.
+Replace placeholder cards in the Team section of `about-us.qmd` only after collecting the fields listed in `CONTENT-TODO.md`: name, academic role, short bio, research interests, institutional profile, ORCID, Google Scholar, GitHub and an authorized photo.
 
 ## Publishing
 

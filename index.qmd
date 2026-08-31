@@ -26,7 +26,7 @@ listing:
 
 ::: {.hero-actions}
 [Explore our research](research.qmd){.btn .btn-primary .btn-lg}
-[Contact the lab](team.qmd#contact){.btn .btn-outline-primary .btn-lg}
+[Contact the lab](about-us.qmd#contact){.btn .btn-outline-primary .btn-lg}
 :::
 :::
 
@@ -57,5 +57,5 @@ We treat optical measurement as a connected chain, from optical interaction and 
 
 We welcome conversations with academic and industrial partners working at the intersection of biomedical optics, sensing and research instrumentation.
 
-[Contact the lab](team.qmd#contact){.btn .btn-primary .btn-lg}
+[Contact the lab](about-us.qmd#contact){.btn .btn-primary .btn-lg}
 :::

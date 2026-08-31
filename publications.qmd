@@ -10,14 +10,18 @@ Over the last five years (2021&ndash;2026), OptoLAB members have (co-)authored *
 <div class="pub-stats">
   <div class="stat"><span class="num">103</span><span class="label">Publications since 2021</span></div>
   <div class="stat"><span class="num">56</span><span class="label">Journal articles</span></div>
-  <div class="stat"><span class="num">47</span><span class="label">Conference papers</span></div>
+  <div class="stat"><span class="num">47</span><span class="label">Conference &amp; workshop papers</span></div>
   <div class="stat"><span class="num">58</span><span class="label">Journals &amp; proceedings</span></div>
 </div>
 ```
 
-The list below is grouped by year and formatted in IEEE style; each entry links to its DOI record.
+The list below is grouped by year and formatted in IEEE style; each entry links to its DOI record. Use the filters to narrow it by year, author or publication type.
 
-## 2026
+```{=html}
+<div id="pub-filter" class="pub-filter"></div>
+```
+
+## 2026 {#y2026}
 
 - G. Baridi et al., "Multiscale Molecular Dynamics and Quantum–Electrostatic Modelling of Graphene Electric Double-Layer Transistors for β2-Microglobulin Biosensing," *Electronics*, vol. 15, no. 13, p. 2837, 2026, doi: [10.3390/electronics15132837](https://doi.org/10.3390/electronics15132837).
 - A. Gallerani, M. Muzzarelli, A. Ferrari, S. Cattini, and L. Rovati, "Optical sensing for real-time blood monitoring in extracorporeal circulation: Performance assessment of a biocompatible sensor and off-label investigation of a commercial device," *ACTA IMEKO*, vol. 15, no. 2, pp. 1–8, 2026, doi: [10.21014/actaimeko.v15i2.2263](https://doi.org/10.21014/actaimeko.v15i2.2263).
@@ -27,7 +31,7 @@ The list below is grouped by year and formatted in IEEE style; each entry links 
 - G. Gibertoni, D. Goldoni, A. Fort, E. Panzardi, M. Mugnaini, and L. Rovati, "Photoacoustic Gas Detection: Optical Excitation Tailored to Acoustic Mode Structure of the Resonant Cell," *IEEE Transactions on Instrumentation and Measurement*, vol. 75, p. 4009109, 2026, doi: [10.1109/tim.2026.3699712](https://doi.org/10.1109/tim.2026.3699712).
 - D. Cassanelli et al., "Design and Characterization of a Portable Fluorescence Measuring System for the On-Site Monitoring of Marine Bioconstructors," *IEEE Transactions on Instrumentation and Measurement*, vol. 75, p. 4504112, 2026, doi: [10.1109/tim.2026.3687301](https://doi.org/10.1109/tim.2026.3687301).
 
-## 2025
+## 2025 {#y2025}
 
 - M. Micolitti, P. M. Rapa, A. Amidei, L. Benini, L. Rovati, and S. Benatti, "DermaBridge: A Novel Mixed-Signal System for Electrodermal Activity Measurements With Dynamically Controlled AC Excitation," *IEEE Sensors Journal*, vol. 25, no. 24, pp. 44664–44679, 2025, doi: [10.1109/jsen.2025.3626859](https://doi.org/10.1109/jsen.2025.3626859).
 - L. D. Toni et al., "A Computational Model of the Respiratory CPG for the Artificial Control of Breathing," *Bioengineering*, vol. 12, no. 11, p. 1163, 2025, doi: [10.3390/bioengineering12111163](https://doi.org/10.3390/bioengineering12111163).
@@ -52,7 +56,7 @@ The list below is grouped by year and formatted in IEEE style; each entry links 
 - S. Cattini, D. Cassanelli, A. Bertacchini, and L. Rovati, "A Simplified Method to Test the Safety of the Optical Radiations Emitted by 3D Scanning-LiDARs," *IEEE Transactions on Instrumentation and Measurement*, vol. 74, pp. 1–13, 2025, doi: [10.1109/tim.2025.3606052](https://doi.org/10.1109/tim.2025.3606052).
 - T. Petrachi et al., "A Bioprinted Hydrogel Patch With Bioactive Glass: A New Frontier in Chronic Wound Healing," *Journal of Biomedical Materials Research Part A*, vol. 113, no. 1, p. e37865, 2025, doi: [10.1002/jbm.a.37865](https://doi.org/10.1002/jbm.a.37865).
 
-## 2024
+## 2024 {#y2024}
 
 - V. D. Pinto et al., "Towards the monitoring of dialysis treatment through absorption and endogenous fluorescence techniques," *Measurement Sensors*, vol. 38, p. 101331, 2024, doi: [10.1016/j.measen.2024.101331](https://doi.org/10.1016/j.measen.2024.101331).
 - D. Goldoni et al., "Perspectives on multiparametric high-frequency impedance spectroscopy characterization of anatase TiO2 nanotubes with nanoelectrode array sensors," *Measurement Sensors*, vol. 38, p. 101414, 2024, doi: [10.1016/j.measen.2024.101414](https://doi.org/10.1016/j.measen.2024.101414).
@@ -68,7 +72,7 @@ The list below is grouped by year and formatted in IEEE style; each entry links 
 - G. Gibertoni, G. Borghi, and L. Rovati, "Compact High-Resolution Multi-Wavelength LED Light Source for Eye Stimulation," *Electronics*, vol. 13, no. 6, p. 1127, 2024, doi: [10.3390/electronics13061127](https://doi.org/10.3390/electronics13061127).
 - C. Castagnetti et al., "Potentialities of the combined use of underwater fluorescence imagery and photogrammetry for the detection of fine-scale changes in marine bioconstructors," *Frontiers in Marine Science*, vol. 10, 2024, doi: [10.3389/fmars.2023.1305807](https://doi.org/10.3389/fmars.2023.1305807).
 
-## 2023
+## 2023 {#y2023}
 
 - D. Goldoni, C. Ongaro, L. Orazi, L. Rovati, and L. Selmi, "Estimation of Analyte's Vertical Positions above the Surface of Nanocapacitor Array Biosensors," in *2023 IEEE SENSORS*, pp. 1–4, 2023, doi: [10.1109/sensors56945.2023.10325169](https://doi.org/10.1109/sensors56945.2023.10325169).
 - F. Lombardo, F. Pittino, D. Goldoni, and L. Selmi, "Machine learning and data augmentation methods for multispectral capacitance images of nanoparticles with nanoelectrodes array biosensors," *Engineering Applications of Artificial Intelligence*, vol. 127, p. 107246, 2023, doi: [10.1016/j.engappai.2023.107246](https://doi.org/10.1016/j.engappai.2023.107246).
@@ -92,7 +96,7 @@ The list below is grouped by year and formatted in IEEE style; each entry links 
 - V. D. Pinto, F. Tramarin, and L. Rovati, "A Preliminary Prototype of Smart Healthcare Modular System for Cardiovascular Diseases Remote Monitoring," in *Lecture notes of the Institute for Computer Sciences, Social Informatics and Telecommunications Engineering*, pp. 93–107, 2023, doi: [10.1007/978-3-031-28663-6_8](https://doi.org/10.1007/978-3-031-28663-6_8).
 - S. Cattini, D. Cassanelli, L. Ferrari, and L. Rovati, "A Method for Estimating Object Detection Probability, Lateral Resolution, and Errors in 3-D LiDARs," *IEEE Transactions on Instrumentation and Measurement*, vol. 72, pp. 1–14, 2023, doi: [10.1109/tim.2023.3298392](https://doi.org/10.1109/tim.2023.3298392).
 
-## 2022
+## 2022 {#y2022}
 
 - G. Gibertoni, G. Borghi, and L. Rovati, "Vision-Based Eye Image Classification for Ophthalmic Measurement Systems," *Sensors*, vol. 23, no. 1, p. 386, 2022, doi: [10.3390/s23010386](https://doi.org/10.3390/s23010386).
 - A. Aizenman, G. A. Koulieris, A. Gibaldi, V. Sehgal, D. M. Levi, and M. S. Banks, "Discomfort associated with the (un)natural statistics of VR gaming headsets," *Journal of Vision*, vol. 22, no. 14, p. 3038, 2022, doi: [10.1167/jov.22.14.3038](https://doi.org/10.1167/jov.22.14.3038).
@@ -116,7 +120,7 @@ The list below is grouped by year and formatted in IEEE style; each entry links 
 - G. Gibertoni, V. D. Pinto, S. Cattini, F. Tramarin, M. Geiser, and L. Rovati, "A simple Maxwellian optical system to investigate the photoreceptors contribution to pupillary light reflex," in *Ophthalmic Technologies XXXII*, p. 69, 2022, doi: [10.1117/12.2608129](https://doi.org/10.1117/12.2608129).
 - T. Fedullo et al., "Assessment of a Vision-Based Technique for an Automatic Van Herick Measurement System," *IEEE Transactions on Instrumentation and Measurement*, vol. 71, pp. 1–11, 2022, doi: [10.1109/tim.2022.3196323](https://doi.org/10.1109/tim.2022.3196323).
 
-## 2021
+## 2021 {#y2021}
 
 - F. Tessarolo et al., "Measuring breathability and bacterial filtration efficiency of face masks in the pandemic context: A round robin study with proficiency testing among non-accredited laboratories," *Measurement*, vol. 189, p. 110481, 2021, doi: [10.1016/j.measurement.2021.110481](https://doi.org/10.1016/j.measurement.2021.110481).
 - K. Bonnen, J. Matthis, A. Gibaldi, M. S. Banks, D. M. Levi, and M. Hayhoe, "Binocular vision and the control of foot placement during walking in natural terrain," *Scientific Reports*, vol. 11, no. 1, p. 20881, 2021, doi: [10.1038/s41598-021-99846-0](https://doi.org/10.1038/s41598-021-99846-0).
@@ -137,3 +141,7 @@ The list below is grouped by year and formatted in IEEE style; each entry links 
 - F. Tessarolo et al., "Testing Surgical Face Masks in an Emergency Context: The Experience of Italian Laboratories during the COVID-19 Pandemic Crisis," *International Journal of Environmental Research and Public Health*, vol. 18, no. 4, p. 1462, 2021, doi: [10.3390/ijerph18041462](https://doi.org/10.3390/ijerph18041462).
 - D. Cassanelli, N. Lenzini, L. Ferrari, and L. Rovati, "Partial Least Squares Estimation of Crop Moisture and Density by Near-Infrared Spectroscopy," *IEEE Transactions on Instrumentation and Measurement*, vol. 70, pp. 1–10, 2021, doi: [10.1109/tim.2021.3054637](https://doi.org/10.1109/tim.2021.3054637).
 - S. Cattini, D. Cassanelli, G. D. Loro, L. D. Cecilia, L. Ferrari, and L. Rovati, "Analysis, Quantification, and Discussion of the Approximations Introduced by Pulsed 3-D LiDARs," *IEEE Transactions on Instrumentation and Measurement*, vol. 70, pp. 1–11, 2021, doi: [10.1109/tim.2021.3124038](https://doi.org/10.1109/tim.2021.3124038).
+
+```{=html}
+<script src="assets/js/publications-filter.js" defer></script>
+```

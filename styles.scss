@@ -123,16 +123,16 @@ h1, h2, h3 {
   text-decoration: none;
 }
 
-.news-feed-item.has-thumb { grid-template-columns: 4.6rem 1fr; }
+.news-feed-item.has-thumb { grid-template-columns: 6rem 1fr; }
 .news-feed-item:first-child { border-top: 0; }
 
 .news-feed-item:hover,
 .news-feed-item:focus-visible { background: var(--mist); }
 
 .news-feed-thumb {
-  width: 4.6rem;
-  height: 4.6rem;
-  border-radius: .7rem;
+  width: 6rem;
+  height: 4.5rem;
+  border-radius: .6rem;
   object-fit: cover;
 }
 
@@ -427,6 +427,95 @@ h1, h2, h3 {
   letter-spacing: .1em;
   text-transform: uppercase;
 }
+/* Publications: faceted filter toolbar (built by assets/js/publications-filter.js). */
+.pub-filter {
+  margin: 2rem 0 2.5rem;
+  padding: 1.4rem 1.5rem 1.2rem;
+  border: 1px solid var(--line);
+  border-radius: 1rem;
+  background: var(--mist);
+}
+
+.pub-filter-controls {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+  align-items: flex-end;
+}
+
+.pub-filter-field {
+  display: flex;
+  flex: 1 1 12rem;
+  flex-direction: column;
+  gap: .35rem;
+  min-width: 0;
+}
+
+.pub-filter-field label {
+  color: var(--teal);
+  font-size: .72rem;
+  font-weight: 800;
+  letter-spacing: .1em;
+  text-transform: uppercase;
+}
+
+.pub-filter select,
+.pub-filter input[type="search"] {
+  width: 100%;
+  padding: .55rem .7rem;
+  border: 1px solid var(--line);
+  border-radius: .55rem;
+  color: var(--ink);
+  font-size: .92rem;
+  font-family: inherit;
+  background: var(--paper);
+}
+
+.pub-filter-reset {
+  padding: .55rem 1.1rem;
+  border: 1px solid var(--teal);
+  border-radius: .55rem;
+  color: var(--teal);
+  font-size: .92rem;
+  font-weight: 700;
+  font-family: inherit;
+  background: transparent;
+  cursor: pointer;
+}
+
+.pub-filter-reset:hover { color: #fff; background: var(--teal); }
+
+.pub-filter-status {
+  margin: 1rem 0 0;
+  color: var(--body);
+  font-size: .85rem;
+  font-weight: 600;
+}
+
+.pub-filter-note {
+  margin: .35rem 0 0;
+  color: #67808e;
+  font-size: .8rem;
+}
+
+.pub-filter-empty {
+  margin: 2rem 0;
+  color: var(--body);
+  font-style: italic;
+}
+
+/* The filter toggles entries, year sections and their table-of-contents links. */
+main li[hidden],
+main section[hidden],
+#TOC li[hidden],
+.pub-filter-empty[hidden],
+.pub-filter-note[hidden] { display: none !important; }
+
+@media (max-width: 640px) {
+  .pub-filter-field { flex-basis: 100%; }
+  .pub-filter-reset { width: 100%; }
+}
+
 .not-found { max-width: 760px; margin: 10vh auto; padding: 2rem; text-align: center; }
 .error-code { margin: 0; color: var(--teal); font-size: clamp(6rem, 18vw, 13rem); font-weight: 800; line-height: .8; opacity: .15; }
 

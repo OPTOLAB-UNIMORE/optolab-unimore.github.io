@@ -43,14 +43,10 @@ website:
         text: Research
       - href: publications.qmd
         text: Publications
-      - href: datasets.qmd
-        text: Datasets
       - href: news/index.qmd
         text: News
-      - href: team.qmd
-        text: Team
-      - href: join-us.qmd
-        text: Join Us
+      - href: about-us.qmd
+        text: About Us
     right:
       - icon: github
         href: https://github.com/OPTOLAB-UNIMORE

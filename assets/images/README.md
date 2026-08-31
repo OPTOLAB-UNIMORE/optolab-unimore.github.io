@@ -19,6 +19,8 @@ News photographs supplied directly by the laboratory:
 |---|---|---|
 | `news-mdpi-best-poster-award-ceremony.jpg` | Photo supplied by Alberto Besozzi, International Summer School on Wearable Sensors, Rome, 10 June 2026 | `news/items/2026-06-10-mdpi-best-poster-award.qmd` |
 | `news-mdpi-best-poster-award-poster.jpg` | Photo supplied by Alberto Besozzi, International Summer School on Wearable Sensors, Rome, 10 June 2026 | `news/items/2026-06-10-mdpi-best-poster-award.qmd` |
+| `news-seminar-shirmohammadi.jpg` | Header crop of the seminar announcement supplied by the laboratory (`assets/files/seminar-shirmohammadi-2026-09-17.pdf`) | `news/items/2026-09-17-seminar-shirmohammadi.qmd` |
+| `news-seminar-shirmohammadi-poster.jpg` | Full render of the same announcement | `news/items/2026-09-17-seminar-shirmohammadi.qmd` |
 
 The ceremony photograph shows identifiable people other than the award recipient. Confirm
 that their consent covers publication on this website before treating the entry as final.
