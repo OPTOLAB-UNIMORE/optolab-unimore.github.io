@@ -286,6 +286,37 @@ h1, h2, h3 {
   line-height: 1.6;
 }
 
+/* Research: "selected work" list under each area heading. */
+.area-papers {
+  max-width: 62rem;
+  margin: 1.3rem 0 3.2rem;
+  padding: 1.3rem 1.6rem 1.4rem;
+  border-left: 3px solid var(--cyan);
+  border-radius: 0 .9rem .9rem 0;
+  background: var(--mist);
+}
+
+.area-papers-label {
+  display: block;
+  margin-bottom: .7rem;
+  color: var(--teal);
+  font-size: .72rem;
+  font-weight: 800;
+  letter-spacing: .1em;
+  text-transform: uppercase;
+}
+
+.area-papers ul { margin: 0; padding-left: 1.15rem; }
+
+.area-papers li {
+  margin: .5rem 0;
+  color: var(--body);
+  font-size: .92rem;
+  line-height: 1.55;
+}
+
+.area-papers li a { font-weight: 650; }
+
 .band {
   margin: 7rem 0;
   padding: 7rem clamp(1.25rem, 5vw, 5rem);

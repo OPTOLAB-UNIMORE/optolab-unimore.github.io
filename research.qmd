@@ -1,38 +1,80 @@
 ---
 title: "Research"
-description: "Research areas spanning biomedical optics, optoelectronic instrumentation, embedded acquisition and computational imaging."
+description: "Five areas the laboratory publishes in: ophthalmic instrumentation and vision science, clinical and physiological optical measurement, spectral and radiometric measurement, automotive optical sensing, and nanoscale biosensing."
 canonical-url: "https://optolab-unimore.github.io/research.html"
 ---
 
-OptoLAB designs, develops and characterizes optical and optoelectronic measurement systems for biomedical and ophthalmic applications. The laboratory combines experimental prototyping with modelling, simulation and signal processing across the complete measurement chain.
+OptoLAB designs, develops and characterizes optical and optoelectronic measurement systems, combining experimental prototyping with modelling, simulation and signal processing across the complete measurement chain. The five areas below are the ones the laboratory actually publishes in; each lists a few representative results, and the full record is on the [Publications](publications.qmd) page.
 
-## Ophthalmic instrumentation
+## Ophthalmic instrumentation and vision science
 
-We develop methods and research instruments for eye diagnostics and imaging, including eye-position monitoring, anterior-segment assessment and automated analysis of ocular images.
+The laboratory's largest strand, spanning the instruments built for the eye and the vision science that motivates them. Work here covers pupillometry with selective stimulation of fundus photoreceptors, multi-wavelength and Maxwellian-view stimulators, automated assessment of the anterior chamber angle from ocular images, eye-state and eye-position classification for measurement systems, and eye, head and gaze tracking — through to binocular vision, eye posture in head-mounted displays and the environmental risk factors behind myopia progression in children.
 
-## Biomedical optical imaging
+::: {.area-papers}
+[Selected work]{.area-papers-label}
 
-We study imaging and fluorescence-measurement systems in which optical architecture, acquisition strategy and computation are designed together around a biomedical or environmental measurement question.
+- [Development of an Innovative Pupillometer Able to Selectively Stimulate the Eye's Fundus Photoreceptor Cells](https://doi.org/10.3390/diagnostics14171940) — G. Gibertoni, A. Hromov, F. Piffaretti, M. Geiser, *Diagnostics*, 2024.
+- [Assessment of a Vision-Based Technique for an Automatic Van Herick Measurement System](https://doi.org/10.1109/tim.2022.3196323) — T. Fedullo *et al.*, *IEEE Transactions on Instrumentation and Measurement*, 2022.
+- [A Child-Friendly Wearable Device for Quantifying Environmental Risk Factors for Myopia](https://doi.org/10.1167/tvst.13.10.28) — A. Gibaldi, E. Harb, C. F. Wildsoet, M. S. Banks, *Translational Vision Science & Technology*, 2024.
+- [Eye posture and screen alignment with simulated see-through head-mounted displays](https://doi.org/10.1167/jov.25.1.9) — A. Gibaldi *et al.*, *Journal of Vision*, 2025.
+- [PopEYE — Infrared Ocular Image Dataset for Eye State and Gaze-Direction Classification](https://doi.org/10.5281/zenodo.18430186) — G. Gibertoni, G. Borghi, L. Rovati, *Zenodo*, 2026.
+:::
 
-## Wearable optical sensing
+## Optical measurement for clinical and physiological monitoring
 
-This area focuses on compact instruments for monitoring the personal visual environment and light exposure, integrating optical sensing, embedded electronics and context-aware data analysis.
+Instruments that measure what is happening in a patient, usually in real time and often in line with a clinical circuit. Recurring subjects are optical blood-gas and blood-pH sensing during extracorporeal circulation, haemoglobin and haematocrit measurement on dialysis machines, absorption and endogenous-fluorescence monitoring of dialysis treatment, and wearable physiological measurement such as electrodermal activity. Temperature compensation, biocompatibility and validation against reference laboratory analysis are treated as part of the measurement problem rather than as afterthoughts.
 
-## Optoelectronic instrumentation
+::: {.area-papers}
+[Selected work]{.area-papers-label}
 
-We develop experimental measurement chains that connect light sources, detectors, analog and digital electronics, control software and data interpretation, with attention to weak-signal acquisition and metrological characterization.
+- [Blood-pH Optical Measurement: A Model to Compensate for the Effects of Temperature](https://doi.org/10.1109/tim.2023.3250282) — D. Goldoni, A. Ferrari, M. Piccini, S. Cattini, R. Molinari, L. Rovati, *IEEE Transactions on Instrumentation and Measurement*, 2023.
+- [Validation of Hemoglobin and Hematocrit Measurements from a Dialysis Machine Sensor Compared to Laboratory Analysis](https://doi.org/10.3390/jcm14155242) — N. Morisi *et al.*, *Journal of Clinical Medicine*, 2025.
+- [Optical sensing for real-time blood monitoring in extracorporeal circulation](https://doi.org/10.21014/actaimeko.v15i2.2263) — A. Gallerani, M. Muzzarelli, A. Ferrari, S. Cattini, L. Rovati, *ACTA IMEKO*, 2026.
+- [Towards the monitoring of dialysis treatment through absorption and endogenous fluorescence techniques](https://doi.org/10.1016/j.measen.2024.101331) — V. D. Pinto *et al.*, *Measurement Sensors*, 2024.
+- [DermaBridge: A Novel Mixed-Signal System for Electrodermal Activity Measurements With Dynamically Controlled AC Excitation](https://doi.org/10.1109/jsen.2025.3626859) — M. Micolitti *et al.*, *IEEE Sensors Journal*, 2025.
+:::
 
-## Embedded acquisition systems
+## Spectral, photometric and radiometric measurement
 
-Embedded platforms support synchronized acquisition, experimental control, communication and portable instrument prototypes. Readable protocols and inspectable software are part of the research and teaching workflow.
+How to get trustworthy numbers out of light. This area covers calibration methods that make compact, low-cost multi-channel sensors usable as photometric and radiometric instruments, near-infrared spectroscopy for in-field estimation of crop moisture and density, photoacoustic gas detection with the optical excitation tailored to the acoustic mode structure of the resonant cell, and the characterization of the optical components themselves — including high-reflectance diffuse coatings for 3D-printed optics.
 
-## Colorimetry and spectral sensing
+::: {.area-papers}
+[Selected work]{.area-papers-label}
 
-We investigate colorimetric, photometric, radiometric and multispectral measurement approaches, including flexible calibration methods for compact, low-cost multi-channel sensors.
+- [Flexible calibration method: Photometric and radiometric measurements with compact low-cost multi-channel sensors](https://doi.org/10.21014/actaimeko.v15i2.2267) — A. Besozzi, G. Gibertoni, L. Rovati, A. Gibaldi, *ACTA IMEKO*, 2026.
+- [Photoacoustic Gas Detection: Optical Excitation Tailored to Acoustic Mode Structure of the Resonant Cell](https://doi.org/10.1109/tim.2026.3699712) — G. Gibertoni, D. Goldoni, A. Fort, E. Panzardi, M. Mugnaini, L. Rovati, *IEEE Transactions on Instrumentation and Measurement*, 2026.
+- [Design and Performance of a Near-Infrared Spectroscopy Measurement System for In-Field Alfalfa Moisture Measurement](https://doi.org/10.3390/photonics9030178) — G. Gibertoni, N. Lenzini, L. Ferrari, L. Rovati, *Photonics*, 2022.
+- [Partial Least Squares Estimation of Crop Moisture and Density by Near-Infrared Spectroscopy](https://doi.org/10.1109/tim.2021.3054637) — D. Cassanelli, N. Lenzini, L. Ferrari, L. Rovati, *IEEE Transactions on Instrumentation and Measurement*, 2021.
+- [Characterization of high-reflectance diffuse coatings for 3D-printed optics](https://doi.org/10.21014/actaimeko.v15i2.2253) — G. Gibertoni, L. Rovati, *ACTA IMEKO*, 2026.
+:::
 
-## Computational imaging and artificial intelligence
+## Automotive optical sensing, LiDAR metrology and driver state
 
-We develop computational approaches for reconstruction, quality assessment, feature extraction and interpretation of optical data, including machine-learning methods for ophthalmic images and curated research datasets.
+Measurement science applied to vehicles and the road. The group has built a sustained body of work on how to benchmark 3D LiDAR — object-detection probability, lateral resolution, systematic errors, artefacts introduced during in-motion measurement, and degradation in fog — on testing the safety of the optical radiation these scanners emit, and on how visibility should be quantified so that the figure represents what a human driver, or a camera-based ADAS, actually perceives. A parallel line infers driver state from wearable physiological signals.
+
+::: {.area-papers}
+[Selected work]{.area-papers-label}
+
+- [A Method for Estimating Object Detection Probability, Lateral Resolution, and Errors in 3-D LiDARs](https://doi.org/10.1109/tim.2023.3298392) — S. Cattini, D. Cassanelli, L. Ferrari, L. Rovati, *IEEE Transactions on Instrumentation and Measurement*, 2023.
+- [A Simplified Method to Test the Safety of the Optical Radiations Emitted by 3D Scanning-LiDARs](https://doi.org/10.1109/tim.2025.3606052) — S. Cattini, D. Cassanelli, A. Bertacchini, L. Rovati, *IEEE Transactions on Instrumentation and Measurement*, 2025.
+- [A simple experimental method to estimate and benchmark automotive LIDARs performance in fog](https://doi.org/10.21014/actaimeko.v13i4.1885) — D. Cassanelli, S. Cattini, L. Medici, L. Ferrari, L. Rovati, *ACTA IMEKO*, 2024.
+- [On the effectiveness of the Meteorological Optical Range for representing visibility as perceived by human drivers and by ADAS employing visible cameras](https://doi.org/10.21014/actaimeko.v15i2.2266) — D. Cassanelli, S. Cattini, L. Rovati, *ACTA IMEKO*, 2026.
+- [Driver Drowsiness Detection: A Machine Learning Approach on Skin Conductance](https://doi.org/10.3390/s23084004) — A. Amidei *et al.*, *Sensors*, 2023.
+:::
+
+## Nanoscale and electrochemical sensing for biological and environmental analysis
+
+Sensing below the optical scale. Together with the nanoelectronics group, the laboratory works on nanoelectrode-array biosensors read out by high-frequency impedance and capacitance spectroscopy: multispectral capacitance imaging of single red blood cells, size-resolved detection of nano- and micro-plastics in water at varying salinity, and localization of analytes above the sensor surface. Physics-based simulation, machine learning and Bayesian inference are combined to turn the raw electrical response into a metrologically defensible measurement.
+
+::: {.area-papers}
+[Selected work]{.area-papers-label}
+
+- [Toward Continuous Nano-Plastic Monitoring in Water by High Frequency Impedance Measurement With Nano-Electrode Arrays](https://doi.org/10.1109/jsen.2023.3296158) — D. Goldoni, L. Rovati, L. Selmi, *IEEE Sensors Journal*, 2023.
+- [Multispectral Capacitance Imaging of Single Red Blood Cells: Experiments and Simulations](https://doi.org/10.1109/sensors59705.2025.11330972) — D. Goldoni, J. Nicolini, L. Rovati, L. Selmi, *IEEE SENSORS*, 2025.
+- [Integrating physics-based simulations, machine learning, and Bayesian inference for accurate detection and metrology of elongated nanoscale analytes](https://doi.org/10.1016/j.engappai.2025.111679) — E. Khodadadian *et al.*, *Engineering Applications of Artificial Intelligence*, 2025.
+- [Machine learning and data augmentation methods for multispectral capacitance images of nanoparticles with nanoelectrodes array biosensors](https://doi.org/10.1016/j.engappai.2023.107246) — F. Lombardo, F. Pittino, D. Goldoni, L. Selmi, *Engineering Applications of Artificial Intelligence*, 2023.
+- [Recent Advances in Self-Powered Electrochemical Biosensors for Early Diagnosis of Diseases](https://doi.org/10.1002/admt.202400395) — V. Galstyan *et al.*, *Advanced Materials Technologies*, 2024.
+:::
 
 ## Facilities & capabilities
 
