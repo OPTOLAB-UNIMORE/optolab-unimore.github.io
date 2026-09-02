@@ -32,56 +32,42 @@
     "href": "research.html",
     "title": "Research",
     "section": "",
-    "text": "OptoLAB designs, develops and characterizes optical and optoelectronic measurement systems for biomedical and ophthalmic applications. The laboratory combines experimental prototyping with modelling, simulation and signal processing across the complete measurement chain."
+    "text": "OptoLAB designs, develops and characterizes optical and optoelectronic measurement systems, combining experimental prototyping with modelling, simulation and signal processing across the complete measurement chain. The five areas below are the ones the laboratory actually publishes in; each lists a few representative results, and the full record is on the Publications page."
   },
   {
-    "objectID": "research.html#ophthalmic-instrumentation",
-    "href": "research.html#ophthalmic-instrumentation",
+    "objectID": "research.html#ophthalmic-instrumentation-and-vision-science",
+    "href": "research.html#ophthalmic-instrumentation-and-vision-science",
     "title": "Research",
-    "section": "Ophthalmic instrumentation",
-    "text": "Ophthalmic instrumentation\nWe develop methods and research instruments for eye diagnostics and imaging, including eye-position monitoring, anterior-segment assessment and automated analysis of ocular images."
+    "section": "Ophthalmic instrumentation and vision science",
+    "text": "Ophthalmic instrumentation and vision science\nThe laboratory’s largest strand, spanning the instruments built for the eye and the vision science that motivates them. Work here covers pupillometry with selective stimulation of fundus photoreceptors, multi-wavelength and Maxwellian-view stimulators, automated assessment of the anterior chamber angle from ocular images, eye-state and eye-position classification for measurement systems, and eye, head and gaze tracking — through to binocular vision, eye posture in head-mounted displays and the environmental risk factors behind myopia progression in children.\n\nSelected work\n\nDevelopment of an Innovative Pupillometer Able to Selectively Stimulate the Eye’s Fundus Photoreceptor Cells — G. Gibertoni, A. Hromov, F. Piffaretti, M. Geiser, Diagnostics, 2024.\nAssessment of a Vision-Based Technique for an Automatic Van Herick Measurement System — T. Fedullo et al., IEEE Transactions on Instrumentation and Measurement, 2022.\nA Child-Friendly Wearable Device for Quantifying Environmental Risk Factors for Myopia — A. Gibaldi, E. Harb, C. F. Wildsoet, M. S. Banks, Translational Vision Science & Technology, 2024.\nEye posture and screen alignment with simulated see-through head-mounted displays — A. Gibaldi et al., Journal of Vision, 2025.\nPopEYE — Infrared Ocular Image Dataset for Eye State and Gaze-Direction Classification — G. Gibertoni, G. Borghi, L. Rovati, Zenodo, 2026."
   },
   {
-    "objectID": "research.html#biomedical-optical-imaging",
-    "href": "research.html#biomedical-optical-imaging",
+    "objectID": "research.html#optical-measurement-for-clinical-and-physiological-monitoring",
+    "href": "research.html#optical-measurement-for-clinical-and-physiological-monitoring",
     "title": "Research",
-    "section": "Biomedical optical imaging",
-    "text": "Biomedical optical imaging\nWe study imaging and fluorescence-measurement systems in which optical architecture, acquisition strategy and computation are designed together around a biomedical or environmental measurement question."
+    "section": "Optical measurement for clinical and physiological monitoring",
+    "text": "Optical measurement for clinical and physiological monitoring\nInstruments that measure what is happening in a patient, usually in real time and often in line with a clinical circuit. Recurring subjects are optical blood-gas and blood-pH sensing during extracorporeal circulation, haemoglobin and haematocrit measurement on dialysis machines, absorption and endogenous-fluorescence monitoring of dialysis treatment, and wearable physiological measurement such as electrodermal activity. Temperature compensation, biocompatibility and validation against reference laboratory analysis are treated as part of the measurement problem rather than as afterthoughts.\n\nSelected work\n\nBlood-pH Optical Measurement: A Model to Compensate for the Effects of Temperature — D. Goldoni, A. Ferrari, M. Piccini, S. Cattini, R. Molinari, L. Rovati, IEEE Transactions on Instrumentation and Measurement, 2023.\nValidation of Hemoglobin and Hematocrit Measurements from a Dialysis Machine Sensor Compared to Laboratory Analysis — N. Morisi et al., Journal of Clinical Medicine, 2025.\nOptical sensing for real-time blood monitoring in extracorporeal circulation — A. Gallerani, M. Muzzarelli, A. Ferrari, S. Cattini, L. Rovati, ACTA IMEKO, 2026.\nTowards the monitoring of dialysis treatment through absorption and endogenous fluorescence techniques — V. D. Pinto et al., Measurement Sensors, 2024.\nDermaBridge: A Novel Mixed-Signal System for Electrodermal Activity Measurements With Dynamically Controlled AC Excitation — M. Micolitti et al., IEEE Sensors Journal, 2025."
   },
   {
-    "objectID": "research.html#wearable-optical-sensing",
-    "href": "research.html#wearable-optical-sensing",
+    "objectID": "research.html#spectral-photometric-and-radiometric-measurement",
+    "href": "research.html#spectral-photometric-and-radiometric-measurement",
     "title": "Research",
-    "section": "Wearable optical sensing",
-    "text": "Wearable optical sensing\nThis area focuses on compact instruments for monitoring the personal visual environment and light exposure, integrating optical sensing, embedded electronics and context-aware data analysis."
+    "section": "Spectral, photometric and radiometric measurement",
+    "text": "Spectral, photometric and radiometric measurement\nHow to get trustworthy numbers out of light. This area covers calibration methods that make compact, low-cost multi-channel sensors usable as photometric and radiometric instruments, near-infrared spectroscopy for in-field estimation of crop moisture and density, photoacoustic gas detection with the optical excitation tailored to the acoustic mode structure of the resonant cell, and the characterization of the optical components themselves — including high-reflectance diffuse coatings for 3D-printed optics.\n\nSelected work\n\nFlexible calibration method: Photometric and radiometric measurements with compact low-cost multi-channel sensors — A. Besozzi, G. Gibertoni, L. Rovati, A. Gibaldi, ACTA IMEKO, 2026.\nPhotoacoustic Gas Detection: Optical Excitation Tailored to Acoustic Mode Structure of the Resonant Cell — G. Gibertoni, D. Goldoni, A. Fort, E. Panzardi, M. Mugnaini, L. Rovati, IEEE Transactions on Instrumentation and Measurement, 2026.\nDesign and Performance of a Near-Infrared Spectroscopy Measurement System for In-Field Alfalfa Moisture Measurement — G. Gibertoni, N. Lenzini, L. Ferrari, L. Rovati, Photonics, 2022.\nPartial Least Squares Estimation of Crop Moisture and Density by Near-Infrared Spectroscopy — D. Cassanelli, N. Lenzini, L. Ferrari, L. Rovati, IEEE Transactions on Instrumentation and Measurement, 2021.\nCharacterization of high-reflectance diffuse coatings for 3D-printed optics — G. Gibertoni, L. Rovati, ACTA IMEKO, 2026."
   },
   {
-    "objectID": "research.html#optoelectronic-instrumentation",
-    "href": "research.html#optoelectronic-instrumentation",
+    "objectID": "research.html#automotive-optical-sensing-lidar-metrology-and-driver-state",
+    "href": "research.html#automotive-optical-sensing-lidar-metrology-and-driver-state",
     "title": "Research",
-    "section": "Optoelectronic instrumentation",
-    "text": "Optoelectronic instrumentation\nWe develop experimental measurement chains that connect light sources, detectors, analog and digital electronics, control software and data interpretation, with attention to weak-signal acquisition and metrological characterization."
+    "section": "Automotive optical sensing, LiDAR metrology and driver state",
+    "text": "Automotive optical sensing, LiDAR metrology and driver state\nMeasurement science applied to vehicles and the road. The group has built a sustained body of work on how to benchmark 3D LiDAR — object-detection probability, lateral resolution, systematic errors, artefacts introduced during in-motion measurement, and degradation in fog — on testing the safety of the optical radiation these scanners emit, and on how visibility should be quantified so that the figure represents what a human driver, or a camera-based ADAS, actually perceives. A parallel line infers driver state from wearable physiological signals.\n\nSelected work\n\nA Method for Estimating Object Detection Probability, Lateral Resolution, and Errors in 3-D LiDARs — S. Cattini, D. Cassanelli, L. Ferrari, L. Rovati, IEEE Transactions on Instrumentation and Measurement, 2023.\nA Simplified Method to Test the Safety of the Optical Radiations Emitted by 3D Scanning-LiDARs — S. Cattini, D. Cassanelli, A. Bertacchini, L. Rovati, IEEE Transactions on Instrumentation and Measurement, 2025.\nA simple experimental method to estimate and benchmark automotive LIDARs performance in fog — D. Cassanelli, S. Cattini, L. Medici, L. Ferrari, L. Rovati, ACTA IMEKO, 2024.\nOn the effectiveness of the Meteorological Optical Range for representing visibility as perceived by human drivers and by ADAS employing visible cameras — D. Cassanelli, S. Cattini, L. Rovati, ACTA IMEKO, 2026.\nDriver Drowsiness Detection: A Machine Learning Approach on Skin Conductance — A. Amidei et al., Sensors, 2023."
   },
   {
-    "objectID": "research.html#embedded-acquisition-systems",
-    "href": "research.html#embedded-acquisition-systems",
+    "objectID": "research.html#nanoscale-and-electrochemical-sensing-for-biological-and-environmental-analysis",
+    "href": "research.html#nanoscale-and-electrochemical-sensing-for-biological-and-environmental-analysis",
     "title": "Research",
-    "section": "Embedded acquisition systems",
-    "text": "Embedded acquisition systems\nEmbedded platforms support synchronized acquisition, experimental control, communication and portable instrument prototypes. Readable protocols and inspectable software are part of the research and teaching workflow."
-  },
-  {
-    "objectID": "research.html#colorimetry-and-spectral-sensing",
-    "href": "research.html#colorimetry-and-spectral-sensing",
-    "title": "Research",
-    "section": "Colorimetry and spectral sensing",
-    "text": "Colorimetry and spectral sensing\nWe investigate colorimetric, photometric, radiometric and multispectral measurement approaches, including flexible calibration methods for compact, low-cost multi-channel sensors."
-  },
-  {
-    "objectID": "research.html#computational-imaging-and-artificial-intelligence",
-    "href": "research.html#computational-imaging-and-artificial-intelligence",
-    "title": "Research",
-    "section": "Computational imaging and artificial intelligence",
-    "text": "Computational imaging and artificial intelligence\nWe develop computational approaches for reconstruction, quality assessment, feature extraction and interpretation of optical data, including machine-learning methods for ophthalmic images and curated research datasets."
+    "section": "Nanoscale and electrochemical sensing for biological and environmental analysis",
+    "text": "Nanoscale and electrochemical sensing for biological and environmental analysis\nSensing below the optical scale. Together with the nanoelectronics group, the laboratory works on nanoelectrode-array biosensors read out by high-frequency impedance and capacitance spectroscopy: multispectral capacitance imaging of single red blood cells, size-resolved detection of nano- and micro-plastics in water at varying salinity, and localization of analytes above the sensor surface. Physics-based simulation, machine learning and Bayesian inference are combined to turn the raw electrical response into a metrologically defensible measurement.\n\nSelected work\n\nToward Continuous Nano-Plastic Monitoring in Water by High Frequency Impedance Measurement With Nano-Electrode Arrays — D. Goldoni, L. Rovati, L. Selmi, IEEE Sensors Journal, 2023.\nMultispectral Capacitance Imaging of Single Red Blood Cells: Experiments and Simulations — D. Goldoni, J. Nicolini, L. Rovati, L. Selmi, IEEE SENSORS, 2025.\nIntegrating physics-based simulations, machine learning, and Bayesian inference for accurate detection and metrology of elongated nanoscale analytes — E. Khodadadian et al., Engineering Applications of Artificial Intelligence, 2025.\nMachine learning and data augmentation methods for multispectral capacitance images of nanoparticles with nanoelectrodes array biosensors — F. Lombardo, F. Pittino, D. Goldoni, L. Selmi, Engineering Applications of Artificial Intelligence, 2023.\nRecent Advances in Self-Powered Electrochemical Biosensors for Early Diagnosis of Diseases — V. Galstyan et al., Advanced Materials Technologies, 2024."
   },
   {
     "objectID": "research.html#facilities-capabilities",
