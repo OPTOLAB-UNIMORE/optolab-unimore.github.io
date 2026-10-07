@@ -18,6 +18,7 @@ Keep the most recent first, and publish no student or supervisor names.
 -->
 
 ::: {.thesis-grid}
+<!--
 ::: {.thesis-card}
 <span class="thesis-tag">Thesis · ongoing</span>
 
@@ -25,6 +26,7 @@ Keep the most recent first, and publish no student or supervisor names.
 
 *Summary to follow once the thesis is complete.*
 :::
+-->
 
 ::: {.thesis-card}
 <span class="thesis-tag">Bachelor's thesis · Electronic Engineering · October 2026</span>
