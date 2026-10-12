@@ -17,7 +17,7 @@ website:
     location: navbar
     type: overlay
   page-navigation: true
-  back-to-top-navigation: true
+  back-to-top-navigation: false
   open-graph:
     title: "OptoLAB | Biomedical Optics and Optoelectronic Instrumentation"
     description: "Optical technologies for biomedical imaging, sensing and ophthalmic instrumentation."

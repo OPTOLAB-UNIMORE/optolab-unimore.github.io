@@ -25,7 +25,7 @@ gh auth status
 - `index.qmd`: homepage; the hero carries a "Latest news" panel with the 3 most recent entries from `news/items/`, rendered through `assets/listings/news-compact.ejs`
 - `research.qmd`: five research areas, each with a hand-picked "Selected work" list linking to DOIs already present in `publications.qmd`
 - `about-us.qmd`: team roster followed by contact information (no separate `team.qmd` or `contact.qmd`; `/team.html` redirects here through the `aliases` front matter, and the contact block keeps the `#contact` anchor other pages link to)
-- `students.qmd`: recently completed theses followed by the "Join us" opportunities (theses, internships, PhD positions, research fellowships); `/join-us.html` redirects here
+- `students.qmd`: collapsible "Thesis proposals" and "Recent theses" sections followed by the "Join us" opportunities (theses, internships, PhD positions, research fellowships); `/join-us.html` redirects here
 - `publications.qmd`: publication and dataset index, hand-maintained as a flat, year-grouped Markdown list in IEEE style (there is no `publications.bib` — entries are added directly as Markdown); `assets/js/publications-filter.js` reads that rendered list and builds the year / author / type filters from it. Public datasets live in the same list and are told apart by their type, so there is no separate `datasets.qmd`; `/datasets.html` redirects here
 - `news/index.qmd`: full news archive (filterable listing)
 - `news/items/`: one Quarto file per news entry (conference participations, awards, updates), named `YYYY-MM-DD-short-slug.qmd`; `_template.qmd` is the starting point and is skipped by Quarto
@@ -97,7 +97,7 @@ Drop raw photos in `assets/inbox/` (untracked). Place the reviewed, optimized co
 
 ## Adding a completed thesis
 
-1. Open the "Recent theses" section of `students.qmd`.
+1. Open the "Recent theses" fold of `students.qmd`.
 2. Copy one `.thesis-card` block and fill in three fields: the `.thesis-tag` (degree, course and session), the `###` heading (thesis title, in the language it was written in) and a paragraph summarising the work in two to four sentences.
 3. Keep the most recent theses first; the grid fits up to three per row and stretches to fill the space when there are fewer.
 4. Do not publish student or supervisor names — the section deliberately carries titles and summaries only.

@@ -7,7 +7,26 @@ aliases:
   - /join-us.html
 ---
 
-## Recent theses
+```{=html}
+<details class="fold">
+<summary>Thesis proposals</summary>
+```
+
+<!--
+Adding a proposal: add a .thesis-card block inside the .thesis-grid below, with
+  - .thesis-tag   the level, e.g. "Master's thesis proposal"
+  - ### heading   the topic title
+  - the paragraph a two- to four-sentence description of the work
+-->
+
+Open thesis proposals will be listed here. In the meantime, see [How to apply](#how-to-apply) to get in touch about available topics.
+
+```{=html}
+</details>
+
+<details class="fold">
+<summary>Recent theses</summary>
+```
 
 <!--
 Adding a thesis: copy one .thesis-card block below and fill in three fields.
@@ -52,6 +71,10 @@ Design, construction and methodological validation of a portable, low-cost spect
 Development of MYRA-TECH (MYopia Risk Assessment TECHnologies), a lightweight head-mounted system for recording a child's visual environment across a full day, in support of research into the environmental risk factors behind myopia. The device measures object distance, by combining monocular depth estimation from an OV2640 camera with a VL53L5CX 8×8 time-of-flight sensor, and ambient illuminance through an AS7341 spectral sensor, while an MPU6050 inertial unit supports machine-learning activity recognition that distinguishes reading, screen use and outdoor play. Built around an ESP32-S3 for full-day acquisition, the design keeps the electronics head-mounted and aligned with the child's eyes, with a single cable to a small power bank. Initial tests with five adults and one child assessed performance, comfort and data quality.
 :::
 :::
+
+```{=html}
+</details>
+```
 
 ## Join us
 

@@ -383,6 +383,32 @@ h1, h2, h3 {
   .home-campus img { aspect-ratio: 16 / 9; }
 }
 
+.fold {
+  max-width: 1180px;
+  margin: 1.25rem auto;
+  border: 1px solid var(--line);
+  border-radius: 1rem;
+  background: var(--paper);
+}
+.fold > summary {
+  padding: 1.1rem 1.4rem;
+  cursor: pointer;
+  font-size: 1.35rem;
+  font-weight: 700;
+  color: var(--ink);
+  list-style: none;
+}
+.fold > summary::-webkit-details-marker { display: none; }
+.fold > summary::after {
+  content: "+";
+  float: right;
+  color: var(--teal);
+  font-weight: 400;
+}
+.fold[open] > summary::after { content: "–"; }
+.fold > :not(summary) { margin-left: 1.4rem; margin-right: 1.4rem; }
+.fold > :last-child { margin-bottom: 1.4rem; }
+
 .collab-cta {
   max-width: 980px;
   margin: 8rem auto;
