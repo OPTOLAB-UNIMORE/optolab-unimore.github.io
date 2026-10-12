@@ -22,6 +22,8 @@ News photographs supplied directly by the laboratory:
 | `news-embc-2026-toronto.jpg` | Photo supplied by the laboratory, IEEE EMBC 2026, Metro Toronto Convention Centre, 29 July 2026 | `news/items/2026-07-26-embc-2026-toronto.qmd` |
 | `news-seminar-shirmohammadi.jpg` | Header crop of the seminar announcement supplied by the laboratory (`assets/files/seminar-shirmohammadi-2026-09-17.pdf`) | `news/items/2026-09-17-seminar-shirmohammadi.qmd` |
 | `news-seminar-shirmohammadi-poster.jpg` | Full render of the same announcement | `news/items/2026-09-17-seminar-shirmohammadi.qmd` |
+| `news-photomet-edumet-2026.jpg` | Photo supplied by the laboratory, IMEKO PHOTOMET/EDUMET 2026, Klagenfurt, 31 August 2026 | `news/items/2026-08-31-photomet-edumet-and-forum-misure.qmd` |
+| `home-campus.jpg` | Photo supplied by the laboratory (campus buildings at sunset) | `index.qmd` (home page banner) |
 
 The ceremony photograph shows identifiable people other than the award recipient. Confirm
 that their consent covers publication on this website before treating the entry as final.

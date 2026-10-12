@@ -4,6 +4,8 @@ description: "OptoLAB takes part in the IMEKO symposium in Klagenfurt and, the f
 canonical-url: "https://optolab-unimore.github.io/news/items/2026-08-31-photomet-edumet-and-forum-misure.html"
 date: 2026-08-31
 categories: [Conference]
+image: /assets/images/news-photomet-edumet-2026.jpg
+image-alt: "OptoLAB researchers seated at a table on a lakeside terrace during IMEKO PHOTOMET/EDUMET 2026"
 ---
 
 Giovanni Gibertoni, Daniele Goldoni and Luigi Rovati are attending the joint IMEKO symposium **PHOTOMET/EDUMET 2026** - *Metrology in Transition: Education, Photonics, and the Impact of AI & Robotics*, hosted at Lakeside Park, Alpen-Adria-Universität Klagenfurt, Austria, on 31 August – 2 September 2026. The symposium brings together the two IMEKO technical committees on photonics (TC2) and on education and training in measurement science (TC1).

@@ -26,6 +26,9 @@ listing:
 
 ::: {.hero-actions}
 [Explore our work](publications.qmd){.btn .btn-primary .btn-lg}
+
+[Explore our research](research.qmd){.btn .btn-outline-primary .btn-lg}
+
 [Contact the lab](about-us.qmd#contact){.btn .btn-outline-primary .btn-lg}
 :::
 :::
@@ -40,14 +43,8 @@ listing:
 :::
 :::
 
-::: {.section-intro}
-<p class="eyebrow">Research</p>
-
-## What we investigate
-
-We treat optical measurement as a connected chain, from optical interaction and sensor response to electronic acquisition and computational interpretation. Our activity spans ophthalmic instrumentation, biomedical optical imaging, wearable and spectral sensing, embedded acquisition and computational imaging.
-
-[Explore our research →](research.qmd){.btn .btn-primary .btn-lg}
+::: {.home-campus}
+![Brick university buildings at sunset, with a jet aircraft sculpture in the courtyard](assets/images/home-campus.jpg)
 :::
 
 ::: {.collab-cta}
