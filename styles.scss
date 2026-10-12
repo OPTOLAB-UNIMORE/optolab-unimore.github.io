@@ -363,25 +363,24 @@ h1, h2, h3 {
 .open-science-mark { color: #67d9de; font: 700 clamp(4rem, 12vw, 9rem)/1 Consolas, monospace; opacity: .78; }
 
 .home-campus {
-  max-width: 1180px;
-  margin: 1.5rem auto 0;
-  padding: 0 1.25rem;
+  margin: 0;
+  padding: 0;
 }
+.home-campus p { margin: 0; }
 .home-campus img {
   display: block;
   width: 100%;
-  aspect-ratio: 16 / 7;
+  aspect-ratio: 21 / 6;
   object-fit: cover;
-  object-position: center 55%;
-  border-radius: 1.25rem;
-  box-shadow: var(--shadow);
+  object-position: center 50%;
+  border-radius: 0;
 }
 .home-campus + .hero {
   min-height: auto;
   padding-top: clamp(2.5rem, 5vw, 4rem);
 }
 @media (max-width: 700px) {
-  .home-campus img { aspect-ratio: 4 / 3; }
+  .home-campus img { aspect-ratio: 16 / 9; }
 }
 
 .collab-cta {
