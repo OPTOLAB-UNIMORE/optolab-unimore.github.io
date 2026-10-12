@@ -364,7 +364,7 @@ h1, h2, h3 {
 
 .home-campus {
   max-width: 1180px;
-  margin: 6rem auto 0;
+  margin: 1.5rem auto 0;
   padding: 0 1.25rem;
 }
 .home-campus img {
@@ -376,8 +376,11 @@ h1, h2, h3 {
   border-radius: 1.25rem;
   box-shadow: var(--shadow);
 }
+.home-campus + .hero {
+  min-height: auto;
+  padding-top: clamp(2.5rem, 5vw, 4rem);
+}
 @media (max-width: 700px) {
-  .home-campus { margin-top: 4rem; }
   .home-campus img { aspect-ratio: 4 / 3; }
 }
 

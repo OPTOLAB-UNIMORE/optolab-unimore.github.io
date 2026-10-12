@@ -14,6 +14,10 @@ listing:
   fields: [image, title, date, description]
 ---
 
+::: {.home-campus}
+![](assets/images/home-campus.jpg){fig-alt="Brick university buildings at sunset, with a jet aircraft sculpture in the courtyard"}
+:::
+
 ::: {.hero}
 ::: {.hero-copy}
 <p class="eyebrow">OPTOLAB - University of Modena and Reggio Emilia</p>
@@ -41,10 +45,6 @@ listing:
 
 [See all news →](news/index.qmd){.hero-news-more}
 :::
-:::
-
-::: {.home-campus}
-![Brick university buildings at sunset, with a jet aircraft sculpture in the courtyard](assets/images/home-campus.jpg)
 :::
 
 ::: {.collab-cta}
