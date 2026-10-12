@@ -46,7 +46,7 @@ ul.task-list li input[type="checkbox"] {
 <link href="site_libs/quarto-html/quarto-syntax-highlighting-bf27225e3a48a9273f3daa8f8e829971.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-ad3f35ff908b8b3227216341279903a3.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-357554fc053c00c5228338c122755963.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -153,8 +153,7 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#recent-theses" id="toc-recent-theses" class="nav-link active" data-scroll-target="#recent-theses">Recent theses</a></li>
-  <li><a href="#join-us" id="toc-join-us" class="nav-link" data-scroll-target="#join-us">Join us</a>
+  <li><a href="#join-us" id="toc-join-us" class="nav-link active" data-scroll-target="#join-us">Join us</a>
   <ul class="collapse">
   <li><a href="#what-we-offer" id="toc-what-we-offer" class="nav-link" data-scroll-target="#what-we-offer">What we offer</a></li>
   <li><a href="#how-to-apply" id="toc-how-to-apply" class="nav-link" data-scroll-target="#how-to-apply">How to apply</a></li>
@@ -189,8 +188,19 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<section id="recent-theses" class="level2">
-<h2 class="anchored" data-anchor-id="recent-theses">Recent theses</h2>
+<details class="fold">
+<summary>Thesis proposals</summary>
+<!--
+Adding a proposal: add a .thesis-card block inside the .thesis-grid below, with
+  - .thesis-tag   the level, e.g. "Master's thesis proposal"
+  - ### heading   the topic title
+  - the paragraph a two- to four-sentence description of the work
+-->
+<p>Open thesis proposals will be listed here. In the meantime, see <a href="#how-to-apply">How to apply</a> to get in touch about available topics.</p>
+</details>
+
+<details class="fold">
+<summary>Recent theses</summary>
 <!--
 Adding a thesis: copy one .thesis-card block below and fill in three fields.
   - .thesis-tag   degree and session, e.g. "Master's thesis - October 2025"
@@ -230,7 +240,7 @@ Keep the most recent first, and publish no student or supervisor names.
 </section>
 </div>
 </div>
-</section>
+</details>
 <section id="join-us" class="level2">
 <h2 class="anchored" data-anchor-id="join-us">Join us</h2>
 <p>OptoLAB is open to motivated students and researchers interested in optical measurement, biomedical instrumentation, embedded systems and computational imaging. We host bachelor’s and master’s theses and internships throughout the year, and we welcome enquiries from prospective PhD candidates and research fellows. Every project connects to a research direction the laboratory is actively working on.</p>
@@ -264,7 +274,7 @@ Get in touch
 </section>
 </section>
 
-<a onclick="window.scrollTo(0, 0); return false;" role="button" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a></main> <!-- /main -->
+</main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     const icon = "";
