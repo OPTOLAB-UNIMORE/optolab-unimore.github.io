@@ -25,6 +25,27 @@ News photographs supplied directly by the laboratory:
 | `news-photomet-edumet-2026.jpg` | Photo supplied by the laboratory, IMEKO PHOTOMET/EDUMET 2026, Klagenfurt, 31 August 2026 | `news/items/2026-08-31-photomet-edumet-and-forum-misure.qmd` |
 | `home-campus.jpg` | Photo supplied by the laboratory (campus buildings at sunset) | `index.qmd` (home page banner) |
 
+Thesis-proposal figures are crops rendered from the laboratory's own thesis presentation
+(`Proposte_OptoLab_10_2026.pdf`, "Where Light Meets Bioengineering – OptoLAB Thesis Projects",
+21 October 2026), supplied by the laboratory. All are used in `students.qmd` (Master thesis proposals):
+
+| File | Slide |
+|---|---|
+| `thesis-color-perception-setup.jpg`, `thesis-color-perception-photo.jpg` | 3 – Color Perception |
+| `thesis-optical-myography-bracelet.jpg`, `thesis-optical-myography-model.jpg` | 5 – NIR Spectroscopy Bracelet |
+| `thesis-acd-reconstruction.jpg`, `thesis-dlp-glaucoma-system.jpg` | 7 – Angle Closure Glaucoma (top and bottom halves) |
+| `thesis-flexible-sensors.jpg` | 10 – Flexible Sensors for Wearable Application |
+| `thesis-dialysis-monitoring.jpg` | 12 – Real time monitoring in blood dialysis |
+| `thesis-eye-health-monitoring.jpg`, `thesis-vision-restoration.jpg` | 14 – Eye Health Monitoring and Vision Restoration (left and right halves) |
+| `thesis-strabismus-eye-movements.jpg`, `thesis-strabismus-devices.jpg` | 16 – Tecniche di riabilitazione: Strabismo |
+| `thesis-eog-board.jpg`, `thesis-eog-glasses.jpg` | 19 – Sensor Fusion for Eye tracking |
+| `thesis-ema-toolbox.jpg` | 21 – Eye Movement Analysis Toolbox |
+| `thesis-activity-classification.jpg` | 24 – Classificazione di Attività |
+
+The Pico 4 headset and Pupil Neon product images in `thesis-strabismus-devices.jpg` appear to be
+manufacturer product shots reused in the slide; replace them with the lab's own photos if their
+reuse terms don't cover this website.
+
 The ceremony photograph shows identifiable people other than the award recipient. Confirm
 that their consent covers publication on this website before treating the entry as final.
 
