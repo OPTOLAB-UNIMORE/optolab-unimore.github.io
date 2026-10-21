@@ -225,7 +225,106 @@ Proposals for the bachelor's degree are written in Italian.
 
 <details class="fold">
 <summary>Master thesis proposals</summary>
-<p>Master’s thesis proposals will be listed here. In the meantime, see <a href="#how-to-apply">How to apply</a> to get in touch about available topics.</p>
+<!--
+Adding a proposal: add a .thesis-card block inside the .thesis-grid below, with
+  - .thesis-tag   the level, e.g. "Proposta di tesi magistrale"
+  - ### heading   the topic title, in the language the lab gave it
+  - the paragraph a two- to four-sentence description of the work
+-->
+<p>Proposte di tesi per la Laurea Magistrale. Ogni proposta può essere modulata in base agli interessi e al tempo disponibile. Per discuterne, vedi <a href="#how-to-apply">How to apply</a>.</p>
+<div class="thesis-grid">
+<div class="thesis-card">
+<p><span class="thesis-tag">Proposta di tesi magistrale · Color Perception</span></p>
+<section id="from-color-perception-to-silent-substitution-pupillometry-an-individualized-calibration-approach" class="level3">
+<h3 class="anchored" data-anchor-id="from-color-perception-to-silent-substitution-pupillometry-an-individualized-calibration-approach">From Color Perception to Silent Substitution Pupillometry: An Individualized Calibration Approach</h3>
+<p>Ognuno di noi percepisce i colori in modo leggermente diverso, e queste differenze influenzano la risposta agli stimoli luminosi. Utilizzando un pupillometro custom già realizzato, con ottica maxwelliana, quattro sorgenti LED a diverse lunghezze d’onda e una telecamera a infrarossi, il lavoro sviluppa un protocollo di calibrazione soggettiva basato sul confronto di stimoli cromatici e lo usa per definire stimoli di <em>silent substitution</em> personalizzati, così da isolare il contributo di specifiche classi di fotorecettori alla risposta pupillare. Il protocollo sarà applicato ad almeno 10 volontari, valutando ripetibilità delle misure e variabilità interindividuale. Richiede basi di elettronica e ottica (non è prevista progettazione hardware), MATLAB o Python e interesse per la fisiologia del sistema visivo.</p>
+</section>
+</div>
+<div class="thesis-card">
+<p><span class="thesis-tag">Proposta di tesi magistrale · NIR Spectroscopy Bracelet</span></p>
+<section id="optical-myography-for-human-machine-interfaces-from-hand-gestures-to-robotic-hand-control" class="level3">
+<h3 class="anchored" data-anchor-id="optical-myography-for-human-machine-interfaces-from-hand-gestures-to-robotic-hand-control">Optical Myography for Human-Machine Interfaces: From Hand Gestures to Robotic Hand Control</h3>
+<p>Le contrazioni muscolari e i movimenti dei tendini modificano la propagazione della luce nei tessuti dell’avambraccio: la miografia ottica sfrutta queste variazioni per riconoscere le gesture della mano. Partendo da un bracciale già realizzato, con sorgenti e sensori nel vicino infrarosso integrati in un supporto flessibile stampato in 3D, la tesi studia l’interazione luce-tessuto e l’effetto di lunghezze d’onda e geometria di misura, valuta sorgenti e rivelatori per migliorare la qualità del segnale e sviluppa in Python l’acquisizione e gli algoritmi di riconoscimento delle gesture. Il sistema sarà valutato rispetto a postura, riposizionamento e differenze individuali e integrato con il controllo di una mano robotica.</p>
+</section>
+</div>
+<div class="thesis-card">
+<p><span class="thesis-tag">Proposta di tesi magistrale · Angle Closure Glaucoma</span></p>
+<section id="structured-light-ocular-imaging-anterior-chamber-depth-reconstruction-for-glaucoma-screening" class="level3">
+<h3 class="anchored" data-anchor-id="structured-light-ocular-imaging-anterior-chamber-depth-reconstruction-for-glaucoma-screening">Structured-Light Ocular Imaging: Anterior Chamber Depth Reconstruction for Glaucoma Screening</h3>
+<p>La profondità della camera anteriore dell’occhio (<em>Anterior Chamber Depth</em>, ACD) e la sua conformazione periferica sono parametri rilevanti per valutare il rischio di glaucoma da chiusura d’angolo. Il progetto sviluppa algoritmi in Python per elaborare un database di immagini cliniche a luce strutturata multilinea, acquisito su circa 150 pazienti, combinando image processing, machine learning e modellazione della rifrazione per ricostruire il profilo di profondità della camera anteriore. Accuratezza e ripetibilità saranno valutate rispetto ai dati clinici e OCT disponibili.</p>
+</section>
+</div>
+<div class="thesis-card">
+<p><span class="thesis-tag">Proposta di tesi magistrale · Angle Closure Glaucoma</span></p>
+<section id="structured-light-for-glaucoma-screening-development-and-characterization-of-a-dlp-based-ocular-imaging-system" class="level3">
+<h3 class="anchored" data-anchor-id="structured-light-for-glaucoma-screening-development-and-characterization-of-a-dlp-based-ocular-imaging-system">Structured Light for Glaucoma Screening: Development and Characterization of a DLP-Based Ocular Imaging System</h3>
+<p>Evoluzione di un dispositivo già realizzato per la misura della profondità della camera anteriore, basato su un proiettore DLP con acquisizione sincronizzata delle immagini. La tesi caratterizza la qualità dei pattern proiettati, l’illuminazione e la risoluzione del sistema, ottimizza geometria ottica e supporti meccanici per compattezza, allineamento e stabilità, e sviluppa il controllo del proiettore e l’acquisizione tramite Raspberry Pi e Python. Diversi pattern di luce strutturata saranno confrontati verificando sperimentalmente le prestazioni del dispositivo.</p>
+</section>
+</div>
+<div class="thesis-card">
+<p><span class="thesis-tag">Proposta di tesi magistrale · Flexible Sensors for Wearable Application</span></p>
+<section id="design-e-implementazione-di-circuiti-stampati-flessibili-fpcb-per-il-monitoraggio-biomedicale-wireless" class="level3">
+<h3 class="anchored" data-anchor-id="design-e-implementazione-di-circuiti-stampati-flessibili-fpcb-per-il-monitoraggio-biomedicale-wireless">Design e implementazione di circuiti stampati flessibili (FPCB) per il monitoraggio biomedicale wireless</h3>
+<p>Il gruppo ha realizzato un sensore di pH ottico completamente flessibile, in cui il substrato in poliimmide fa anche da filtro ottico e l’elettronica di lettura è integrata direttamente sul circuito flessibile. La tesi estende questa piattaforma verso un patch indossabile multi-sensore con le tecniche dell’elettronica stampata, lavorando, in base agli interessi, su una o più attività: nuovi sensori ottici fluorescenti per glucosio e altri analiti, strain sensor in PEDOT:PSS per movimento e respiro, elettrodi stampati per misure elettrochimiche e di biopotenziali, elettronica on-flex con trasmissione wireless a basso consumo e caratterizzazione con test di piegatura automatizzati, anche in sudore artificiale. Il lavoro si svolge in un team di ingegneri, biologi e chimici, con stampante per elettronica flessibile e banchi di misura automatizzati.</p>
+</section>
+</div>
+<div class="thesis-card">
+<p><span class="thesis-tag">Proposta di tesi magistrale · Real-time monitoring in blood dialysis</span></p>
+<section id="real-time-monitoring-technologies-during-blood-dialysis" class="level3">
+<h3 class="anchored" data-anchor-id="real-time-monitoring-technologies-during-blood-dialysis">Real time monitoring technologies during blood dialysis</h3>
+<p>La dialisi rimuove bene l’urea ma fatica con le tossine uremiche legate alle proteine, come il p-cresil solfato (pCS), oggi misurabili solo in laboratorio con LC-MS/MS a trattamento concluso. Insieme all’Unità di Nefrologia, Dialisi e Trapianto del Policlinico di Modena è stato sviluppato un prototipo opto-elettronico (LED UV, fotodiodo, lock-in) che rileva il pCS nel dialisato esausto, senza contatto con il sangue. La tesi lo porta dal banco alla sala dialisi: progettazione della cella di flusso ottica e del circuito fluidico, ottimizzazione dell’elettronica combinando assorbimento e fluorescenza, caratterizzazione metrologica, modelli di calibrazione anche data-driven e, previa approvazione del Comitato Etico, confronto con LC-MS/MS durante sedute reali di emodiafiltrazione. Parte delle attività si svolge in ospedale.</p>
+</section>
+</div>
+<div class="thesis-card">
+<p><span class="thesis-tag">Proposta di tesi magistrale · Eye Health Monitoring</span></p>
+<section id="technologies-for-eye-health-monitoring" class="level3">
+<h3 class="anchored" data-anchor-id="technologies-for-eye-health-monitoring">Technologies for Eye Health Monitoring</h3>
+<p>La pressione intraoculare è l’unico fattore di rischio modificabile del glaucoma, ma oggi si misura solo durante le visite. Con oculisti e ingegneri di più università si sta sviluppando un sensore LC passivo, ultrasottile e senza batteria, da alloggiare nella cornea e leggere via wireless con occhiali smart. La tesi comprende progettazione e simulazione EM/FEM del risonatore LC, prototipi su substrati flessibili e biocompatibili, elettronica di interrogazione e ottimizzazione dell’accoppiamento induttivo, e un banco di prova con occhio artificiale per la calibrazione tra 10 e 50 mmHg.</p>
+</section>
+</div>
+<div class="thesis-card">
+<p><span class="thesis-tag">Proposta di tesi magistrale · Vision Restoration</span></p>
+<section id="technologies-for-vision-restoration" class="level3">
+<h3 class="anchored" data-anchor-id="technologies-for-vision-restoration">Technologies for Vision Restoration</h3>
+<p>La vision restoration richiede dispositivi indossabili capaci di proiettare sulla retina immagini luminose e precise. Per un dispositivo basato su microdisplay in fase di sviluppo, la tesi affronta l’elettronica di controllo, che deve essere miniaturizzata, a basso consumo e con minima dissipazione termica perché lavora vicino all’occhio: architettura (interfaccia display, alimentazioni, dati), prototipo su PCB o FPGA e firmware, misure di consumi, temperatura, latenza e qualità dell’immagine, fino alle specifiche per un futuro chip dedicato.</p>
+</section>
+</div>
+<div class="thesis-card">
+<p><span class="thesis-tag">Proposta di tesi magistrale · Strabismo</span></p>
+<section id="riabilitazione-sensoriale-gaze-contingent-dello-strabismo-in-ambienti-visivi-naturali-virtuali" class="level3">
+<h3 class="anchored" data-anchor-id="riabilitazione-sensoriale-gaze-contingent-dello-strabismo-in-ambienti-visivi-naturali-virtuali">Riabilitazione sensoriale gaze-contingent dello strabismo in ambienti visivi naturali virtuali</h3>
+<p>Le tecniche di riabilitazione sensoriale gaze-contingent sfruttano la conoscenza in tempo reale della direzione dello sguardo per modulare gli stimoli visivi, compensando o correggendo il disallineamento percettivo tipico dello strabismo. Inserita in un progetto già in corso con visore Pico 4 ed eye-tracker Pupil Neon, la tesi sviluppa stimoli visivi naturali in realtà virtuale (Unity 3D) che affianchino o sostituiscano gli stimoli sintetici tradizionali, per aumentare il coinvolgimento del paziente e la trasferibilità della riabilitazione alla vita quotidiana. Le attività includono il rendering gaze-dependent in tempo reale, la misura e ottimizzazione della latenza motion-to-photon e la raccolta di dati da soggetti sani e strabici.</p>
+</section>
+</div>
+<div class="thesis-card">
+<p><span class="thesis-tag">Proposta di tesi magistrale · Sensor Fusion for Eye Tracking</span></p>
+<section id="sistema-ibrido-electro-oculography-e-pupil-tracking-per-il-tracciamento-del-movimento-oculare" class="level3">
+<h3 class="anchored" data-anchor-id="sistema-ibrido-electro-oculography-e-pupil-tracking-per-il-tracciamento-del-movimento-oculare">Sistema ibrido Electro-OculoGraphy e Pupil Tracking per il tracciamento del movimento oculare</h3>
+<p>Riprogettazione di un sistema di eye-tracking ibrido che combina elettro-oculografia (EOG) e analisi video, superando i limiti emersi in lavori precedenti. Si parte da una revisione critica dell’hardware, con la selezione e il test di nuove schede di acquisizione ed elettrodi (tipologia, materiale, posizionamento) per migliorare rumore, artefatti e banda del segnale EOG; in parallelo la procedura di calibrazione viene riprogettata da zero, sfruttando la fusione dei dati EOG e video. Il lavoro comprende la caratterizzazione dei componenti, sessioni di acquisizione controllate, algoritmi di fusione sensoriale e la valutazione di accuratezza, precisione e latenza rispetto alle soluzioni precedenti.</p>
+</section>
+</div>
+<div class="thesis-card">
+<p><span class="thesis-tag">Proposta di tesi magistrale · Eye Movement Analysis Toolbox</span></p>
+<section id="sviluppo-di-risorse-per-lanalisi-dei-movimenti-oculari" class="level3">
+<h3 class="anchored" data-anchor-id="sviluppo-di-risorse-per-lanalisi-dei-movimenti-oculari">Sviluppo di Risorse per l’Analisi dei Movimenti Oculari</h3>
+<p>La EMA Toolbox (Eye Movement Analysis Toolbox) è oggi un insieme monolitico di funzioni MATLAB per l’analisi dei movimenti oculari. La tesi la ristruttura in moduli indipendenti (acquisizione, preprocessing, fissazioni, saccadi, visualizzazione, export), mantenendola in MATLAB e traducendola in Python per integrarla con l’ecosistema scientifico open-source (NumPy, SciPy, Pandas, MNE). Il nuovo framework sarà validato con dati acquisiti tramite gli eye-tracker Pupil Core e Pupil Neon e con dataset pubblici di letteratura.</p>
+</section>
+</div>
+<div class="thesis-card">
+<p><span class="thesis-tag">Proposta di tesi magistrale · Bio-markers dai movimenti oculari</span></p>
+<section id="estrazione-di-bio-markers-da-dati-di-movimenti-oculari-in-pazienti" class="level3">
+<h3 class="anchored" data-anchor-id="estrazione-di-bio-markers-da-dati-di-movimenti-oculari-in-pazienti">Estrazione di bio-markers da dati di movimenti oculari in pazienti</h3>
+<p>Analisi di un database di movimenti oculari messo a disposizione dall’Istituto Italiano di Tecnologia (IIT), per individuare possibili biomarcatori associati a patologie neurologiche, con particolare riferimento alla sclerosi multipla. I dati dei pazienti saranno confrontati con le performance oculomotorie di soggetti sani, estraendo caratteristiche quantitative dei movimenti oculari e valutandone la capacità di distinguere i due gruppi con metodi statistici e di apprendimento automatico. Richiede buona conoscenza di MATLAB e nozioni di analisi di fissazioni, saccadi e blink.</p>
+</section>
+</div>
+<div class="thesis-card">
+<p><span class="thesis-tag">Proposta di tesi magistrale · Classificazione di attività</span></p>
+<section id="implementazione-di-un-classificatore-di-attività-in-ambienti-naturali" class="level3">
+<h3 class="anchored" data-anchor-id="implementazione-di-un-classificatore-di-attività-in-ambienti-naturali">Implementazione di un classificatore di attività in ambienti naturali</h3>
+<p>Lo sviluppo della miopia può essere influenzato, oltre che da fattori genetici, dalle condizioni ambientali e dalle attività quotidiane. La tesi utilizza il dispositivo MYTA-TECH, sviluppato presso OptoLAB, per acquisire dati durante diverse attività indoor e outdoor, e sviluppa in MATLAB un metodo per classificarli secondo il contesto: ambiente interno o esterno, illuminazione naturale o artificiale, visione da vicino o da lontano, attività sportiva o sedentaria, presenza di display. Il lavoro comprende la definizione delle categorie, la partecipazione a sessioni di raccolta dati e l’implementazione e valutazione del classificatore.</p>
+</section>
+</div>
+</div>
 </details>
 
 <details class="fold">
