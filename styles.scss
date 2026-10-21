@@ -286,6 +286,60 @@ h1, h2, h3 {
   line-height: 1.6;
 }
 
+/* Students: one collapsible card per thesis, showing only tag + title until opened. */
+.thesis-list {
+  display: grid;
+  gap: .9rem;
+  max-width: 1240px;
+  margin: 0 auto 2rem;
+}
+
+.thesis-fold { margin: 0; padding: 0; }
+.thesis-fold > summary {
+  display: block;
+  padding: 1.5rem 3.6rem 1.3rem 1.8rem;
+  cursor: pointer;
+  list-style: none;
+}
+.thesis-fold > summary::-webkit-details-marker { display: none; }
+.thesis-fold > summary::after {
+  content: "+";
+  position: absolute;
+  top: 1.35rem;
+  right: 1.6rem;
+  color: var(--teal);
+  font-size: 1.5rem;
+  line-height: 1;
+}
+.thesis-fold[open] > summary::after { content: "–"; }
+.thesis-fold > summary h3 { margin: 0; }
+.thesis-fold > summary:hover h3 { color: var(--teal); }
+.thesis-fold > :not(summary) { margin: 0 1.8rem 1rem; }
+.thesis-fold > :last-child { margin-bottom: 1.8rem; }
+
+@media (max-width: 600px) {
+  .thesis-fold > summary { padding: 1.3rem 2.8rem 1.1rem 1.1rem; }
+  .thesis-fold > summary::after { right: 1rem; }
+  .thesis-fold > :not(summary) { margin-left: 1.1rem; margin-right: 1.1rem; }
+}
+
+.thesis-figures {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: .9rem;
+  align-items: center;
+  margin-top: 1.4rem;
+}
+.thesis-figures p { margin: 0; }
+.thesis-figures img {
+  display: block;
+  width: 100%;
+  max-height: 320px;
+  object-fit: contain;
+  border-radius: .6rem;
+  background: #fff;
+}
+
 /* Research: "selected work" list under each area heading. */
 .area-papers {
   max-width: 62rem;
@@ -408,6 +462,9 @@ h1, h2, h3 {
 .fold[open] > summary::after { content: "–"; }
 .fold > :not(summary) { margin-left: 1.4rem; margin-right: 1.4rem; }
 .fold > :last-child { margin-bottom: 1.4rem; }
+@media (max-width: 600px) {
+  .fold > :not(summary) { margin-left: .8rem; margin-right: .8rem; }
+}
 
 .collab-cta {
   max-width: 980px;
