@@ -4,7 +4,7 @@
     "href": "students.html",
     "title": "Students",
     "section": "",
-    "text": "Bachelor thesis proposals (Laurea Triennale in Ingegneria Elettronica)\n\nProposte di tesi per la Laurea Triennale in Ingegneria Elettronica. Ogni proposta può essere modulata in base al tempo richiesto e disponibile. Per discuterne, vedi How to apply.\n\n\nProposta di tesi triennale\nStabilisce quanto sono affidabili le misure di diametro pupillare e di direzione dello sguardo fornite da un eye-tracker integrato in un visore VR, al variare dello stimolo luminoso. Il lavoro è diviso in tre blocchi successivi: la misura della luce che il visore invia realmente all’occhio (range dinamico, sensibilità, uniformità e stabilità), la caratterizzazione dell’eye-tracker a diversi livelli di illuminazione e angoli di fissazione e la validazione della misura del diametro pupillare rispetto a un pupillometro di riferimento.\n\n\nProposta di tesi triennale\nMisura le caratteristiche reali dello stimolo luminoso emesso da un prototipo di pupillometro realizzato in laboratorio. Le attività previste riguardano l’intensità (linearità e ripetibilità), il timing di generazione (ritardo tra comando ed emissione, durata dell’impulso, tempi di salita e discesa), la forma del fascio sul piano dell’occhio, lo spettro della sorgente e la stabilità dell’emissione nel tempo. Il risultato è una scheda di caratterizzazione dello stimolo, con le incertezze di misura.\n\n\nProposta di tesi triennale\nCaratterizza un sistema che combina un sensore a tempo di volo (ToF) e una telecamera RGB per misurare la distanza degli oggetti nella scena. Il lavoro è diviso in tre blocchi successivi: il sensore ToF da solo in condizioni controllate (accuratezza, ripetibilità, campo di vista, sensibilità alla luce esterna), la calibrazione geometrica tra ToF e telecamera e la valutazione di un algoritmo di machine learning che stima la profondità dall’immagine RGB rispetto a un ground truth."
+    "text": "Bachelor thesis proposals (Laurea Triennale in Ingegneria Elettronica)\n\n\n\nProposta di tesi triennale\nMisura le caratteristiche reali dello stimolo luminoso emesso da un prototipo di pupillometro realizzato in laboratorio. Le attività previste riguardano l’intensità (linearità e ripetibilità), il timing di generazione (ritardo tra comando ed emissione, durata dell’impulso, tempi di salita e discesa), la forma del fascio sul piano dell’occhio, lo spettro della sorgente e la stabilità dell’emissione nel tempo. Il risultato è una scheda di caratterizzazione dello stimolo, con le incertezze di misura.\n\n\nProposta di tesi triennale\nCaratterizza un sistema che combina un sensore a tempo di volo (ToF) e una telecamera RGB per misurare la distanza degli oggetti nella scena. Il lavoro è diviso in tre blocchi successivi: il sensore ToF da solo in condizioni controllate (accuratezza, ripetibilità, campo di vista, sensibilità alla luce esterna), la calibrazione geometrica tra ToF e telecamera e la valutazione di un algoritmo di machine learning che stima la profondità dall’immagine RGB rispetto a un ground truth."
   },
   {
     "objectID": "students.html#join-us",
@@ -126,18 +126,25 @@
     "text": "OptoLAB hosts Prof. Shervin Shirmohammadi (University of Ottawa) at the University of Modena and Reggio Emilia for the seminar “Measurement in the Age of AI: Fundamentals and Uncertainty Quantification”.\nThursday 17 September 2026, 15:00 - UniMORE AI Center, Via Pietro Vivarelli 2, Modena. For information, contact Luigi Rovati or Alberto Besozzi.\nShervin Shirmohammadi is a Full Professor with the School of Electrical Engineering and Computer Science at the University of Ottawa and Director of the Discover Laboratory, working on AI-assisted measurement and sensing systems. He is an IEEE Fellow, currently serves as President of the IEEE Instrumentation and Measurement Society, was Editor-in-Chief of the IEEE Transactions on Instrumentation and Measurement from 2017 to 2021 and founding Editor-in-Chief of the IEEE Open Journal of Instrumentation and Measurement.\nDownload the seminar announcement (PDF)\n\n\n\nSeminar announcement."
   },
   {
-    "objectID": "news/items/2026-07-26-embc-2026-toronto.html",
-    "href": "news/items/2026-07-26-embc-2026-toronto.html",
-    "title": "OptoLAB at IEEE EMBC 2026 in Toronto",
+    "objectID": "news/items/2026-08-31-photomet-edumet-and-forum-misure.html",
+    "href": "news/items/2026-08-31-photomet-edumet-and-forum-misure.html",
+    "title": "OptoLAB at IMEKO PHOTOMET/EDUMET 2026 and the Forum Nazionale delle Misure",
     "section": "",
-    "text": "Giovanni Gibertoni and Alberto Besozzi took part in EMBC 2026, the 48th Annual International Conference of the IEEE Engineering in Medicine and Biology Society, held at the Metro Toronto Convention Centre in Toronto, Canada, on 26–30 July 2026.\n\n\n\nPresenting “A Charge-Integrated Modular NIR Armband for Forearm Optical Myography” at IEEE EMBC 2026, Metro Toronto Convention Centre."
+    "text": "Giovanni Gibertoni, Daniele Goldoni and Luigi Rovati are attending the joint IMEKO symposium PHOTOMET/EDUMET 2026 - Metrology in Transition: Education, Photonics, and the Impact of AI & Robotics, hosted at Lakeside Park, Alpen-Adria-Universität Klagenfurt, Austria, on 31 August – 2 September 2026. The symposium brings together the two IMEKO technical committees on photonics (TC2) and on education and training in measurement science (TC1).\nThe following week, Luigi Rovati and Davide Cassanelli will take part in the Forum Nazionale delle Misure, the annual national forum organized by GMEE (Gruppo Misure Elettriche ed Elettroniche), held at Università Mediterranea di Reggio Calabria on 7-9 September 2026."
   },
   {
-    "objectID": "news/index.html",
-    "href": "news/index.html",
-    "title": "News",
+    "objectID": "news/items/2026-06-10-mdpi-best-poster-award.html",
+    "href": "news/items/2026-06-10-mdpi-best-poster-award.html",
+    "title": "MDPI Best Poster Award for Alberto Besozzi in Rome",
     "section": "",
-    "text": "Seminar: Shervin Shirmohammadi on measurement in the age of AI\n\n\nThe President of the IEEE Instrumentation and Measurement Society speaks at the UniMORE AI Center on 17 September 2026.\n\n\n\nSep 17, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nOptoLAB at IMEKO PHOTOMET/EDUMET 2026 and the Forum Nazionale delle Misure\n\n\nOptoLAB takes part in the IMEKO symposium in Klagenfurt and, the following week, in the GMEE national measurement forum in Reggio Calabria.\n\n\n\nAug 31, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nOptoLAB at IEEE EMBC 2026 in Toronto\n\n\nGiovanni Gibertoni and Alberto Besozzi presented at the 48th IEEE EMBC.\n\n\n\nJul 26, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nMDPI Best Poster Award for Alberto Besozzi in Rome\n\n\nMYRA-TECH, a wearable device for assessing environmental myopia risk factors, received the MDPI Best Poster Award at the International Summer School on Wearable Sensors.\n\n\n\nJun 10, 2026\n\n\n\n\n\n\nNo matching items"
+    "text": "Alberto Besozzi received the MDPI Best Poster Award at the 3rd edition of the International Summer School on Wearable Sensors, held at Università Campus Bio-Medico di Roma on 8–10 June 2026. The award, sponsored by Applied Sciences, an open-access journal published by MDPI, was assigned by the school’s Scientific Committee to the poster receiving the highest overall evaluation.\nThe winning poster, MYRA-TECH: Myopia Risk Assessment TECHnologies, presents an ergonomic head-worn device for continuously monitoring a child’s visual environment. It combines multichannel spectrometers for ambient light spectrum and intensity, an 8×8 time-of-flight sensor and an RGB camera for measuring viewing distances at high spatial resolution, and an inertial measurement unit for activity classification, all battery powered, for a full day of measurement.\n\n\n\nAlberto Besozzi receives the MDPI Best Poster Award at the International Summer School on Wearable Sensors, Università Campus Bio-Medico di Roma.\n\n\n\n\n\nThe awarded poster, MYRA-TECH: Myopia Risk Assessment TECHnologies, and the award certificate."
+  },
+  {
+    "objectID": "index.html#a-measurement-challenge-is-a-good-place-to-start.",
+    "href": "index.html#a-measurement-challenge-is-a-good-place-to-start.",
+    "title": "Light measurement and beyond",
+    "section": "A measurement challenge is a good place to start.",
+    "text": "A measurement challenge is a good place to start.\nWe welcome conversations with academic and industrial partners working at the intersection of biomedical optics, sensing and research instrumentation.\nContact the lab"
   },
   {
     "objectID": "about-us.html",
@@ -161,25 +168,25 @@
     "text": "Contact us\nOptoLAB welcomes enquiries about scientific collaboration, technology development, student projects and shared research questions in biomedical optics and instrumentation.\n\n\n\n\nProf. Luigi Rovati\nOptoLAB lead and main contact\nluigi.rovati@unimore.it\n\n\n\nDepartment of Engineering “Enzo Ferrari” University of Modena and Reggio Emilia\nAddress Via Pietro Vivarelli 10, Building 26, Ground Floor, Room MO26-00-030 41125 Modena, Italy\nPublic profiles OptoLAB on ResearchGate\nMap and directions Open the OptoLAB location in Google Maps"
   },
   {
-    "objectID": "index.html#a-measurement-challenge-is-a-good-place-to-start.",
-    "href": "index.html#a-measurement-challenge-is-a-good-place-to-start.",
-    "title": "Light measurement and beyond",
-    "section": "A measurement challenge is a good place to start.",
-    "text": "A measurement challenge is a good place to start.\nWe welcome conversations with academic and industrial partners working at the intersection of biomedical optics, sensing and research instrumentation.\nContact the lab"
+    "objectID": "news/index.html",
+    "href": "news/index.html",
+    "title": "News",
+    "section": "",
+    "text": "Seminar: Shervin Shirmohammadi on measurement in the age of AI\n\n\nThe President of the IEEE Instrumentation and Measurement Society speaks at the UniMORE AI Center on 17 September 2026.\n\n\n\nSep 17, 2026\n\n\n\n\n\n\n\n\n\n\n\nDaniele Goldoni awarded for his PhD thesis at the Forum Nazionale delle Misure\n\n\nDaniele Goldoni’s PhD thesis receives an award at the 2026 Forum Nazionale delle Misure in Reggio Calabria.\n\n\n\nSep 7, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nOptoLAB at IMEKO PHOTOMET/EDUMET 2026 and the Forum Nazionale delle Misure\n\n\nOptoLAB takes part in the IMEKO symposium in Klagenfurt and, the following week, in the GMEE national measurement forum in Reggio Calabria.\n\n\n\nAug 31, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nOptoLAB at IEEE EMBC 2026 in Toronto\n\n\nGiovanni Gibertoni and Alberto Besozzi presented at the 48th IEEE EMBC.\n\n\n\nJul 26, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nMDPI Best Poster Award for Alberto Besozzi in Rome\n\n\nMYRA-TECH, a wearable device for assessing environmental myopia risk factors, received the MDPI Best Poster Award at the International Summer School on Wearable Sensors.\n\n\n\nJun 10, 2026\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "news/items/2026-06-10-mdpi-best-poster-award.html",
-    "href": "news/items/2026-06-10-mdpi-best-poster-award.html",
-    "title": "MDPI Best Poster Award for Alberto Besozzi in Rome",
+    "objectID": "news/items/2026-07-26-embc-2026-toronto.html",
+    "href": "news/items/2026-07-26-embc-2026-toronto.html",
+    "title": "OptoLAB at IEEE EMBC 2026 in Toronto",
     "section": "",
-    "text": "Alberto Besozzi received the MDPI Best Poster Award at the 3rd edition of the International Summer School on Wearable Sensors, held at Università Campus Bio-Medico di Roma on 8–10 June 2026. The award, sponsored by Applied Sciences, an open-access journal published by MDPI, was assigned by the school’s Scientific Committee to the poster receiving the highest overall evaluation.\nThe winning poster, MYRA-TECH: Myopia Risk Assessment TECHnologies, presents an ergonomic head-worn device for continuously monitoring a child’s visual environment. It combines multichannel spectrometers for ambient light spectrum and intensity, an 8×8 time-of-flight sensor and an RGB camera for measuring viewing distances at high spatial resolution, and an inertial measurement unit for activity classification, all battery powered, for a full day of measurement.\n\n\n\nAlberto Besozzi receives the MDPI Best Poster Award at the International Summer School on Wearable Sensors, Università Campus Bio-Medico di Roma.\n\n\n\n\n\nThe awarded poster, MYRA-TECH: Myopia Risk Assessment TECHnologies, and the award certificate."
+    "text": "Giovanni Gibertoni and Alberto Besozzi took part in EMBC 2026, the 48th Annual International Conference of the IEEE Engineering in Medicine and Biology Society, held at the Metro Toronto Convention Centre in Toronto, Canada, on 26–30 July 2026.\n\n\n\nPresenting “A Charge-Integrated Modular NIR Armband for Forearm Optical Myography” at IEEE EMBC 2026, Metro Toronto Convention Centre."
   },
   {
-    "objectID": "news/items/2026-08-31-photomet-edumet-and-forum-misure.html",
-    "href": "news/items/2026-08-31-photomet-edumet-and-forum-misure.html",
-    "title": "OptoLAB at IMEKO PHOTOMET/EDUMET 2026 and the Forum Nazionale delle Misure",
+    "objectID": "news/items/2026-09-07-goldoni-phd-thesis-award.html",
+    "href": "news/items/2026-09-07-goldoni-phd-thesis-award.html",
+    "title": "Daniele Goldoni awarded for his PhD thesis at the Forum Nazionale delle Misure",
     "section": "",
-    "text": "Giovanni Gibertoni, Daniele Goldoni and Luigi Rovati are attending the joint IMEKO symposium PHOTOMET/EDUMET 2026 - Metrology in Transition: Education, Photonics, and the Impact of AI & Robotics, hosted at Lakeside Park, Alpen-Adria-Universität Klagenfurt, Austria, on 31 August – 2 September 2026. The symposium brings together the two IMEKO technical committees on photonics (TC2) and on education and training in measurement science (TC1).\nThe following week, Luigi Rovati and Davide Cassanelli will take part in the Forum Nazionale delle Misure, the annual national forum organized by GMEE (Gruppo Misure Elettriche ed Elettroniche), held at Università Mediterranea di Reggio Calabria on 7-9 September 2026."
+    "text": "Daniele Goldoni, post-doctoral researcher at OptoLAB, has received an award for his PhD thesis at the Forum Nazionale delle Misure, the annual national forum organized by GMEE (Gruppo Misure Elettriche ed Elettroniche), held at Università Mediterranea di Reggio Calabria on 7-9 September 2026.\nMore details about the award and the thesis will follow."
   },
   {
     "objectID": "projects/index.html",
