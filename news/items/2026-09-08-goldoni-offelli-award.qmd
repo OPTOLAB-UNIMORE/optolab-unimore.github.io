@@ -1,0 +1,13 @@
+---
+title: "Daniele Goldoni wins the 2026 \"C. Offelli\" PhD Award"
+description: "Daniele Goldoni receives the GMEE \"C. Offelli\" PhD Award 2026 for his doctoral thesis, at the Forum Nazionale delle Misure in Reggio Calabria."
+canonical-url: "https://optolab-unimore.github.io/news/items/2026-09-08-goldoni-offelli-award.html"
+date: 2026-09-08
+categories: [Award]
+aliases:
+  - 2026-09-07-goldoni-phd-thesis-award.html
+---
+
+Daniele Goldoni, post-doctoral researcher at OptoLAB, has received the **Premio di Dottorato di Ricerca "C. Offelli" 2026**, the award that GMEE (Gruppo Misure Elettriche ed Elettroniche) gives to the best Italian PhD thesis in electrical and electronic measurements. The award was presented on 8 September 2026 at the **Forum Nazionale delle Misure**, held at Università Mediterranea di Reggio Calabria on 7-9 September 2026.
+
+The award recognizes his doctoral thesis, *Emerging Environmental and Biomedical Applications of Advanced Integrated Nanoelectrode Array Sensing Platform*.
