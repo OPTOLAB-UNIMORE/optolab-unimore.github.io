@@ -23,20 +23,7 @@ and the Markdown between the two raw-HTML fences shows when expanded:
 Proposals for the bachelor's degree are written in Italian.
 -->
 
-Proposte di tesi per la Laurea Triennale in Ingegneria Elettronica. Ogni proposta può essere modulata in base al tempo richiesto e disponibile. Per discuterne, vedi [How to apply](#how-to-apply).
-
 ::: {.thesis-list}
-```{=html}
-<details class="thesis-card thesis-fold">
-<summary><span class="thesis-tag">Proposta di tesi triennale</span><h3>Caratterizzazione metrologica di un sistema integrato eye-tracker e visore di realtà virtuale per la misura del diametro pupillare e della stabilità dello sguardo</h3></summary>
-```
-
-Stabilisce quanto sono affidabili le misure di diametro pupillare e di direzione dello sguardo fornite da un eye-tracker integrato in un visore VR, al variare dello stimolo luminoso. Il lavoro è diviso in tre blocchi successivi: la misura della luce che il visore invia realmente all'occhio (range dinamico, sensibilità, uniformità e stabilità), la caratterizzazione dell'eye-tracker a diversi livelli di illuminazione e angoli di fissazione e la validazione della misura del diametro pupillare rispetto a un pupillometro di riferimento.
-
-```{=html}
-</details>
-```
-
 ```{=html}
 <details class="thesis-card thesis-fold">
 <summary><span class="thesis-tag">Proposta di tesi triennale</span><h3>Caratterizzazione dello stimolo luminoso di un pupillometro da laboratorio: intensità, timing e profilo del fascio</h3></summary>
@@ -74,8 +61,6 @@ Adding a proposal: same block shape as the bachelor proposals above, with
   - the paragraph a two- to four-sentence description of the work
   - images        ::: {.thesis-figures} with one ![](assets/images/thesis-<slug>.jpg){fig-alt="alt"} per line
 -->
-
-Proposte di tesi per la Laurea Magistrale. Ogni proposta può essere modulata in base agli interessi e al tempo disponibile. Per discuterne, vedi [How to apply](#how-to-apply).
 
 ::: {.thesis-list}
 ```{=html}
@@ -300,6 +285,17 @@ Keep the most recent first, and publish no student or supervisor names.
 *Summary to follow once the thesis is complete.*
 </details>
 -->
+
+```{=html}
+<details class="thesis-card thesis-fold">
+<summary><span class="thesis-tag">Bachelor's thesis · Electronic Engineering · April 2027</span><h3>Caratterizzazione metrologica di un sistema integrato eye-tracker e visore di realtà virtuale per la misura del diametro pupillare e della stabilità dello sguardo</h3></summary>
+```
+
+Stabilisce quanto sono affidabili le misure di diametro pupillare e di direzione dello sguardo fornite da un eye-tracker integrato in un visore VR, al variare dello stimolo luminoso. Il lavoro è diviso in tre blocchi successivi: la misura della luce che il visore invia realmente all'occhio (range dinamico, sensibilità, uniformità e stabilità), la caratterizzazione dell'eye-tracker a diversi livelli di illuminazione e angoli di fissazione e la validazione della misura del diametro pupillare rispetto a un pupillometro di riferimento.
+
+```{=html}
+</details>
+```
 
 ```{=html}
 <details class="thesis-card thesis-fold">
